@@ -1,0 +1,462 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --brandColor: #fcb800;
+  --secondColor: #fff500;
+  --thirdColor: #7e0000;
+  --whatsappLight: #25d366;
+  --whatsappDark: #128c7e;
+  --footerBg: #f2f2f2;
+
+  --facebook: #4169e1;
+  --twitter: #00bfff;
+  --youtube: #ff0000;
+  --linkedin: #0077b5;
+  --pintrest: #e60023;
+  --instagram: #e95950;
+
+  --searchBoxRadius: 2rem;
+}
+
+ul li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+body {
+  color: black;
+}
+
+/* ====================================================================header css */
+/* logoBox */
+header {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 2;
+}
+header .topNav {
+  width: 100%;
+}
+
+header .logoBox {
+  max-width: 250px;
+}
+header .logoBox img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+/* search Box */
+header .searchBox {
+  width: 100%;
+}
+header .searchBox input {
+  border: 1px solid rgb(138, 138, 138);
+  width: 100%;
+  padding: 0.5rem 0.6rem;
+  outline: none;
+  border-radius: var(--searchBoxRadius) 0 0 var(--searchBoxRadius);
+}
+header .searchBox button {
+  border-radius: 0 var(--searchBoxRadius) var(--searchBoxRadius) 0;
+  padding: 0.4rem 1rem;
+  font-size: 1.2rem;
+  color: white;
+  border: 1px solid rgb(138, 138, 138);
+  background-color: var(--brandColor);
+  border-left: none;
+}
+/* freeSEOToolsContainer */
+.freeSEOToolsContainer{
+    display: flex;
+    flex-direction: column;
+    font-size: 0.9rem;
+}
+.freeSEOToolsContainer span{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.freeSEOToolsContainer .freeSeoToolsLinks a{
+  background-color: var(--brandColor);
+  padding: 0.4rem;
+  border-radius: 0.2rem;
+  font-weight: 600;
+  border: 2px solid var(--brandColor);
+  transition: 300ms;
+}
+.freeSEOToolsContainer .freeSeoToolsLinks a:hover{
+ opacity: 0.8;
+
+}
+/* callBox */
+header .callBox {
+  min-width: 150px;
+  display: flex;
+  justify-content: center;
+}
+header .callBox a i {
+  font-size: 2rem;
+}
+header .callBox a .callBoxDetail span {
+  line-height: 1.2;
+  font-size: 14px;
+}
+header .callBox a .callBoxDetail span:nth-child(1) {
+  font-weight: 300;
+}
+header .callBox a .callBoxDetail span:nth-child(2) {
+  font-weight: 600;
+}
+.mobileNoInPhoneView{
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.menuBar {
+  font-size: 0.9rem;
+  width: 100%;
+}
+.nav-item > a {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.dropdown-menu a {
+  font-size: 14px;
+}
+.dropdown-menu .dropdown-toggle {
+  font-weight: bold;
+}
+.dropdown-menu a:hover {
+  color: var(--brandColor);
+}
+.dropdown-menu {
+  border-bottom: 2px solid var(--brandColor);
+}
+nav {
+  width: 100%;
+}
+.navbar-nav {
+  background-color: var(--brandColor);
+}
+/* =========================================================heroSection css */
+
+.heroMenu {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  padding: 0.5rem;
+  /* border-radius: 0.5rem; */
+  width: 100%;
+  background-color: white;
+  border-bottom: 2px solid var(--brandColor);
+  border-top: 2px solid var(--brandColor);
+  margin: 1rem auto;
+  box-shadow: 2px 2px 5px black;
+}
+.heroMenu .heroMenuList {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  font-size: 0.9rem;
+}
+.heroMenu .heroMenuList span::after {
+  content: "\021C1";
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.heroMenu .heroMenuList .heroSubMenuList {
+  /* display: none; */
+  flex-direction: column;
+  position: absolute;
+  top: 0%;
+  left: 100%;
+  z-index: 2;
+  background-color: white;
+  padding: 1rem;
+  min-width: 300px;
+  gap: 0.5rem;
+  font-size: 0.8rem;
+  border-bottom: 2px solid var(--brandColor);
+  border-top: 2px solid var(--brandColor);
+  display: flex;
+  visibility: hidden;
+  transform: translateX(50%);
+  transition: 300ms;
+  opacity: 0;
+}
+
+.heroMenu .heroMenuList:hover .heroSubMenuList {
+  visibility: visible;
+  opacity: 1;
+  transform: translateX(0%);
+}
+.heroMenu .heroMenuList:hover .heroSubMenuList a:hover {
+  color: var(--brandColor);
+}
+.heroMenu .heroMenuList:hover span {
+  color: var(--brandColor);
+}
+
+.heroMenu a:hover {
+  color: var(--brandColor);
+}
+
+/* heroSectionSlideContainer */
+.heroSectionSlideContainer {
+  padding: 0;
+}
+.heroSectionSlideContainer .heroSlide {
+  position: relative;
+  min-height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem a;
+}
+.heroSectionSlideContainer .heroSlide img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+.heroSectionSlideContainer .heroSlide .heroContentBox {
+  display: flex;
+  flex-direction: column;
+  color: var(--brandColor);
+  background-color: rgba(0, 0, 0, 0.815);
+  text-align: center;
+  border: 5px solid var(--brandColor);
+  box-shadow: 2px 2px 5px var(--brandColor);
+  padding: 0.5rem;
+}
+.heroSectionSlideContainer .heroSlide .heroContentBox h2 {
+  font-size: max(5vw, 2rem);
+}
+.heroSectionSlideContainer .heroSlide .heroContentBox .contentKey {
+  font-size: max(7vw, 3rem);
+  font-weight: 900;
+}
+.heroSectionSlideContainer .heroSlide .heroContentBox span {
+  text-transform: capitalize;
+}
+/* hero splider css */
+.splide__pagination__page {
+  background-color: var(--secondColor);
+}
+.splide__pagination__page.is-active {
+  background-color: var(--brandColor);
+  border: 1px solid white;
+}
+.splide__arrow {
+  background-color: var(--brandColor);
+}
+.splide__arrow svg {
+  fill: white;
+}
+
+/* ============================================================breadCrubmContainer css */
+.breadCrubmContainer {
+  display: flex;
+  background-color: var(--footerBg);
+  color: black;
+  gap: 0.6rem;
+  padding: 1rem 1rem;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.breadCrubmContainer a:hover {
+  color: var(--brandColor);
+}
+
+/* ================================================================product details */
+.productContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.productContainer .productImgBox {
+  flex: 1;
+  max-height: 400px;
+  min-width: 300px;
+}
+.productContainer .productImgBox img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.productContainer .productAllDetailsContianer {
+  flex: 1;
+}
+.productContainer .productAllDetailsContianer .addToCartContianer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 1rem;
+  align-items: center;
+}
+.productContainer
+  .productAllDetailsContianer
+  .addToCartContianer
+  .QuantityBox
+  button {
+  border-radius: 0;
+  font-size: 1.8rem;
+  color: black;
+  width: 40px;
+  height: 40px;
+  font-weight: 600;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.productContainer
+  .productAllDetailsContianer
+  .addToCartContianer
+  .QuantityBox
+  button:hover {
+  color: white;
+}
+.productContainer
+  .productAllDetailsContianer
+  .addToCartButtonsContainer
+  button {
+  border-radius: 0;
+}
+.productContainer
+  .productAllDetailsContianer
+  .addToCartButtonsContainer
+  button:first-child {
+  background-color: black;
+  color: white;
+}
+.productContainer
+  .productAllDetailsContianer
+  .compareAndWatchListContainer
+  a:hover {
+  color: var(--brandColor);
+}
+.productContainer .productAllDetailsContianer * {
+  text-transform: capitalize;
+}
+
+.tabsContainer .tabGroup .tab {
+  text-transform: capitalize;
+  font-weight: bold;
+  background-color: var(--brandColor);
+  border: 2px solid transparent;
+  color: black;
+  padding: 0.4rem 0.5rem;
+  cursor: pointer;
+}
+.tabsContainer .tabGroup .tab:hover,
+.tabsContainer .tabGroup .tab.active {
+  background-color: transparent;
+  border: 2px solid var(--brandColor);
+}
+.tabsContainer .tabsDataContiner div {
+  display: none;
+}
+.tabsContainer .tabsDataContiner div.active {
+  display: block;
+}
+/* product productSideBar */
+.productSideBar .shippingInfoContianer {
+  background-color: var(--footerBg);
+}
+.productSideBar .shippingInfoContianer .infoBox span {
+  font-weight: 500;
+}
+
+/* ==============================================================services section  */
+.serviceCard {
+  border: 2px solid var(--brandColor);
+  min-height: 540px;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+.serviceCard .iconBox {
+  font-size: 80px;
+  font-weight: 600;
+  color: white;
+  background-color: var(--brandColor);
+  padding-bottom: 1rem;
+}
+.serviceCard .serviceButtonBox a i{
+ font-size: 1.5rem;
+}
+.serviceCard .serviceButtonBox a:nth-child(1){
+ background-color: var(--whatsappDark);
+ color: white;
+}
+.serviceCard .serviceButtonBox a:nth-child(2){
+ background-color:red;
+ color: white;
+}
+
+/* ============================================================footer section css */
+.footer {
+  background-color: var(--footerBg);
+  border-top: 2px solid var(--brandColor);
+}
+.footerContent .phoneNumber {
+  color: blue;
+  font-size: min(5vw, 1.5rem);
+  font-weight: bold;
+}
+.footerContent p {
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.671);
+}
+.footerContent p strong {
+  color: black;
+}
+
+.footerLinks li a:hover {
+  color: var(--brandColor);
+}
+.footerLinks li {
+  margin-bottom: 0.6rem;
+  color: rgba(0, 0, 0, 0.671);
+}
+.footerImageBox {
+  width: 100%;
+}
+.footerImageBox:nth-child(3) img {
+  max-width: 200px;
+}
+.footerBottom {
+  border-top: 2px solid rgb(224, 224, 224);
+}
+.footerBottomContent p a:hover {
+  color: var(--brandColor);
+}
+.footerImageBox img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.footerBottomImageBox img {
+  max-width: 200px;
+  object-fit: contain;
+}

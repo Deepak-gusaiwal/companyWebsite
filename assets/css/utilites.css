@@ -1,0 +1,127 @@
+/* whatsappButtonRound */
+.whatsappButtonRound{
+    min-width: 50px;
+    min-height: 50px;
+    font-size: 1.8rem;
+    border-radius: 100%;
+    background-color: var(--whatsappLight);
+    box-shadow: 2px 2px 5px black;
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    padding-top: 0.2rem;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    transition: 200ms;
+    color: white;
+}
+.whatsappButtonRound::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+   background-color:var(--whatsappDark);
+   z-index: -1;
+   transform: scale(0);
+   transition: 100ms;
+   border-radius: 100%;
+}
+.whatsappButtonRound:hover::before{
+    transform: scale(1);
+}
+.whatsappButtonRound:hover i{
+    transform: scale(1.1);
+}
+
+/* footer Title */
+.footerTitle{
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+/* banner section */
+.bannerSection{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--footerBg);
+    padding: 1rem;
+}
+.bannerSection h3{
+background-color: var(--brandColor);
+width: 100%;
+padding: 0.3rem 0.6rem;
+text-align: center;
+font-size: max(3vw,2rem);
+width: max(80%,270px);
+}
+
+/* social LInks css */
+ .socialLinks a{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    background-color: white;
+    }
+     .socialLinks a i{
+        font-size: 1.2rem;
+        transition: 200ms;
+    }
+     .socialLinks a:nth-child(1) i{
+      color: var(--facebook);
+    }
+     .socialLinks a:nth-child(2) i{
+      color: var(--twitter);
+    }
+     .socialLinks a:nth-child(3) i{
+      color: var(--youtube);
+    }
+     .socialLinks a:nth-child(4) i{
+      color: var(--linkedin);
+    }
+     .socialLinks a:nth-child(5) i{
+      color: var(--pintrest);
+    }
+     .socialLinks a:nth-child(6) i{
+      color: var(--instagram);
+    }
+     .socialLinks a:nth-child(7) i{
+      color: var(--whatsappLight);
+    }
+     .socialLinks a:hover i{
+        font-size: 1.5rem;
+        color: var(--brandColor);
+    }
+
+    /* sticky buttons */
+    .whatsappStickyButton,
+    .callStcikyButton{
+      width: 50px;
+      height: 50px;
+      background-color: red;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 2rem;
+      color: white;
+      border-radius: 100%;
+      box-shadow: 2px 2px 5px black;
+    }
+    .whatsappStickyButton{
+      position: fixed;
+      background-color: var(--whatsappLight);
+      right: 15px;
+      bottom: 15px;
+    }
+    .callStcikyButton{
+      position: fixed;
+      left: 15px;
+      bottom: 15px;
+    }

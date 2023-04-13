@@ -1,0 +1,18 @@
+/* navbar  */
+.navbar-nav{
+    background-color: transparent;
+}
+
+/* hero section css */
+.heroSectionSlideContainer{
+   height: 200px;
+   }
+   .heroSectionSlideContainer .heroSlide{
+    min-height: 200px;
+   }
+
+   /* product section */
+   /* tabs Container */
+.tabsContainer .tabGroup{
+    overflow-x: scroll;
+}
