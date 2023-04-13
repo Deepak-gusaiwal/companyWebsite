@@ -1,3 +1,6 @@
 header .logoBox{
     max-width: 160px;
 }
+.mobileBottomLinks{
+    display: flex;
+}

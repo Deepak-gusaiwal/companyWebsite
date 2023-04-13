@@ -48,16 +48,17 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: var(--footerBg);
     padding: 1rem;
 }
-.bannerSection h3{
-background-color: var(--brandColor);
+.bannerSection h1{
 width: 100%;
 padding: 0.3rem 0.6rem;
 text-align: center;
 font-size: max(3vw,2rem);
 width: max(80%,270px);
+border-bottom: 2px solid black;
+width: fit-content;
+font-weight: bold;
 }
 
 /* social LInks css */

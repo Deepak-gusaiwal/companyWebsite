@@ -23,7 +23,10 @@
 
   --searchBoxRadius: 2rem;
 }
-
+ul{
+  padding: 0;
+  margin: 0;
+}
 ul li {
   list-style: none;
 }
@@ -38,9 +41,12 @@ img {
 }
 body {
   color: black;
+  font-family:Calibri;
 }
 
 /* ====================================================================header css */
+
+/* nav top css */
 /* logoBox */
 header {
   position: sticky;
@@ -83,22 +89,27 @@ header .searchBox button {
 /* freeSEOToolsContainer */
 .freeSEOToolsContainer{
     display: flex;
-    flex-direction: column;
     font-size: 0.9rem;
+    align-items: center;
 }
 .freeSEOToolsContainer span{
     font-weight: bold;
-    text-transform: uppercase;
+    text-transform: capitalize;
+    font-size: 1.1rem;
+    padding-right: 4px;
 }
-.freeSEOToolsContainer .freeSeoToolsLinks a{
+.freeSEOToolsContainer a{
   background-color: var(--brandColor);
   padding: 0.4rem;
-  border-radius: 0.2rem;
+  border-radius: 2rem;
   font-weight: 600;
   border: 2px solid var(--brandColor);
   transition: 300ms;
+  text-align: center;
+  border: 2px solid white;
+  box-shadow: 2px 2px 5px black;
 }
-.freeSEOToolsContainer .freeSeoToolsLinks a:hover{
+.freeSEOToolsContainer a:hover{
  opacity: 0.8;
 
 }
@@ -107,114 +118,178 @@ header .callBox {
   min-width: 150px;
   display: flex;
   justify-content: center;
+  align-items: center;
+}
+header .callBox a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
 }
 header .callBox a i {
   font-size: 2rem;
 }
-header .callBox a .callBoxDetail span {
-  line-height: 1.2;
-  font-size: 14px;
+header .callBox .callBoxDetail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.3rem;
 }
-header .callBox a .callBoxDetail span:nth-child(1) {
-  font-weight: 300;
+header .callBox a .callBoxPhoneNumber {
+  font-size: 1.3rem;
+font-weight: 600;
+line-height: 0.6;
 }
-header .callBox a .callBoxDetail span:nth-child(2) {
-  font-weight: 600;
-}
+
 .mobileNoInPhoneView{
     font-size: 0.8rem;
     font-weight: 600;
 }
-
-.menuBar {
-  font-size: 0.9rem;
-  width: 100%;
+/* mobile Nav */
+nav.mobileNav{
+  display: none;
 }
-.nav-item > a {
-  text-transform: uppercase;
-  font-weight: bold;
-}
-.dropdown-menu a {
-  font-size: 14px;
-}
-.dropdown-menu .dropdown-toggle {
-  font-weight: bold;
-}
-.dropdown-menu a:hover {
-  color: var(--brandColor);
-}
-.dropdown-menu {
-  border-bottom: 2px solid var(--brandColor);
-}
-nav {
-  width: 100%;
-}
-.navbar-nav {
+/* navbar / menubar css */
+nav{
   background-color: var(--brandColor);
-}
-/* =========================================================heroSection css */
-
-.heroMenu {
+  color: black;
   display: flex;
-  flex-direction: column;
-  gap: 0.6rem;
-  padding: 0.5rem;
-  /* border-radius: 0.5rem; */
+  justify-content: center;
+  align-items: center;
   width: 100%;
-  background-color: white;
-  border-bottom: 2px solid var(--brandColor);
-  border-top: 2px solid var(--brandColor);
-  margin: 1rem auto;
-  box-shadow: 2px 2px 5px black;
-}
-.heroMenu .heroMenuList {
-  display: flex;
-  flex-direction: column;
   position: relative;
-  font-size: 0.9rem;
+  padding: 0.5rem 1rem;
 }
-.heroMenu .heroMenuList span::after {
-  content: "\021C1";
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-.heroMenu .heroMenuList .heroSubMenuList {
-  /* display: none; */
-  flex-direction: column;
-  position: absolute;
-  top: 0%;
-  left: 100%;
-  z-index: 2;
-  background-color: white;
-  padding: 1rem;
-  min-width: 300px;
-  gap: 0.5rem;
-  font-size: 0.8rem;
-  border-bottom: 2px solid var(--brandColor);
-  border-top: 2px solid var(--brandColor);
+nav .navLinksContainer{
   display: flex;
-  visibility: hidden;
-  transform: translateX(50%);
-  transition: 300ms;
-  opacity: 0;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 0;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+}
+.navLink{
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 0.4rem;
+  border-radius: 0.2rem;
+  transition: 200ms;
+  font-size: 1.1rem;
+}
+.navLink:hover{
+ opacity: 0.8;
+ background-color: #e2a808;
 }
 
-.heroMenu .heroMenuList:hover .heroSubMenuList {
+/* normal Drop Down Menu */
+.dropDownToggle{
+  position: relative;
+}
+.dropDownToggle .dropMenuContainer{
+position: absolute;
+top: 110%;
+left: 50%;
+transform: translateX(-50%);
+background-color: white;
+padding: 1rem;
+display: flex;
+gap: 1rem;
+width: 270px;
+visibility: hidden;
+opacity: 0;
+transition: 300ms;
+border-bottom: 2px solid var(--brandColor);
+}
+.dropDownToggle:hover .dropMenuContainer{
   visibility: visible;
   opacity: 1;
-  transform: translateX(0%);
+  top: 100%;
 }
-.heroMenu .heroMenuList:hover .heroSubMenuList a:hover {
+.dropDownToggle .dropMenuContainer .dropMenu{
+display: flex;
+flex-direction: column;
+}
+.dropDownToggle .dropMenuContainer .dropMenu span{
+text-transform: capitalize;
+font-weight: 600;
+font-size: 1.1rem;
+}
+.dropDownToggle .dropMenuContainer .dropMenu .dropDownLinks{
+display: flex;
+flex-direction: column;
+}
+
+.navLinksContainer li:hover a.navLink{
+  background-color:#e2a808 ;
+}
+
+.dropMenu a:hover{
   color: var(--brandColor);
+
 }
-.heroMenu .heroMenuList:hover span {
+/* mega Drop Down */
+.megaContainer{
+  position: absolute;
+  top: 110%;
+  left: 0;
+  width: 100%;
+  max-height: 600px;
+  background-color: white;
+  border-bottom: 2px solid var(--brandColor);
+  padding: 1rem;
+  visibility: hidden;
+  opacity: 0;
+  transition: 300ms;
+  overflow-y: scroll;
+  display: flex;
+}
+/* mega left Box */
+.megaContainer .megaBoxLeft{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.megaContainer .megaBoxLeft .megaContentBox h5{
+  font-size: 1.2rem;
+  font-weight: 600;
+ }
+ /* mega right Box */
+.megaContainer .megaBoxRight{
+  flex: 3;
+}
+.megaContainer .megaBoxRight h5{
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+.megaContainer .megaBoxRight .megaBoxRightWrapper{
+ display: flex;
+ justify-content: space-between;
+}
+/* mega links */
+.megaLinksBox{
+  text-transform: capitalize;
+}
+.megaLinksBox a:hover{
   color: var(--brandColor);
 }
 
-.heroMenu a:hover {
-  color: var(--brandColor);
+
+
+.navLinksContainer li:hover .megaContainer,
+.navLinksContainer li:hover .dropMenu
+{
+  visibility: visible;
+  opacity: 1;
+  top: 100%;
 }
+
+
+/* =========================================================heroSection css */
 
 /* heroSectionSlideContainer */
 .heroSectionSlideContainer {
@@ -390,28 +465,44 @@ nav {
 /* ==============================================================services section  */
 .serviceCard {
   border: 2px solid var(--brandColor);
-  min-height: 540px;
+  min-height: 400px;
   border-radius: 1rem;
   overflow: hidden;
 }
 .serviceCard .iconBox {
-  font-size: 80px;
+  font-size: 50px;
   font-weight: 600;
   color: white;
   background-color: var(--brandColor);
-  padding-bottom: 1rem;
 }
 .serviceCard .serviceButtonBox a i{
  font-size: 1.5rem;
 }
+.serviceCard .serviceContentBox p{
+ font-size: 0.9rem;
+}
+.serviceCard .serviceButtonBox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+.serviceCard .serviceButtonBox a{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
 .serviceCard .serviceButtonBox a:nth-child(1){
  background-color: var(--whatsappDark);
  color: white;
+
 }
 .serviceCard .serviceButtonBox a:nth-child(2){
  background-color:red;
  color: white;
 }
+
 
 /* ============================================================footer section css */
 .footer {
@@ -460,3 +551,44 @@ nav {
   max-width: 200px;
   object-fit: contain;
 }
+
+
+
+    /* mobileBottomLinks */
+    .mobileBottomLinks{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: white;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      padding: 0.5rem;
+      display: none;
+    }
+
+    .mobileBottomLinks a{
+      width: 100%;
+      padding-block: 0.6rem;
+      background-color: var(--whatsappLight);
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 2rem;
+    }
+    .mobileBottomLinks a:nth-child(2){
+      background-color: var(--youtube);
+    }
+    .mobileBottomLinks a:nth-child(3){
+      background-color: var(--twitter);
+    }
+    .mobileBottomLinks a:nth-child(4){
+      background-color: var(--linkedin);
+    }
+
+
+
+
+
