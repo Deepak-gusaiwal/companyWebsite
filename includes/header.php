@@ -602,7 +602,7 @@ $normalNavLinks = [
 <header class="d-flex flex-column justify-content-between align-items-center p-0">
 
   <div
-    class="topNav d-flex justify-content-md-start justify-content-between align-items-center px-md-4 px-2 py-2 gap-md-3 gap-2 flex-md-nowrap flex-wrap">
+    class="topNav d-flex  justify-content-between align-items-center px-md-4 px-2 py-2 gap-md-3 gap-2 flex-md-nowrap flex-wrap">
 
     <div class="logoBox">
       <img src="./assets/img/logo.webp" alt="logo img" />
@@ -910,86 +910,112 @@ $normalNavLinks = [
         <div class="megaContainer PodCastMegaContainer">
 
 
-          <div class="megaBoxLeft">
 
-            <div class="megaContentBox">
-              <h5>
-                <a href="ppc-pay-per-click-services-india.php">
-                  PodCast Services
-                </a>
-              </h5>
-              <ul class="megaLinksBox">
-                <li><a href="/google-ads-management-services-company.php ">Google Ads </a></li>
-                <li><a href="/bing-ads-management-services-company.php ">Bing Ads </a></li>
-                <li><a href="product/facebook-ads-management-packages ">Facebook Ads </a></li>
-                <li><a href="/">Instagram Ads </a></li>
-                <li><a href="product/twitter-ads-management-packages ">Twitter Ads </a></li>
-                <li><a href="product/linkedin-ads-management-packages ">LinkedIn Ads </a></li>
-                <li><a href="product/pinterest-ads-management-packages ">Pinterest Ads </a></li>
-                <li><a href="/mobile-igaming-ppc-services-india.php ">Mobile Gaming Ads </a></li>
-              </ul>
-            </div>
-          </div>
 
 
 
           <div class="megaBoxRight">
             <h5>
-              <a href="product-category/seo-packages-by-industies">PodCast Packages by Industry </a>
+              <a href="product-category/seo-packages-by-industies">Available Podcast Platforms </a>
             </h5>
 
             <div class="megaBoxRightWrapper">
 
               <ul class="megaLinksBox">
-                <li><a href="product/google-ads-for-astrology-astrologers ">Astrology </a></li>
-                <li><a href="product/google-ads-for-automotive-automobile-industry ">Automobile </a></li>
-                <li><a href="/">Artificial Intelligence</a></li>
-                <li><a href="product/google-ads-for-online-casino-websites ">Casino </a></li>
-                <li><a href="product/google-ads-for-consulting-firms ">Consultants/Consultancies </a></li>
-                <li><a href="product/google-ads-for-co-working-space-companies-agencies-websites ">Coworking Office </a>
-                </li>
-                <li><a href="product/seo-service-packages-for-cyber-security-companies-firms ">Cyber Security </a></li>
-                <li><a href="/">Data Recovery</a></li>
-                <li><a href="product/google-ads-for-saas ">Data Science & SAAS </a></li>
+                <li><a target="_blank" href="https://8tracks.com/">8tracks</a></li>
+                <li><a target="_blank" href="https://www.acast.com/">Acast</a></li>
+                <li><a target="_blank" href="https://alltop.com/">AllTop.com</a></li>
+                <li><a target="_blank" href="https://music.amazon.in/">Amazon</a></li>
+                <li><a target="_blank" href="https://americanenglishpodcast.com/">American Podcast</a></li>
+                <li><a target="_blank" href="https://podcasters.spotify.com/">Anchor</a></li>
+                <li><a target="_blank" href="https://www.apple.com/in/apple-podcasts/">Apple</a></li>
+                <li><a target="_blank" href="https://audioboom.com/">Audioboom</a></li>
+                <li><a target="_blank" href="https://www.ausha.co/">Ausha</a></li>
+                <li><a target="_blank" href="https://bandcamp.com/">Bandcamp</a></li>
+                <li><a target="_blank" href="http://www.beyondpod.mobi/android/index.htm">BeyondPod</a></li>
+                <li><a target="_blank" href="https://blip.fm/">Blip.fm</a></li>
 
               </ul>
 
               <ul class="megaLinksBox">
+                <li><a target="_blank" href="https://www.blogtalkradio.com/">BlogTalkRadio</a></li>
+                <li><a target="_blank" href="https://blubrry.com/">Blubrry</a></li>
+                <li><a target="_blank" href="https://castbox.fm/">Castbox</a></li>
+                <li><a target="_blank" href="https://castos.com/">Castos</a></li>
+                <li><a target="_blank" href="https://castro.fm/">Castro</a></li>
+                <li><a target="_blank" href="https://clyp.it/">Clyp</a></li>
+                <li><a target="_blank" href="https://www.deezer.com/">Deezer</a></li>
+                <li><a target="_blank" href="https://www.digitalpodcast.com/">Digital podcast</a></li>
+                <li><a target="_blank" href="http://www.doggcatcher.com/">Doggcatcher</a></li>
+                <li><a target="_blank" href="https://feedly.com/">Feedly</a></li>
+                <li><a target="_blank" href="https://fyyd.de/">FYYD.DE</a></li>
+                <li><a target="_blank" href="https://gaana.com/">Gaana.com</a></li>
 
-
-                <li><a href="product/google-ads-for-dentists ">Dentists </a></li>
-                <li><a href="product/google-ads-for-ecommerce-websites-stores ">eCommerce </a></li>
-                <li><a href="product/google-ads-for-ecommerce-websites-stores ">Education </a></li>
-                <li><a href="product/google-ads-for-finance-companies ">Finance </a></li>
-                <li><a href="/">Gambling</a></li>
-                <li><a href="product/google-ads-for-government-agencies ">Government </a></li>
-                <li><a href="product/google-ads-for-healthcare-industry">Healthcare </a></li>
-                <li><a href="/">Homebuilders</a></li>
-                <li><a href="product/google-ads-for-hotel-websites">Hotels </a></li>
               </ul>
 
               <ul class="megaLinksBox">
+                <li><a target="_blank" href="https://podcasts.google.com/">Google Podcasts</a></li>
+                <li><a target="_blank" href="https://gpodder.net/">GPODDER.net</a></li>
+                <li><a target="_blank" href="https://headliner.app/">Headliner</a></li>
+                <li><a target="_blank" href="https://www.himalaya.com/">Himalaya</a></li>
+                <li><a target="_blank" href="https://hubhopper.com/">Hubhopper</a></li>
+                <li><a target="_blank" href="https://www.iheart.com/podcast/">iHeartRadio</a></li>
+                <li><a target="_blank" href="https://iono.fm/">IONO.FM</a></li>
+                <li><a target="_blank" href="https://www.ivoox.com/">iVoox</a></li>
+                <li><a target="_blank" href="https://www.jiosaavn.com/">JioSaavan</a></li>
+                <li><a target="_blank" href="https://www.last.fm/">Last.fm</a></li>
+                <li><a target="_blank" href="https://www.listennotes.com/">Listen notes</a></li>
+                <li><a target="_blank" href="https://luminarypodcasts.com/">Luminary</a></li>
 
-                <li><a href="product/google-ads-for-insurance-companies">Insurance </a></li>
-                <li><a href="product/google-ads-for-insurance-companies">Computers & IT </a></li>
-                <li><a href="product/google-ads-for-lawyers-law-firms ">Law Firms </a></li>
-                <li><a href="/">Logistics</a></li>
-                <li><a href="product/google-ads-for-manufacturing-companies ">Manufacturers </a></li>
-                <li><a href="/">Market Research</a></li>
-                <li><a href="product/google-ads-for-movers-and-packers">Movers And Packers </a></li>
-                <li><a href="product/pet-grooming-care-industry-seo-packages-india ">Pet Groomers </a></li>
-                <li><a href="product/google-ads-for-politicians ">Politicians </a></li>
               </ul>
 
               <ul class="megaLinksBox">
-                <li><a href="product/google-ads-for-real-estate-agents ">Real Estate </a></li>
-                <li><a href="product/google-ads-for-restaurants ">Restaurants </a></li>
-                <li><a href="product/google-ads-for-satta-matka-industry-website ">Satta Matka </a></li>
-                <li><a href="product/google-ads-for-software-companies-and-firms ">Software </a></li>
-                <li><a href="product/sportsbook-seo-services-and-packages ">Sportsbook </a></li>
-                <li><a href="product/google-ads-for-trading-companies ">Trading/Traders </a></li>
-                <li><a href="product/google-ads-for-transportation-companies ">Transportation </a></li>
-                <li><a href="product/google-ads-for-travel-agency-website ">Travel Agency </a></li>
+                <li><a target="_blank" href="https://mypodcastworld.com/">My Podcast World</a></li>
+                <li><a target="_blank" href="https://myspace.com/">MySpace</a></li>
+                <li><a target="_blank" href="https://overcast.fm/">Overcast</a></li>
+                <li><a target="_blank" href="https://oxide.computer/podcasts/oxide-and-friends">Oxide</a></li>
+                <li><a target="_blank" href="https://www.pandora.com/">Pandora</a></li>
+                <li><a target="_blank" href="https://www.pinecast.com/">Pinecast</a></li>
+                <li><a target="_blank" href="https://player.fm/">Player FM</a></li>
+                <li><a target="_blank" href="https://pocketcasts.com/">Pocket Casts</a></li>
+                <li><a target="_blank" href="https://www.podbean.com/">Podbean</a></li>
+                <li><a target="_blank" href="https://podcastindex.org/">Podcast Index</a></li>
+                <li><a target="_blank" href="https://www.podcastrepublic.net/">Podcast Republic</a></li>
+                <li><a target="_blank" href="https://www.podcasts.com/">Podcasts.com</a></li>
+
+              </ul>
+
+              <ul class="megaLinksBox">
+                <li><a target="_blank" href="https://www.podchaser.com/">Podchaser</a></li>
+                <li><a target="_blank" href="https://podcorn.com/">Podcorn</a></li>
+                <li><a target="_blank" href="https://podfollow.com/">PODFOLLOW.COM</a></li>
+                <li><a target="_blank" href="https://www.podfriend.com/">Podfriend</a></li>
+                <li><a target="_blank" href="https://www.podigee.com/en/">Podigee</a></li>
+                <li><a target="_blank" href="https://podnews.net/">Podnews</a></li>
+                <li><a target="_blank" href="https://www.podomatic.com/">Podomatic</a></li>
+                <li><a target="_blank" href="https://www.podparadise.com/">PodParadise</a></li>
+                <li><a target="_blank" href="https://www.podserve.fm/">Podserve.fm</a></li>
+                <li><a target="_blank" href="https://podtail.com/en/">Podtail</a></li>
+                <li><a target="_blank" href="https://radiopublic.com/">RadioPublic</a></li>
+                <li><a target="_blank" href="https://redcircle.com/">RedCircle</a></li>
+
+              </ul>
+
+              <ul class="megaLinksBox">
+                <li><a target="_blank" href="https://resonaterecordings.com/">Resonaterecordings</a></li>
+                <li><a target="_blank" href="https://riverside.fm/">Riverside.fm</a></li>
+                <li><a target="_blank" href="https://www.shoutcast.com/">Shoutcast</a></li>
+                <li><a target="_blank" href="https://www.simplecast.com/">Simplecast</a></li>
+                <li><a target="_blank" href="https://soundcloud.com/">Soundcloud</a></li>
+                <li><a target="_blank" href="https://open.spotify.com/">Spotify</a></li>
+                <li><a target="_blank" href="https://www.spreaker.com/">Spreaker</a></li>
+                <li><a target="_blank" href="https://www.stitcher.com/">Stitcher</a></li>
+                <li><a target="_blank" href="https://tunein.com/">TuinIn</a></li>
+                <li><a target="_blank" href="https://ukpodcasters.com/">UK Podcast Directory</a></li>
+                <li><a target="_blank" href="https://www.zencast.fm/">Zencast</a></li>
+                <li><a target="_blank" href="https://www.zenomedia.com/">Zeno media</a></li>
+                <li><a target="_blank" href="https://zeno.fm/">Zeno.FM</a></li>
+
               </ul>
 
             </div>
@@ -1188,7 +1214,7 @@ $normalNavLinks = [
 
     <div class="mobileNavLinks">
       <a class="mobileNavLink" href="/">Home</a>
-   
+
 
 
 
@@ -1355,6 +1381,88 @@ $normalNavLinks = [
             <li><a href="product/youtube-channel-subscribers-count-packages">YouTube Subscribers </a></li>
             <li><a href="product/youtube-videos-watch-hour-count-packages">YouTube Watch Hours </a></li>
 
+          </ul>
+        </li>
+        <!-- other section ended -->
+        <!-- other section started -->
+        <li class="mobileDropToggle">
+          <label for="podcast">Available Podcast Platforms</label>
+          <input type="checkbox" name="" id="podcast">
+
+          <ul class="mobileDropBox">
+            <li><a target="_blank" href="https://8tracks.com/">8tracks</a></li>
+            <li><a target="_blank" href="https://www.acast.com/">Acast</a></li>
+            <li><a target="_blank" href="https://alltop.com/">AllTop.com</a></li>
+            <li><a target="_blank" href="https://music.amazon.in/">Amazon</a></li>
+            <li><a target="_blank" href="https://americanenglishpodcast.com/">American Podcast</a></li>
+            <li><a target="_blank" href="https://podcasters.spotify.com/">Anchor</a></li>
+            <li><a target="_blank" href="https://www.apple.com/in/apple-podcasts/">Apple</a></li>
+            <li><a target="_blank" href="https://audioboom.com/">Audioboom</a></li>
+            <li><a target="_blank" href="https://www.ausha.co/">Ausha</a></li>
+            <li><a target="_blank" href="https://bandcamp.com/">Bandcamp</a></li>
+            <li><a target="_blank" href="http://www.beyondpod.mobi/android/index.htm">BeyondPod</a></li>
+            <li><a target="_blank" href="https://blip.fm/">Blip.fm</a></li>
+            <li><a target="_blank" href="https://www.blogtalkradio.com/">BlogTalkRadio</a></li>
+            <li><a target="_blank" href="https://blubrry.com/">Blubrry</a></li>
+            <li><a target="_blank" href="https://castbox.fm/">Castbox</a></li>
+            <li><a target="_blank" href="https://castos.com/">Castos</a></li>
+            <li><a target="_blank" href="https://castro.fm/">Castro</a></li>
+            <li><a target="_blank" href="https://clyp.it/">Clyp</a></li>
+            <li><a target="_blank" href="https://www.deezer.com/">Deezer</a></li>
+            <li><a target="_blank" href="https://www.digitalpodcast.com/">Digital podcast</a></li>
+            <li><a target="_blank" href="http://www.doggcatcher.com/">Doggcatcher</a></li>
+            <li><a target="_blank" href="https://feedly.com/">Feedly</a></li>
+            <li><a target="_blank" href="https://fyyd.de/">FYYD.DE</a></li>
+            <li><a target="_blank" href="https://gaana.com/">Gaana.com</a></li>
+            <li><a target="_blank" href="https://podcasts.google.com/">Google Podcasts</a></li>
+            <li><a target="_blank" href="https://gpodder.net/">GPODDER.net</a></li>
+            <li><a target="_blank" href="https://headliner.app/">Headliner</a></li>
+            <li><a target="_blank" href="https://www.himalaya.com/">Himalaya</a></li>
+            <li><a target="_blank" href="https://hubhopper.com/">Hubhopper</a></li>
+            <li><a target="_blank" href="https://www.iheart.com/podcast/">iHeartRadio</a></li>
+            <li><a target="_blank" href="https://iono.fm/">IONO.FM</a></li>
+            <li><a target="_blank" href="https://www.ivoox.com/">iVoox</a></li>
+            <li><a target="_blank" href="https://www.jiosaavn.com/">JioSaavan</a></li>
+            <li><a target="_blank" href="https://www.last.fm/">Last.fm</a></li>
+            <li><a target="_blank" href="https://www.listennotes.com/">Listen notes</a></li>
+            <li><a target="_blank" href="https://luminarypodcasts.com/">Luminary</a></li>
+            <li><a target="_blank" href="https://mypodcastworld.com/">My Podcast World</a></li>
+            <li><a target="_blank" href="https://myspace.com/">MySpace</a></li>
+            <li><a target="_blank" href="https://overcast.fm/">Overcast</a></li>
+            <li><a target="_blank" href="https://oxide.computer/podcasts/oxide-and-friends">Oxide</a></li>
+            <li><a target="_blank" href="https://www.pandora.com/">Pandora</a></li>
+            <li><a target="_blank" href="https://www.pinecast.com/">Pinecast</a></li>
+            <li><a target="_blank" href="https://player.fm/">Player FM</a></li>
+            <li><a target="_blank" href="https://pocketcasts.com/">Pocket Casts</a></li>
+            <li><a target="_blank" href="https://www.podbean.com/">Podbean</a></li>
+            <li><a target="_blank" href="https://podcastindex.org/">Podcast Index</a></li>
+            <li><a target="_blank" href="https://www.podcastrepublic.net/">Podcast Republic</a></li>
+            <li><a target="_blank" href="https://www.podcasts.com/">Podcasts.com</a></li>
+            <li><a target="_blank" href="https://www.podchaser.com/">Podchaser</a></li>
+            <li><a target="_blank" href="https://podcorn.com/">Podcorn</a></li>
+            <li><a target="_blank" href="https://podfollow.com/">PODFOLLOW.COM</a></li>
+            <li><a target="_blank" href="https://www.podfriend.com/">Podfriend</a></li>
+            <li><a target="_blank" href="https://www.podigee.com/en/">Podigee</a></li>
+            <li><a target="_blank" href="https://podnews.net/">Podnews</a></li>
+            <li><a target="_blank" href="https://www.podomatic.com/">Podomatic</a></li>
+            <li><a target="_blank" href="https://www.podparadise.com/">PodParadise</a></li>
+            <li><a target="_blank" href="https://www.podserve.fm/">Podserve.fm</a></li>
+            <li><a target="_blank" href="https://podtail.com/en/">Podtail</a></li>
+            <li><a target="_blank" href="https://radiopublic.com/">RadioPublic</a></li>
+            <li><a target="_blank" href="https://redcircle.com/">RedCircle</a></li>
+            <li><a target="_blank" href="https://resonaterecordings.com/">Resonaterecordings</a></li>
+            <li><a target="_blank" href="https://riverside.fm/">Riverside.fm</a></li>
+            <li><a target="_blank" href="https://www.shoutcast.com/">Shoutcast</a></li>
+            <li><a target="_blank" href="https://www.simplecast.com/">Simplecast</a></li>
+            <li><a target="_blank" href="https://soundcloud.com/">Soundcloud</a></li>
+            <li><a target="_blank" href="https://open.spotify.com/">Spotify</a></li>
+            <li><a target="_blank" href="https://www.spreaker.com/">Spreaker</a></li>
+            <li><a target="_blank" href="https://www.stitcher.com/">Stitcher</a></li>
+            <li><a target="_blank" href="https://tunein.com/">TuinIn</a></li>
+            <li><a target="_blank" href="https://ukpodcasters.com/">UK Podcast Directory</a></li>
+            <li><a target="_blank" href="https://www.zencast.fm/">Zencast</a></li>
+            <li><a target="_blank" href="https://www.zenomedia.com/">Zeno media</a></li>
+            <li><a target="_blank" href="https://zeno.fm/">Zeno.FM</a></li>
           </ul>
         </li>
         <!-- other section ended -->

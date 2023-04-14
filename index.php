@@ -22,6 +22,10 @@
     <?php require "./includes/servicesSection.php"; ?>
     <!-- servicesSection ended -->
 
+    <!-- contactSetion started -->
+    <?php require "./includes/contactSection.php"; ?>
+    <!-- contactSetion ended -->
+
     <!-- footer started -->
     <?php require "./includes/footer.php"; ?>
     <!-- footer ended -->

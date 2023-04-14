@@ -126,3 +126,23 @@ font-weight: bold;
       left: 15px;
       bottom: 15px;
     }
+
+    /* form submit button */
+    button[type="submit"]{
+     border-radius: 0;
+     background-color: var(--darkBlue);
+     color: white;
+     font-weight: 600;
+     text-transform: uppercase;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+     z-index: 1;
+     padding: 0.5rem 1rem;
+     transition: 300ms;
+     border: 2px solid white;
+     box-shadow: 2px 2px 5px black;
+    }
+    button[type="submit"]:hover{
+      border-radius: 2rem;
+    }

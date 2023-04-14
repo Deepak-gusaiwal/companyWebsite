@@ -23,17 +23,19 @@ nav.mobileNav{
    display: flex;
    position: relative;
    justify-content: flex-start;
+   /* top: 100%;
+   left: 0;
+   width: fit-content; */
 }
 
 .mobileNavToggler{
-    width: 40px;
-    height: 40px;
-    background-color: white;
+    width: 30px;
+    height: 30px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 0.6rem;
+    gap: 0.4rem;
 }
 .mobileNavToggler span{
     background-color: black;
@@ -118,4 +120,12 @@ overflow-y: scroll;
     max-height: 200px;
  visibility: visible;
  opacity: 1;
+}
+
+/* conact us section */
+.contactRight,
+.contactLeft{
+    padding-left: 0;
+    padding-right: 0;
+    padding-inline: 2rem;
 }

@@ -13,6 +13,7 @@
   --whatsappLight: #25d366;
   --whatsappDark: #128c7e;
   --footerBg: #f2f2f2;
+  --darkBlue:#253f4f;
 
   --facebook: #4169e1;
   --twitter: #00bfff;
@@ -258,7 +259,7 @@ flex-direction: column;
 .megaContainer .megaBoxLeft .megaContentBox h5,
 .megaContainer .megaBoxMiddle .megaContentBox h5
 {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   font-weight: 600;
  }
  .megaContainer h5 a:hover{
@@ -291,8 +292,8 @@ flex-direction: column;
 .PodCastMegaContainer .megaBoxLeft
 {
   padding-left: 3rem;
-  padding-top: 2rem;
 }
+
 
 
 .navLinksContainer li:hover .megaContainer,
@@ -490,6 +491,10 @@ flex-direction: column;
   color: white;
   background-color: var(--brandColor);
 }
+.serviceCard .iconBox h3{
+ color: black;
+ font-weight: bold;
+}
 .serviceCard .serviceButtonBox a i{
  font-size: 1.5rem;
 }
@@ -518,6 +523,81 @@ flex-direction: column;
  color: white;
 }
 
+/* ===========================================================Contact Form Css */
+/* contactleft */
+.contectSection .row .contactLeft{
+  background-color: var(--brandColor);
+  padding-left: max(10vw,2rem);
+}
+.contactLeft .formBannerSection h1{
+  text-transform: capitalize;
+  font-size: max(3vw,2rem);
+}
+.contactLeft .formBannerSection h1 span{
+  font-weight: bold;
+}
+.contactForm input, 
+.contactForm textarea
+{
+  width:100%;
+  padding:0.5rem 1rem;
+  font-size: 1.2rem;
+  color: black;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  text-transform: capitalize;
+}
+.contactForm input:focus,
+.contactForm textarea:focus
+{
+  outline: 3px solid var(--darkBlue);
+}
+/* contactRight */
+.contactRight{
+  background-color: var(--darkBlue);
+  color: white;
+  text-transform: capitalize;
+  padding-right: max(10vw,2rem);
+}
+.contactRight h1{
+  font-size:max(3vw,2.5rem);
+  font-weight: 600;
+}
+.contactRight h3{
+  font-size:max(2vw,1.5rem);
+  font-weight: 600;
+}
+.contactRight .contactRightContent p{
+font-size: 1.1rem;
+line-height: 1;
+}
+.contactRight .contactRightContent span{
+font-weight: 600;
+font-size: 1.2rem;
+line-height: 1;
+}
+
+.AboutInContactSection .contactContentBox {
+  display: flex;
+  align-items: center;
+  padding: 0.6rem 0rem;
+border-bottom: 1px solid white;
+width: 100%;
+gap: 1rem;
+}
+.AboutInContactSection .contactContentBox .iconBox i{
+  font-size: max(2.5vw ,1.8rem);
+}
+.AboutInContactSection .contactContentBox .contentBox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  font-size: max(2.8vw,1.2rem);
+}
+.AboutInContactSection .contactContentBox .contentBox span:nth-child(1){
+font-weight: 600;
+}
 
 /* ============================================================footer section css */
 .footer {
