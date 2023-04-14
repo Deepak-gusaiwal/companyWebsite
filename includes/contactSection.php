@@ -49,7 +49,7 @@
                 <span>Give us a ring or e-mail.</span>
             </div>
 
-            <div class="AboutInContactSection d-flex flex-column gap-3 mt-4">
+            <div class="AboutInContactSection d-flex flex-column gap-3 ">
 
                 <div class="contactContentBox">
                     <div class="iconBox">
