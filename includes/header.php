@@ -660,6 +660,7 @@ $normalNavLinks = [
       <li><a class="navLink" href="/">Home</a></li>
 
 
+      <!-- Seo Pakcages Meaga Drop Down Started -->
       <li>
         <a href="#" class="navLink">SEO</a>
         <div class="megaContainer">
@@ -670,113 +671,124 @@ $normalNavLinks = [
             <div class="megaContentBox">
               <h5>SEO Services</h5>
               <ul class="megaLinksBox">
-                <li><a href="">eCommerce SEO</a></li>
-                <li><a href="">Mobile SEO</a></li>
-                <li><a href="">Local SEO</a></li>
-                <li><a href="">IGames SEO</a></li>
-                <li><a href="">Voice Search SEO</a></li>
-                <li><a href="">App Store SEO</a></li>
-                <li><a href="">Multilingual SEO</a></li>
+                <li><a href="/ecommerce-seo-services-india.php">eCommerce SEO Services </a></li>
+                <li><a href="/local-seo-services-india.php">Local SEO Services </a></li>
+                <li><a href="product/seo-for-google-my-business-profile">Google Business SEO </a></li>
+                <li><a href="/youtube-channel-seo-optimization-services.php">YouTube SEO </a></li>
+                <li><a href="/">Startup SEO Services</a></li>
+                <li><a href="/aso-app-store-seo-optimization-services.php">ASO Services </a></li>
+                <li><a href="/voice-search-seo-optimization-services-india.php">Voice SEO </a></li>
+                <li><a href="/mobile-igaming-seo-services-india.php">iGaming SEO </a></li>
+                <li><a href="/multilingual-seo-services-company-india.php">Multilingual SEO </a></li>
+                <li><a href="/mobile-search-seo-services-india.php ">Mobile Search SEO </a></li>
+                <li><a href="/seo-monthly-packages-india.php">SEO Packages </a></li>
+
               </ul>
             </div>
 
             <div class="megaContentBox">
-              <h5 class="mt-2">SEO Packages By Region</h5>
+              <h5 class="mt-2"><a href="product-category/seo-package-by-region">SEO Packages By Region</a></h5>
               <ul class="megaLinksBox">
-                <li><a href="">Local SEO Packages</a></li>
-                <li><a href="">National SEO Packages</a></li>
-                <li><a href="">International SEO Packages</a></li>
+                <li><a href="product/local-seo-packages-india">Local SEO Package </a></li>
+                <li><a href="product/national-seo-packages-india ">National SEO</a></li>
+                <li><a href="product/international-seo-packages-india "> International SEO </a></li>
+
+              </ul>
+            </div>
+
+
+          </div>
+
+          <div class="megaBoxMiddle">
+            <div class="megaContentBox">
+              <h5 class="mt-2">
+                <a href="product-category/seo-packages-by-language">SEO Packages By Language</a>
+              </h5>
+              <ul class="megaLinksBox">
+                <li><a href="product/seo-packages-for-french-language"> French SEO </a></li>
+                <li><a href="product/seo-packages-for-german-language"> German SEO </a></li>
+                <li><a href="product/seo-packages-for-dutch-language"> Dutch SEO </a></li>
+                <li><a href="product/seo-packages-for-spanish"> Spanish SEO </a></li>
+                <li><a href="product/seo-packages-for-russian-language"> Russian SEO </a></li>
+
               </ul>
             </div>
 
             <div class="megaContentBox">
-              <h5 class="mt-2">SEO Packages By Language</h5>
+              <h5>SEO Packages by CMS </h5>
               <ul class="megaLinksBox">
-                <li><a href="">SEO Packages for French Language</a></li>
-                <li><a href="">SEO Packages for German Language</a></li>
-                <li><a href="">SEO Packages for Dutch Language</a></li>
-                <li><a href="">SEO Packages for Spanish Language</a></li>
-                <li><a href="">SEO Packages for Russian Language</a></li>
+                <li><a href="product/seo-for-mobile-app "> App Store SEO </a></li>
+                <li><a href="product/seo-for-wordpress-website "> WordPress SEO </a></li>
+                <li><a href="product/seo-for-shopify-website"> Shopify SEO </a></li>
+                <li><a href="/"> Magento SEO</a></li>
+                <li><a href="product/seo-for-amazon-store-products "> Amazon SEO </a></li>
+                <li><a href="/"> eBay SEO </a></li>
+                <li><a href="product/seo-for-wix-website "> Wix SEO </a></li>
+                <li><a href="/"> BigCommerce SEO </a></li>
+                <li><a href="product/seo-for-woocommerce "> Woocommerce SEO </a></li>
+                <li><a href="/"> OpenCart SEO </a></li>
+
               </ul>
             </div>
+
+
           </div>
 
           <div class="megaBoxRight">
-            <h5>SEO Packages By Industry</h5>
+            <h5>
+              <a href="product-category/seo-packages-by-industies">SEO Packages By Industry</a>
+            </h5>
 
             <div class="megaBoxRightWrapper">
 
               <ul class="megaLinksBox">
-                <li><a href="">SEO for eCommerce</a></li>
-                <li><a href="">SEO For Dentists</a></li>
-                <li><a href="">SEO For Real Estate</a></li>
-                <li><a href="">SEO for Law Firms/Lawyers</a></li>
-                <li><a href="">SEO For Hotel Websites</a></li>
-                <li><a href="">SEO for Manufacturers</a></li>
-                <li><a href="">SEO For Healthcare Websites</a></li>
-                <li><a href="">SEO for Online Casino</a></li>
-                <li><a href="">SEO For Software Companies</a></li>
-                <li><a href="">SEO For IT Companies</a></li>
-                <li><a href="">SEO for Politicians</a></li>
-                <li><a href="">SEO For Travel Agency</a></li>
-                <li><a href="">SEO for Astrology/Astrologers</a></li>
-                <li><a href="">SEO For Movers And Packers</a></li>
-                <li><a href="">SEO For Insurance Companies</a></li>
+                <li><a href="product/seo-for-astrology-astrologers "> Astrology </a></li>
+                <li><a href="product/seo-for-automotive-automobile-industry "> Automobile </a></li>
+                <li><a href="/"> Artificial Intelligence</a></li>
+                <li><a href="product/seo-for-online-casino-websites "> Casino </a></li>
+                <li><a href="product/seo-for-consulting-firms "> Consultants/Consultancies </a></li>
+                <li><a href="product/seo-for-co-working-space-companies-agencies-websites "> Coworking Office </a></li>
+                <li><a href="product/seo-service-packages-for-cyber-security-companies-firms "> Cyber Security </a></li>
+                <li><a href="/">Data Recovery</a></li>
+                <li><a href="product/seo-for-saas "> Data Science & SAAS </a></li>
 
               </ul>
 
               <ul class="megaLinksBox">
-                <li><a href="">SEO for eCommerce</a></li>
-                <li><a href="">SEO For Dentists</a></li>
-                <li><a href="">SEO For Real Estate</a></li>
-                <li><a href="">SEO for Law Firms/Lawyers</a></li>
-                <li><a href="">SEO For Hotel Websites</a></li>
-                <li><a href="">SEO for Manufacturers</a></li>
-                <li><a href="">SEO For Healthcare Websites</a></li>
-                <li><a href="">SEO for Online Casino</a></li>
-                <li><a href="">SEO For Software Companies</a></li>
-                <li><a href="">SEO For IT Companies</a></li>
-                <li><a href="">SEO for Politicians</a></li>
-                <li><a href="">SEO For Travel Agency</a></li>
-                <li><a href="">SEO for Astrology/Astrologers</a></li>
-                <li><a href="">SEO For Movers And Packers</a></li>
-                <li><a href="">SEO For Insurance Companies</a></li>
+
+                <li><a href="product/seo-for-dentists "> Dentists </a></li>
+                <li><a href="product/seo-for-ecommerce-websites-stores "> eCommerce </a></li>
+                <li><a href="product/seo-for-ecommerce-websites-stores "> Education </a></li>
+                <li><a href="product/seo-for-finance-companies "> Finance </a></li>
+                <li><a href="/"> Gambling</a></li>
+                <li><a href="product/seo-for-government-agencies "> Government </a></li>
+                <li><a href="product/seo-for-healthcare-industry"> Healthcare </a></li>
+                <li><a href="/"> Homebuilders</a></li>
+                <li><a href="product/seo-for-hotel-websites"> Hotels </a></li>
               </ul>
 
               <ul class="megaLinksBox">
-                <li><a href="">SEO for eCommerce</a></li>
-                <li><a href="">SEO For Dentists</a></li>
-                <li><a href="">SEO For Real Estate</a></li>
-                <li><a href="">SEO for Law Firms/Lawyers</a></li>
-                <li><a href="">SEO For Hotel Websites</a></li>
-                <li><a href="">SEO for Manufacturers</a></li>
-                <li><a href="">SEO For Healthcare Websites</a></li>
-                <li><a href="">SEO for Online Casino</a></li>
-                <li><a href="">SEO For Software Companies</a></li>
-                <li><a href="">SEO For IT Companies</a></li>
-                <li><a href="">SEO for Politicians</a></li>
-                <li><a href="">SEO For Travel Agency</a></li>
-                <li><a href="">SEO for Astrology/Astrologers</a></li>
-                <li><a href="">SEO For Movers And Packers</a></li>
-                <li><a href="">SEO For Insurance Companies</a></li>
+
+                <li><a href="product/seo-for-insurance-companies"> Insurance </a></li>
+                <li><a href="product/seo-for-insurance-companies"> Computers & IT </a></li>
+                <li><a href="product/seo-for-lawyers-law-firms "> Law Firms </a></li>
+                <li><a href="/"> Logistics</a></li>
+                <li><a href="product/seo-for-manufacturing-companies "> Manufacturers </a></li>
+                <li><a href="/"> Market Research</a></li>
+                <li><a href="product/seo-for-movers-and-packers"> Movers And Packers </a></li>
+                <li><a href="product/pet-grooming-care-industry-seo-packages-india ">Pet Groomers </a></li>
+                <li><a href="product/seo-for-politicians ">Politicians </a></li>
               </ul>
 
               <ul class="megaLinksBox">
-                <li><a href="">SEO for eCommerce</a></li>
-                <li><a href="">SEO For Dentists</a></li>
-                <li><a href="">SEO For Real Estate</a></li>
-                <li><a href="">SEO for Law Firms/Lawyers</a></li>
-                <li><a href="">SEO For Hotel Websites</a></li>
-                <li><a href="">SEO for Manufacturers</a></li>
-                <li><a href="">SEO For Healthcare Websites</a></li>
-                <li><a href="">SEO for Online Casino</a></li>
-                <li><a href="">SEO For Software Companies</a></li>
-                <li><a href="">SEO For IT Companies</a></li>
-                <li><a href="">SEO for Politicians</a></li>
-                <li><a href="">SEO For Travel Agency</a></li>
-                <li><a href="">SEO for Astrology/Astrologers</a></li>
-                <li><a href="">SEO For Movers And Packers</a></li>
-                <li><a href="">SEO For Insurance Companies</a></li>
+                <li><a href="product/seo-for-real-estate-agents ">Real Estate </a></li>
+                <li><a href="product/seo-for-restaurants ">Restaurants </a></li>
+                <li><a href="product/seo-for-satta-matka-industry-website ">Satta Matka </a></li>
+                <li><a href="product/seo-for-software-companies-and-firms ">Software </a></li>
+                <li><a href="product/sportsbook-seo-services-and-packages ">Sportsbook </a></li>
+                <li><a href="product/seo-for-trading-companies ">Trading/Traders </a></li>
+                <li><a href="product/seo-for-transportation-companies ">Transportation </a></li>
+                <li><a href="product/seo-for-travel-agency-website ">Travel Agency </a></li>
               </ul>
 
             </div>
@@ -789,6 +801,212 @@ $normalNavLinks = [
         </div>
       </li>
 
+      <!-- Seo Pakcages Meaga Drop Down ended -->
+      <!-- PPC Ads Meaga Drop Down Started -->
+      <li>
+        <a href="#" class="navLink">PPC Ads </a>
+        <div class="megaContainer PPCAdsMegaContainer">
+
+
+          <div class="megaBoxLeft">
+
+            <div class="megaContentBox">
+              <h5>
+                <a href="ppc-pay-per-click-services-india.php">
+                  PPC Services
+                </a>
+              </h5>
+              <ul class="megaLinksBox">
+                <li><a href="/google-ads-management-services-company.php ">Google Ads </a></li>
+                <li><a href="/bing-ads-management-services-company.php ">Bing Ads </a></li>
+                <li><a href="product/facebook-ads-management-packages ">Facebook Ads </a></li>
+                <li><a href="/">Instagram Ads </a></li>
+                <li><a href="product/twitter-ads-management-packages ">Twitter Ads </a></li>
+                <li><a href="product/linkedin-ads-management-packages ">LinkedIn Ads </a></li>
+                <li><a href="product/pinterest-ads-management-packages ">Pinterest Ads </a></li>
+                <li><a href="/mobile-igaming-ppc-services-india.php ">Mobile Gaming Ads </a></li>
+              </ul>
+            </div>
+          </div>
+
+
+
+          <div class="megaBoxRight">
+            <h5>
+              <a href="product-category/seo-packages-by-industies">PPC Packages by Industry </a>
+            </h5>
+
+            <div class="megaBoxRightWrapper">
+
+              <ul class="megaLinksBox">
+                <li><a href="product/google-ads-for-astrology-astrologers ">Astrology </a></li>
+                <li><a href="product/google-ads-for-automotive-automobile-industry ">Automobile </a></li>
+                <li><a href="/">Artificial Intelligence</a></li>
+                <li><a href="product/google-ads-for-online-casino-websites ">Casino </a></li>
+                <li><a href="product/google-ads-for-consulting-firms ">Consultants/Consultancies </a></li>
+                <li><a href="product/google-ads-for-co-working-space-companies-agencies-websites ">Coworking Office </a>
+                </li>
+                <li><a href="product/seo-service-packages-for-cyber-security-companies-firms ">Cyber Security </a></li>
+                <li><a href="/">Data Recovery</a></li>
+                <li><a href="product/google-ads-for-saas ">Data Science & SAAS </a></li>
+
+              </ul>
+
+              <ul class="megaLinksBox">
+
+
+                <li><a href="product/google-ads-for-dentists ">Dentists </a></li>
+                <li><a href="product/google-ads-for-ecommerce-websites-stores ">eCommerce </a></li>
+                <li><a href="product/google-ads-for-ecommerce-websites-stores ">Education </a></li>
+                <li><a href="product/google-ads-for-finance-companies ">Finance </a></li>
+                <li><a href="/">Gambling</a></li>
+                <li><a href="product/google-ads-for-government-agencies ">Government </a></li>
+                <li><a href="product/google-ads-for-healthcare-industry">Healthcare </a></li>
+                <li><a href="/">Homebuilders</a></li>
+                <li><a href="product/google-ads-for-hotel-websites">Hotels </a></li>
+              </ul>
+
+              <ul class="megaLinksBox">
+
+                <li><a href="product/google-ads-for-insurance-companies">Insurance </a></li>
+                <li><a href="product/google-ads-for-insurance-companies">Computers & IT </a></li>
+                <li><a href="product/google-ads-for-lawyers-law-firms ">Law Firms </a></li>
+                <li><a href="/">Logistics</a></li>
+                <li><a href="product/google-ads-for-manufacturing-companies ">Manufacturers </a></li>
+                <li><a href="/">Market Research</a></li>
+                <li><a href="product/google-ads-for-movers-and-packers">Movers And Packers </a></li>
+                <li><a href="product/pet-grooming-care-industry-seo-packages-india ">Pet Groomers </a></li>
+                <li><a href="product/google-ads-for-politicians ">Politicians </a></li>
+              </ul>
+
+              <ul class="megaLinksBox">
+                <li><a href="product/google-ads-for-real-estate-agents ">Real Estate </a></li>
+                <li><a href="product/google-ads-for-restaurants ">Restaurants </a></li>
+                <li><a href="product/google-ads-for-satta-matka-industry-website ">Satta Matka </a></li>
+                <li><a href="product/google-ads-for-software-companies-and-firms ">Software </a></li>
+                <li><a href="product/sportsbook-seo-services-and-packages ">Sportsbook </a></li>
+                <li><a href="product/google-ads-for-trading-companies ">Trading/Traders </a></li>
+                <li><a href="product/google-ads-for-transportation-companies ">Transportation </a></li>
+                <li><a href="product/google-ads-for-travel-agency-website ">Travel Agency </a></li>
+              </ul>
+
+            </div>
+
+          </div>
+
+
+
+
+        </div>
+      </li>
+
+      <!-- PPC Ads Meaga Drop Down Ended -->
+
+
+
+      <!-- PPC Ads Meaga Drop Down Started -->
+      <li>
+        <a href="#" class="navLink">PodCast</a>
+        <div class="megaContainer PodCastMegaContainer">
+
+
+          <div class="megaBoxLeft">
+
+            <div class="megaContentBox">
+              <h5>
+                <a href="ppc-pay-per-click-services-india.php">
+                  PodCast Services
+                </a>
+              </h5>
+              <ul class="megaLinksBox">
+                <li><a href="/google-ads-management-services-company.php ">Google Ads </a></li>
+                <li><a href="/bing-ads-management-services-company.php ">Bing Ads </a></li>
+                <li><a href="product/facebook-ads-management-packages ">Facebook Ads </a></li>
+                <li><a href="/">Instagram Ads </a></li>
+                <li><a href="product/twitter-ads-management-packages ">Twitter Ads </a></li>
+                <li><a href="product/linkedin-ads-management-packages ">LinkedIn Ads </a></li>
+                <li><a href="product/pinterest-ads-management-packages ">Pinterest Ads </a></li>
+                <li><a href="/mobile-igaming-ppc-services-india.php ">Mobile Gaming Ads </a></li>
+              </ul>
+            </div>
+          </div>
+
+
+
+          <div class="megaBoxRight">
+            <h5>
+              <a href="product-category/seo-packages-by-industies">PodCast Packages by Industry </a>
+            </h5>
+
+            <div class="megaBoxRightWrapper">
+
+              <ul class="megaLinksBox">
+                <li><a href="product/google-ads-for-astrology-astrologers ">Astrology </a></li>
+                <li><a href="product/google-ads-for-automotive-automobile-industry ">Automobile </a></li>
+                <li><a href="/">Artificial Intelligence</a></li>
+                <li><a href="product/google-ads-for-online-casino-websites ">Casino </a></li>
+                <li><a href="product/google-ads-for-consulting-firms ">Consultants/Consultancies </a></li>
+                <li><a href="product/google-ads-for-co-working-space-companies-agencies-websites ">Coworking Office </a>
+                </li>
+                <li><a href="product/seo-service-packages-for-cyber-security-companies-firms ">Cyber Security </a></li>
+                <li><a href="/">Data Recovery</a></li>
+                <li><a href="product/google-ads-for-saas ">Data Science & SAAS </a></li>
+
+              </ul>
+
+              <ul class="megaLinksBox">
+
+
+                <li><a href="product/google-ads-for-dentists ">Dentists </a></li>
+                <li><a href="product/google-ads-for-ecommerce-websites-stores ">eCommerce </a></li>
+                <li><a href="product/google-ads-for-ecommerce-websites-stores ">Education </a></li>
+                <li><a href="product/google-ads-for-finance-companies ">Finance </a></li>
+                <li><a href="/">Gambling</a></li>
+                <li><a href="product/google-ads-for-government-agencies ">Government </a></li>
+                <li><a href="product/google-ads-for-healthcare-industry">Healthcare </a></li>
+                <li><a href="/">Homebuilders</a></li>
+                <li><a href="product/google-ads-for-hotel-websites">Hotels </a></li>
+              </ul>
+
+              <ul class="megaLinksBox">
+
+                <li><a href="product/google-ads-for-insurance-companies">Insurance </a></li>
+                <li><a href="product/google-ads-for-insurance-companies">Computers & IT </a></li>
+                <li><a href="product/google-ads-for-lawyers-law-firms ">Law Firms </a></li>
+                <li><a href="/">Logistics</a></li>
+                <li><a href="product/google-ads-for-manufacturing-companies ">Manufacturers </a></li>
+                <li><a href="/">Market Research</a></li>
+                <li><a href="product/google-ads-for-movers-and-packers">Movers And Packers </a></li>
+                <li><a href="product/pet-grooming-care-industry-seo-packages-india ">Pet Groomers </a></li>
+                <li><a href="product/google-ads-for-politicians ">Politicians </a></li>
+              </ul>
+
+              <ul class="megaLinksBox">
+                <li><a href="product/google-ads-for-real-estate-agents ">Real Estate </a></li>
+                <li><a href="product/google-ads-for-restaurants ">Restaurants </a></li>
+                <li><a href="product/google-ads-for-satta-matka-industry-website ">Satta Matka </a></li>
+                <li><a href="product/google-ads-for-software-companies-and-firms ">Software </a></li>
+                <li><a href="product/sportsbook-seo-services-and-packages ">Sportsbook </a></li>
+                <li><a href="product/google-ads-for-trading-companies ">Trading/Traders </a></li>
+                <li><a href="product/google-ads-for-transportation-companies ">Transportation </a></li>
+                <li><a href="product/google-ads-for-travel-agency-website ">Travel Agency </a></li>
+              </ul>
+
+            </div>
+
+          </div>
+
+
+
+
+        </div>
+      </li>
+
+      <!-- PPC Ads Meaga Drop Down Ended -->
+
+
+
+
       <!-- normal DropDown -->
       <li class="dropDownToggle">
         <a href="#" class="navLink">SMO</a>
@@ -796,22 +1014,63 @@ $normalNavLinks = [
         <div class="dropMenuContainer">
 
           <div class="dropMenu">
-            <span>SMO Services</span>
-            <div class="dropDownLinks">
-              <a href="#">Drop menu 1</a>
-              <a href="#">Drop menu 2</a>
-              <a href="#">Drop menu 3</a>
-              <a href="#">Drop menu 4</a>
-            </div>
+            <span>Social Media Optimization</span>
+            <ul class="dropDownLinks">
+              <li><a href="/facebook-page-profile-optimization-services.php ">Facebook Optimization </a></li>
+              <li><a href="/twitter-page-profile-optimization-services.php ">Twitter Optimization </a></li>
+              <li><a href="/linkedin-page-profile-optimization-services.php ">LinkedIn Optimization </a></li>
+              <li><a href="/instagram-page-profile-optimization-services.php ">Instagram Optimization </a></li>
+              <li><a href="/">Pinterest Optimization</a></li>
+            </ul>
           </div>
+
+        </div>
+
+      </li>
+
+      <!-- normal DropDown -->
+      <li class="dropDownToggle">
+        <a href="content-marketing-management-services.php" class="navLink">Content</a>
+
+        <div class="dropMenuContainer">
+
           <div class="dropMenu">
-            <span>SMO Packages</span>
-            <div class="dropDownLinks">
-              <a href="#">Drop menu 1</a>
-              <a href="#">Drop menu 2</a>
-              <a href="#">Drop menu 3</a>
-              <a href="#">Drop menu 4</a>
-            </div>
+            <span>
+              <a href="content-writing-services.php">Content Writing</a>
+            </span>
+            <ul class="dropDownLinks">
+              <li><a href="/website-blog-writing-services.php ">Blog Writing </a></li>
+              <li><a href="/web-page-service-content-writing-services.php ">Service Page Writing </a></li>
+              <li><a href="/ecommerce-products-description-writing-services.php ">Product Content Writing </a></li>
+              <li><a href="/press-release-writing-services.php ">Press Release Writing </a></li>
+              <li><a href="/guest-post-writing-services.php ">Guest Post Writing </a></li>
+              <li><a href="/social-media-post-writing-services.php ">Social Media Post Writing </a></li>
+              <li><a href="/graphics-content-writing-services.php ">Graphics Content Writing </a></li>
+              <li><a href="/guest-posting-services-india.php ">Guest Post Submission </a></li>
+            </ul>
+          </div>
+
+        </div>
+
+      </li>
+
+      <!-- normal DropDown -->
+      <li class="dropDownToggle">
+        <a href="content-marketing-management-services.php" class="navLink">YouTube</a>
+
+        <div class="dropMenuContainer">
+
+          <div class="dropMenu">
+            <!-- <span>
+              <a href="content-writing-services.php">Content Writing</a>
+            </span> -->
+            <ul class="dropDownLinks">
+              <li><a href="/youtube-channel-seo-optimization-services.php ">YouTube SEO </a></li>
+              <li><a href="/youtube-channel-monetization-services.php ">YouTube Monetization </a></li>
+              <li><a href="product/youtube-channel-subscribers-count-packages">YouTube Subscribers </a></li>
+              <li><a href="product/youtube-videos-watch-hour-count-packages">YouTube Watch Hours </a></li>
+
+            </ul>
           </div>
 
         </div>
@@ -826,110 +1085,27 @@ $normalNavLinks = [
 
           <div class="dropMenu">
             <span>SMM Services</span>
-            <div class="dropDownLinks">
+            <ul class="dropDownLinks">
               <a href="#">Drop menu 1</a>
               <a href="#">Drop menu 2</a>
               <a href="#">Drop menu 3</a>
               <a href="#">Drop menu 4</a>
-            </div>
+            </ul>
           </div>
           <div class="dropMenu">
             <span>SMM Packages</span>
-            <div class="dropDownLinks">
-              <a href="#">Drop menu 1</a>
-              <a href="#">Drop menu 2</a>
-              <a href="#">Drop menu 3</a>
-              <a href="#">Drop menu 4</a>
-            </div>
+            <ul class="dropDownLinks">
+              <li><a href="#">Drop menu 1</a></li>
+              <li><a href="#">Drop menu 2</a></li>
+              <li><a href="#">Drop menu 3</a></li>
+              <li><a href="#">Drop menu 4</a></li>
+            </ul>
           </div>
 
         </div>
 
       </li>
-      <!-- normal DropDown -->
-      <li class="dropDownToggle">
-        <a href="#" class="navLink">Youtube</a>
 
-        <div class="dropMenuContainer">
-
-          <div class="dropMenu">
-            <span>Youtube Services</span>
-            <div class="dropDownLinks">
-              <a href="#">Drop menu 1</a>
-              <a href="#">Drop menu 2</a>
-              <a href="#">Drop menu 3</a>
-              <a href="#">Drop menu 4</a>
-            </div>
-          </div>
-          <div class="dropMenu">
-            <span>Youtube Packages</span>
-            <div class="dropDownLinks">
-              <a href="#">Drop menu 1</a>
-              <a href="#">Drop menu 2</a>
-              <a href="#">Drop menu 3</a>
-              <a href="#">Drop menu 4</a>
-            </div>
-          </div>
-
-        </div>
-
-      </li>
-      <!-- normal DropDown -->
-      <li class="dropDownToggle">
-        <a href="#" class="navLink">PPC</a>
-
-        <div class="dropMenuContainer">
-
-          <div class="dropMenu">
-            <span>PPC Services</span>
-            <div class="dropDownLinks">
-              <a href="#">Drop menu 1</a>
-              <a href="#">Drop menu 2</a>
-              <a href="#">Drop menu 3</a>
-              <a href="#">Drop menu 4</a>
-            </div>
-          </div>
-          <div class="dropMenu">
-            <span>PPC Packages</span>
-            <div class="dropDownLinks">
-              <a href="#">Drop menu 1</a>
-              <a href="#">Drop menu 2</a>
-              <a href="#">Drop menu 3</a>
-              <a href="#">Drop menu 4</a>
-            </div>
-          </div>
-
-        </div>
-
-      </li>
-      <!-- normal DropDown -->
-      <li class="dropDownToggle">
-        <a href="#" class="navLink">Web Designing</a>
-
-        <div class="dropMenuContainer">
-
-          <div class="dropMenu">
-            <span>Web Designing Services</span>
-            <div class="dropDownLinks">
-              <a href="#">Drop menu 1</a>
-              <a href="#">Drop menu 2</a>
-              <a href="#">Drop menu 3</a>
-              <a href="#">Drop menu 4</a>
-            </div>
-          </div>
-          <div class="dropMenu">
-            <span>Web Designing Packages</span>
-            <div class="dropDownLinks">
-              <a href="#">Drop menu 1</a>
-              <a href="#">Drop menu 2</a>
-              <a href="#">Drop menu 3</a>
-              <a href="#">Drop menu 4</a>
-            </div>
-          </div>
-
-        </div>
-
-      </li>
       <!-- normal DropDown -->
       <li class="dropDownToggle">
         <a href="#" class="navLink">Web Development</a>
@@ -938,54 +1114,27 @@ $normalNavLinks = [
 
           <div class="dropMenu">
             <span>Web Development Services</span>
-            <div class="dropDownLinks">
-              <a href="#">Drop menu 1</a>
-              <a href="#">Drop menu 2</a>
-              <a href="#">Drop menu 3</a>
-              <a href="#">Drop menu 4</a>
-            </div>
+            <ul class="dropDownLinks">
+              <li><a href="#">Drop menu 1</a></li>
+              <li><a href="#">Drop menu 2</a></li>
+              <li><a href="#">Drop menu 3</a></li>
+              <li><a href="#">Drop menu 4</a></li>
+            </ul>
           </div>
           <div class="dropMenu">
             <span>Web Development Packages</span>
-            <div class="dropDownLinks">
-              <a href="#">Drop menu 1</a>
-              <a href="#">Drop menu 2</a>
-              <a href="#">Drop menu 3</a>
-              <a href="#">Drop menu 4</a>
-            </div>
+            <ul class="dropDownLinks">
+              <li><a href="#">Drop menu 1</a></li>
+              <li><a href="#">Drop menu 2</a></li>
+              <li><a href="#">Drop menu 3</a></li>
+              <li><a href="#">Drop menu 4</a></li>
+            </ul>
           </div>
 
         </div>
 
       </li>
-      <!-- normal DropDown -->
-      <li class="dropDownToggle">
-        <a href="#" class="navLink">content</a>
 
-        <div class="dropMenuContainer">
-
-          <div class="dropMenu">
-            <span>content Services</span>
-            <div class="dropDownLinks">
-              <a href="#">Drop menu 1</a>
-              <a href="#">Drop menu 2</a>
-              <a href="#">Drop menu 3</a>
-              <a href="#">Drop menu 4</a>
-            </div>
-          </div>
-          <div class="dropMenu">
-            <span>content Packages</span>
-            <div class="dropDownLinks">
-              <a href="#">Drop menu 1</a>
-              <a href="#">Drop menu 2</a>
-              <a href="#">Drop menu 3</a>
-              <a href="#">Drop menu 4</a>
-            </div>
-          </div>
-
-        </div>
-
-      </li>
       <!-- normal DropDown -->
       <li class="dropDownToggle">
         <a href="#" class="navLink">hosting</a>
@@ -994,21 +1143,21 @@ $normalNavLinks = [
 
           <div class="dropMenu">
             <span>hosting Services</span>
-            <div class="dropDownLinks">
-              <a href="#">Drop menu 1</a>
-              <a href="#">Drop menu 2</a>
-              <a href="#">Drop menu 3</a>
-              <a href="#">Drop menu 4</a>
-            </div>
+            <ul class="dropDownLinks">
+              <li><a href="#">Drop menu 1</a></li>
+              <li><a href="#">Drop menu 2</a></li>
+              <li><a href="#">Drop menu 3</a></li>
+              <li><a href="#">Drop menu 4</a></li>
+            </ul>
           </div>
           <div class="dropMenu">
             <span>hosting Packages</span>
-            <div class="dropDownLinks">
-              <a href="#">Drop menu 1</a>
-              <a href="#">Drop menu 2</a>
-              <a href="#">Drop menu 3</a>
-              <a href="#">Drop menu 4</a>
-            </div>
+            <ul class="dropDownLinks">
+              <li><a href="#">Drop menu 1</a></li>
+              <li><a href="#">Drop menu 2</a></li>
+              <li><a href="#">Drop menu 3</a></li>
+              <li><a href="#">Drop menu 4</a></li>
+            </ul>
           </div>
 
         </div>
@@ -1039,151 +1188,174 @@ $normalNavLinks = [
 
     <div class="mobileNavLinks">
       <a class="mobileNavLink" href="/">Home</a>
-      <a class="mobileNavLink" href="/">Contact</a>
-      <a class="mobileNavLink" href="/">Blog</a>
+   
 
 
 
       <ul class="mobileDropDownContainer">
 
 
-      <!-- seo section started -->
-        <li class="mobileDropToggle">
-          <label for="seoServices">SEO Services</label>
-          <input type="checkbox" name="" id="seoServices">
-
-          <div class="mobileDropBox">
-            <a href="/">ECommerce SEO</a>
-            <a href="/">Mobile SEO</a>
-            <a href="/">Local SEO</a>
-            <a href="/">IGames SEO</a>
-            <a href="/">Voice Search SEO</a>
-            <a href="/">App Store SEO</a>
-            <a href="/">Multilingual SEO</a>
-          </div>
-
-        </li>
+        <!-- seo section started -->
 
         <li class="mobileDropToggle">
-          <label for="seoPackagesByRegion">SEO Packages By Region</label>
-          <input type="checkbox" name="" id="seoPackagesByRegion">
+          <label for="SEOContainer">SEO</label>
+          <input type="checkbox" name="" id="SEOContainer">
 
           <div class="mobileDropBox">
-            <a href="/">Local SEO Packages</a>
-            <a href="/">National SEO Packages</a>
-            <a href="/">International SEO Packages</a>
+            <label for="seoServices">SEO Services</label>
+            <input type="checkbox" name="" id="seoServices">
+            <ul class="mobileDropBox">
+              <li><a href="/local-seo-services-india.php">Local SEO Services </a></li>
+              <li><a href="product/seo-for-google-my-business-profile">Google Business SEO </a></li>
+              <li><a href="/youtube-channel-seo-optimization-services.php">YouTube SEO </a></li>
+              <li><a href="/">Startup SEO Services</a></li>
+              <li><a href="/aso-app-store-seo-optimization-services.php">ASO Services </a></li>
+              <li><a href="/voice-search-seo-optimization-services-india.php">Voice SEO </a></li>
+              <li><a href="/mobile-igaming-seo-services-india.php">iGaming SEO </a></li>
+              <li><a href="/multilingual-seo-services-company-india.php">Multilingual SEO </a></li>
+              <li><a href="/mobile-search-seo-services-india.php ">Mobile Search SEO </a></li>
+              <li><a href="/seo-monthly-packages-india.php">SEO Packages </a></li>
+            </ul>
           </div>
-        </li>
-
-        <li class="mobileDropToggle">
-          <label for="seoPackagesByLanguage">SEO Packages By Language</label>
-          <input type="checkbox" name="" id="seoPackagesByLanguage">
 
           <div class="mobileDropBox">
-            <a href="/">SEO Packages For French Language</a>
-            <a href="/">SEO Packages For German Language</a>
-            <a href="/">SEO Packages For Dutch Language</a>
-            <a href="/">SEO Packages For Spanish Language</a>
-            <a href="/">SEO Packages For Russian Language</a>
+            <label for="seoPackagesByRegion">SEO Packages By Region</label>
+            <input type="checkbox" name="" id="seoPackagesByRegion">
+            <ul class="mobileDropBox">
+              <li><a href="product/local-seo-packages-india">Local SEO Package </a></li>
+              <li><a href="product/national-seo-packages-india ">National SEO</a></li>
+              <li><a href="product/international-seo-packages-india"> International SEO </a></li>
+            </ul>
           </div>
-        </li>
-
-        <li class="mobileDropToggle">
-          <label for="seoPackagesByIndustry">SEO Packages By Industry</label>
-          <input type="checkbox" name="" id="seoPackagesByIndustry">
 
           <div class="mobileDropBox">
-            <a href="">SEO For ECommerce</a>
-            <a href="">SEO For Dentists</a>
-            <a href="">SEO For Real Estate</a>
-            <a href="">SEO For Law Firms/Lawyers</a>
-            <a href="">SEO For Hotel Websites</a>
-            <a href="">SEO For Manufacturers</a>
-            <a href="">SEO For Healthcare Websites</a>
-            <a href="">SEO For Online Casino</a>
-            <a href="">SEO For Software Companies</a>
-            <a href="">SEO For IT Companies</a>
-            <a href="">SEO For Politicians</a>
-            <a href="">SEO For Travel Agency</a>
-            <a href="">SEO For Astrology/Astrologers</a>
-            <a href="">SEO For Movers And Packers</a>
-            <a href="">SEO For Insurance Companies</a>
-            <a href="">SEO For ECommerce</a>
-            <a href="">SEO For Dentists</a>
-            <a href="">SEO For Real Estate</a>
-            <a href="">SEO For Law Firms/Lawyers</a>
-            <a href="">SEO For Hotel Websites</a>
-            <a href="">SEO For Manufacturers</a>
-            <a href="">SEO For Healthcare Websites</a>
-            <a href="">SEO For Online Casino</a>
-            <a href="">SEO For Software Companies</a>
-            <a href="">SEO For IT Companies</a>
-            <a href="">SEO For Politicians</a>
-            <a href="">SEO For Travel Agency</a>
-            <a href="">SEO For Astrology/Astrologers</a>
-            <a href="">SEO For Movers And Packers</a>
-            <a href="">SEO For Insurance Companies</a>
-            <a href="">SEO For ECommerce</a>
-            <a href="">SEO For Dentists</a>
-            <a href="">SEO For Real Estate</a>
-            <a href="">SEO For Law Firms/Lawyers</a>
-            <a href="">SEO For Hotel Websites</a>
-            <a href="">SEO For Manufacturers</a>
-            <a href="">SEO For Healthcare Websites</a>
-            <a href="">SEO For Online Casino</a>
-            <a href="">SEO For Software Companies</a>
-            <a href="">SEO For IT Companies</a>
-            <a href="">SEO For Politicians</a>
-            <a href="">SEO For Travel Agency</a>
-            <a href="">SEO For Astrology/Astrologers</a>
-            <a href="">SEO For Movers And Packers</a>
-            <a href="">SEO For Insurance Companies</a>
-            <a href="">SEO For ECommerce</a>
-            <a href="">SEO For Dentists</a>
-            <a href="">SEO For Real Estate</a>
-            <a href="">SEO For Law Firms/Lawyers</a>
-            <a href="">SEO For Hotel Websites</a>
-            <a href="">SEO For Manufacturers</a>
-            <a href="">SEO For Healthcare Websites</a>
-            <a href="">SEO For Online Casino</a>
-            <a href="">SEO For Software Companies</a>
-            <a href="">SEO For IT Companies</a>
-            <a href="">SEO For Politicians</a>
-            <a href="">SEO For Travel Agency</a>
-            <a href="">SEO For Astrology/Astrologers</a>
-            <a href="">SEO For Movers And Packers</a>
-            <a href="">SEO For Insurance Companies</a>
+            <label for="seoPackagesByLanguage">SEO Packages By Language</label>
+            <input type="checkbox" name="" id="seoPackagesByLanguage">
 
+            <ul class="mobileDropBox">
+              <li><a href="product/seo-packages-for-french-language"> French SEO </a></li>
+              <li><a href="product/seo-packages-for-german-language"> German SEO </a></li>
+              <li><a href="product/seo-packages-for-dutch-language"> Dutch SEO </a></li>
+              <li><a href="product/seo-packages-for-spanish"> Spanish SEO </a></li>
+              <li><a href="product/seo-packages-for-russian-language"> Russian SEO </a></li>
+            </ul>
           </div>
+
+          <div class="mobileDropBox">
+            <label for="seoPackagesByCMS">SEO Packages by CMS </label>
+            <input type="checkbox" name="" id="seoPackagesByCMS">
+
+            <ul class="mobileDropBox">
+              <li><a href="product/seo-for-mobile-app "> App Store SEO </a></li>
+              <li><a href="product/seo-for-wordpress-website "> WordPress SEO </a></li>
+              <li><a href="product/seo-for-shopify-website"> Shopify SEO </a></li>
+              <li><a href="/"> Magento SEO</a></li>
+              <li><a href="product/seo-for-amazon-store-products "> Amazon SEO </a></li>
+              <li><a href="/"> eBay SEO </a></li>
+              <li><a href="product/seo-for-wix-website "> Wix SEO </a></li>
+              <li><a href="/"> BigCommerce SEO </a></li>
+              <li><a href="product/seo-for-woocommerce "> Woocommerce SEO </a></li>
+              <li><a href="/"> OpenCart SEO </a></li>
+          </div>
+
+          <div class="mobileDropBox">
+            <label for="seoPackagesByIndustry">SEO Packages By Industry</label>
+            <input type="checkbox" name="" id="seoPackagesByIndustry">
+
+            <ul class="mobileDropBox">
+              <li><a href="product/seo-for-astrology-astrologers "> Astrology </a></li>
+              <li><a href="product/seo-for-automotive-automobile-industry "> Automobile </a></li>
+              <li><a href="/"> Artificial Intelligence</a></li>
+              <li><a href="product/seo-for-online-casino-websites "> Casino </a></li>
+              <li><a href="product/seo-for-consulting-firms "> Consultants/Consultancies </a></li>
+              <li><a href="product/seo-for-co-working-space-companies-agencies-websites "> Coworking Office </a></li>
+              <li><a href="product/seo-service-packages-for-cyber-security-companies-firms "> Cyber Security </a></li>
+              <li><a href="/">Data Recovery</a></li>
+              <li><a href="product/seo-for-saas "> Data Science & SAAS </a></li>
+              <li><a href="product/seo-for-dentists "> Dentists </a></li>
+              <li><a href="product/seo-for-ecommerce-websites-stores "> eCommerce </a></li>
+              <li><a href="product/seo-for-ecommerce-websites-stores "> Education </a></li>
+              <li><a href="product/seo-for-finance-companies "> Finance </a></li>
+              <li><a href="/"> Gambling</a></li>
+              <li><a href="product/seo-for-government-agencies "> Government </a></li>
+              <li><a href="product/seo-for-healthcare-industry"> Healthcare </a></li>
+              <li><a href="/"> Homebuilders</a></li>
+              <li><a href="product/seo-for-hotel-websites"> Hotels </a></li>
+              <li><a href="product/seo-for-insurance-companies"> Insurance </a></li>
+              <li><a href="product/seo-for-insurance-companies"> Computers & IT </a></li>
+              <li><a href="product/seo-for-lawyers-law-firms "> Law Firms </a></li>
+              <li><a href="/"> Logistics</a></li>
+              <li><a href="product/seo-for-manufacturing-companies "> Manufacturers </a></li>
+              <li><a href="/"> Market Research</a></li>
+              <li><a href="product/seo-for-movers-and-packers"> Movers And Packers </a></li>
+              <li><a href="product/pet-grooming-care-industry-seo-packages-india ">Pet Groomers </a></li>
+              <li><a href="product/seo-for-politicians ">Politicians </a></li>
+              <li><a href="product/seo-for-real-estate-agents ">Real Estate </a></li>
+              <li><a href="product/seo-for-restaurants ">Restaurants </a></li>
+              <li><a href="product/seo-for-satta-matka-industry-website ">Satta Matka </a></li>
+              <li><a href="product/seo-for-software-companies-and-firms ">Software </a></li>
+              <li><a href="product/sportsbook-seo-services-and-packages ">Sportsbook </a></li>
+              <li><a href="product/seo-for-trading-companies ">Trading/Traders </a></li>
+              <li><a href="product/seo-for-transportation-companies ">Transportation </a></li>
+              <li><a href="product/seo-for-travel-agency-website ">Travel Agency </a></li>
+
+            </ul>
+          </div>
+
         </li>
         <!-- seo section ended -->
 
-<!-- -------------------------------------------------------------------------------------------- -->
+
+
+
+        <!-- -------------------------------------------------------------------------------------------- -->
         <!-- other section started -->
         <li class="mobileDropToggle">
           <label for="SMO">SMO</label>
           <input type="checkbox" name="" id="SMO">
 
-          <div class="mobileDropBox">
-            <label for="SMOService">SMO Services</label>
-            <input type="checkbox" name="" id="SMOService">
-            <div class="mobileDropBox">
-              <a href="/">SMO Service-1</a>
-              <a href="/">SMO Service-2</a>
-              <a href="/">SMO Service-3</a>
-            </div>
-          </div>
+          <ul class="mobileDropBox">
+            <li><a href="/facebook-page-profile-optimization-services.php ">Facebook Optimization </a></li>
+            <li><a href="/twitter-page-profile-optimization-services.php ">Twitter Optimization </a></li>
+            <li><a href="/linkedin-page-profile-optimization-services.php ">LinkedIn Optimization </a></li>
+            <li><a href="/instagram-page-profile-optimization-services.php ">Instagram Optimization </a></li>
+            <li><a href="/">Pinterest Optimization</a></li>
 
-          <div class="mobileDropBox">
-            <label for="SMOPackage">SMO Package</label>
-            <input type="checkbox" name="" id="SMOPackage">
-            <div class="mobileDropBox">
-              <a href="/">SMO Package-1</a>
-              <a href="/">SMO Package-2</a>
-              <a href="/">SMO Package-3</a>
-            </div>
-          </div>
+          </ul>
+        </li>
+        <!-- other section ended -->
+        <!-- other section started -->
+        <li class="mobileDropToggle">
+          <label for="ContentWriting">Content Writing </label>
+          <input type="checkbox" name="" id="ContentWriting">
 
+          <ul class="mobileDropBox">
+            <li><a href="/content-writing-services.php "></a></li>
+            <li><a href="/website-blog-writing-services.php ">Blog Writing </a></li>
+            <li><a href="/web-page-service-content-writing-services.php ">Service Page Writing </a></li>
+            <li><a href="/ecommerce-products-description-writing-services.php ">Product Content Writing </a></li>
+            <li><a href="/press-release-writing-services.php ">Press Release Writing </a></li>
+            <li><a href="/guest-post-writing-services.php ">Guest Post Writing </a></li>
+            <li><a href="/social-media-post-writing-services.php ">Social Media Post Writing </a></li>
+            <li><a href="/graphics-content-writing-services.php ">Graphics Content Writing </a></li>
+            <li><a href="/guest-posting-services-india.php ">Guest Post Submission </a></li>
+
+
+          </ul>
+        </li>
+        <!-- other section ended -->
+        <!-- other section started -->
+        <li class="mobileDropToggle">
+          <label for="youtube">YouTube</label>
+          <input type="checkbox" name="" id="youtube">
+
+          <ul class="mobileDropBox">
+            <li><a href="/youtube-channel-seo-optimization-services.php ">YouTube SEO </a></li>
+            <li><a href="/youtube-channel-monetization-services.php ">YouTube Monetization </a></li>
+            <li><a href="product/youtube-channel-subscribers-count-packages">YouTube Subscribers </a></li>
+            <li><a href="product/youtube-videos-watch-hour-count-packages">YouTube Watch Hours </a></li>
+
+          </ul>
         </li>
         <!-- other section ended -->
 
@@ -1195,11 +1367,11 @@ $normalNavLinks = [
           <div class="mobileDropBox">
             <label for="SMMService">SMM Services</label>
             <input type="checkbox" name="" id="SMMService">
-            <div class="mobileDropBox">
+            <ul class="mobileDropBox">
               <a href="/">SMM Service-1</a>
               <a href="/">SMM Service-2</a>
               <a href="/">SMM Service-3</a>
-            </div>
+            </ul>
           </div>
 
           <div class="mobileDropBox">
@@ -1215,33 +1387,7 @@ $normalNavLinks = [
         </li>
         <!-- other section ended -->
 
-        <!-- other section started -->
-        <li class="mobileDropToggle">
-          <label for="youtube">youtube</label>
-          <input type="checkbox" name="" id="youtube">
 
-          <div class="mobileDropBox">
-            <label for="youtubeService">youtube Services</label>
-            <input type="checkbox" name="" id="youtubeService">
-            <div class="mobileDropBox">
-              <a href="/">youtube Service-1</a>
-              <a href="/">youtube Service-2</a>
-              <a href="/">youtube Service-3</a>
-            </div>
-          </div>
-
-          <div class="mobileDropBox">
-            <label for="youtubePackage">youtube Package</label>
-            <input type="checkbox" name="" id="youtubePackage">
-            <div class="mobileDropBox">
-              <a href="/">youtube Package-1</a>
-              <a href="/">youtube Package-2</a>
-              <a href="/">youtube Package-3</a>
-            </div>
-          </div>
-
-        </li>
-        <!-- other section ended -->
 
         <!-- other section started -->
         <li class="mobileDropToggle">
@@ -1385,7 +1531,8 @@ $normalNavLinks = [
 
       </ul>
 
-
+      <a class="mobileNavLink" href="/">Contact</a>
+      <a class="mobileNavLink" href="/">Blog</a>
       <!-- mobile mega DropDown -->
     </div>
 
