@@ -12,6 +12,7 @@ $youtube = "yourYoutubeLink";
 $linkedin = "yourLinkedinLink";
 $pinterest = "yourPitnrestLink";
 $instagram = "yourInstagramLink";
+$skype="yourSkypeLink";
 
 
 

@@ -4,3 +4,7 @@ header .logoBox{
 .mobileBottomLinks{
     display: flex;
 }
+/* awards section */
+.awardCard{
+    flex-direction: column;
+}

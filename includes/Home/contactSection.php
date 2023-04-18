@@ -6,7 +6,7 @@
     <div class="row p-0 m-0">
 
         <div class="col-md-6 contactLeft py-4">
-            <div class="formBannerSection px-4">
+            <div class="formBannerSection ">
                 <h1>Discover How We Can Help <span>Your Business Grow.</span></h1>
             </div>
 
@@ -30,6 +30,18 @@
                     </div>
                 </div>
 
+                <select name="requirment">
+                    <option value="">---Select Your Requirements*----</option>
+
+                    <option value="Search Engine Optimization">Search Engine Optimization</option>
+                    <option value="Google Ads or PPC ">Google Ads or PPC </option>
+                    <option value="Website Designing">Website Designing</option>
+                    <option value="Social Media Marketing">Social Media Marketing</option>
+                    <option value="Content Writing">Content Writing</option>
+                    <option value="YouTube Monetization">YouTube Monetization</option>
+                    <option value="Website Hosting">Website Hosting</option>
+                </select>
+
                 <input type="text" name="budget" id=""
                     placeholder="what is your projected monthly budget for this project ?">
 
@@ -40,6 +52,7 @@
         </div>
 
         <div class="col-md-6 contactRight py-3">
+            <img src="./assets/img/contact/world.webp" alt="world image" srcset="">
             <h1><a href="tel:+<?php echo $phoneNumber1 ?>">91+<?php echo $phoneNumber1 ?></a></h1>
             <h3><a href="mailto:<?php echo $email1 ?>"></a>
                 <?php echo $email1 ?>
@@ -67,21 +80,21 @@
 
                 <div class="contactContentBox">
                     <div class="iconBox">
-                    <i class="fa fa-users" aria-hidden="true"></i>
+                        <i class="fa fa-users" aria-hidden="true"></i>
                     </div>
                     <div class="contentBox">
                         <span>
                             50+
                         </span>
                         <span>
-                           Team of Professionals
+                            Team of Professionals
                         </span>
                     </div>
                 </div>
 
                 <div class="contactContentBox">
                     <div class="iconBox">
-                    <i class="fa fa-globe" aria-hidden="true"></i>
+                        <i class="fa fa-globe" aria-hidden="true"></i>
                     </div>
                     <div class="contentBox">
                         <span>
@@ -95,14 +108,14 @@
 
                 <div class="contactContentBox">
                     <div class="iconBox">
-                    <i class="fa fa-handshake-o" aria-hidden="true"></i>
+                        <i class="fa fa-handshake-o" aria-hidden="true"></i>
                     </div>
                     <div class="contentBox">
                         <span>
                             99%
                         </span>
                         <span>
-                           Client Retntion
+                            Client Retntion
                         </span>
                     </div>
                 </div>

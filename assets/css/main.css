@@ -537,7 +537,8 @@ flex-direction: column;
   font-weight: bold;
 }
 .contactForm input, 
-.contactForm textarea
+.contactForm textarea,
+.contactForm select
 {
   width:100%;
   padding:0.5rem 1rem;
@@ -548,7 +549,8 @@ flex-direction: column;
   text-transform: capitalize;
 }
 .contactForm input:focus,
-.contactForm textarea:focus
+.contactForm textarea:focus,
+.contactForm select:focus
 {
   outline: 3px solid var(--darkBlue);
 }
@@ -558,6 +560,26 @@ flex-direction: column;
   color: white;
   text-transform: capitalize;
   padding-right: max(10vw,2rem);
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+.contactRight:before{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: #0f191fa2;
+  z-index: -1;
+}
+.contactRight img{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  z-index: -2;
 }
 .contactRight h1{
   font-size:max(3vw,2.5rem);
@@ -599,6 +621,134 @@ gap: 1rem;
 font-weight: 600;
 }
 
+
+/* ============================================================contentHolderSection (directly in home page) */
+.contentHolderSection{
+  position: relative;
+  z-index: 1;
+}
+.contentHolderSection::before{
+  content: "";
+  position: absolute;
+  height: 50%;
+  max-height: 600px;
+  width: 100%;
+  background-color: #D3FFD9;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  border-radius: 0% 100% 100% 0% / 0% 100% 0% 100% ;
+}
+.contentHolderSection  .content{
+  border-bottom: 1px solid gray;
+  padding: 1rem;
+}
+.contentHolderSection .content p{
+ font-size: 1.2rem;
+ text-align: justify;
+}
+.contentHolderSection .content p a{
+font-weight: bold;
+}
+.contentHolderSection .content p a:hover{
+  color: var(--brandColor);
+}
+/* ===========================================================awardSection */
+.awardCard{
+  display: flex;
+  border: 2px solid var(--brandColor);
+  border-radius: 0.6rem;
+  padding: 1rem;
+  box-shadow: 0px 0px 2px 2px var(--brandColor) inset;
+}
+.awardImgBox{
+ max-width: 200px;
+ min-width: 200px;
+ display: flex;
+ align-items: flex-start;
+ flex-direction: column;
+ margin: 0 auto;
+}
+.awardImgBox img{
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+}
+.awardContentBox {
+  border-left: 1px solid var(--brandColor);
+  padding-left: 1rem;
+}
+.awardContentBox p{
+text-transform: capitalize;
+text-align: justify;
+}
+.awardContentBox h4{
+text-transform: capitalize;
+font-weight: bold;
+font-size:1.5rem;
+};
+
+/* =============================================================seoToolsAndResult.php */
+/* .seoResultSection{
+
+}
+.seoResultSection .splide__track .splide__list .splide__slide{
+  min-height: 300px;
+} */
+
+.seoToolsSectionContainer{
+
+}
+.seoToolsSectionContainer .commonTitle,
+.seoResultContainer .commonTitle
+{
+  background-color: var(--brandColor);
+  padding: 0.5rem 1rem;
+  text-align: center;
+}
+
+
+/* ===============================================================servicePerformCard */
+.servicePerformCard{
+  /* display: flex; */
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  border:2px solid var(--brandColor);
+  padding: 0.7rem;
+  border-radius: 0.6rem;
+  min-height: 500px;
+}
+.servicePerformCard .iconBox{
+font-size: 3rem;
+background-color: var(--brandColor);
+color: white;
+width: 100%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+border-radius: 0.6rem;
+padding-block: 0.5rem;
+}
+.servicePerformCard .iconBox h3{
+text-align: center;
+font-weight: bold;
+}
+.servicePerformCard .contentBox p{
+text-align: justify;
+text-transform: capitalize;
+}
+
+/* ============================================================seoChecklistCard */
+.seoChecklistCard{
+  border-radius: 0.6rem;
+  padding: 1rem;
+}
+.seoChecklistCard h2{
+  border-bottom: 2px solid rgb(0, 0, 0);
+  margin-bottom: 1rem;
+}
 /* ============================================================footer section css */
 .footer {
   background-color: var(--footerBg);
@@ -661,6 +811,7 @@ font-weight: 600;
       width: 100%;
       padding: 0.5rem;
       display: none;
+      z-index: 999;
     }
 
     .mobileBottomLinks a{
