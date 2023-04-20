@@ -1,5 +1,5 @@
-<div class="bannerSection">
-    <h1>SEO Services: Our Step-By-Step Process</h1>
+<div class="bannerSection BottomBorder">
+    <h1 class="">SEO Services: Our Step-By-Step Process</h1>
 </div>
 
 <div class="servicesContainer container">

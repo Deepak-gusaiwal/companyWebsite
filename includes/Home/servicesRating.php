@@ -1,7 +1,31 @@
 <?php
 $ratingsImageArray = [
     [
-        "img" => "jd.png"
+        "img" => "justdial.png"
+    ],
+    [
+        "img" => "google.png"
+    ],
+    [
+        "img" => "sulekaha.png"
+    ],
+    [
+        "img" => "trustpilot.png"
+    ],
+    [
+        "img" => "designrush.png"
+    ],
+    [
+        "img" => "siteJabber.png"
+    ],
+    [
+        "img" => "clutch.png"
+    ],
+    [
+        "img" => "like.png"
+    ],
+    [
+        "img" => "glassdoor.png"
     ],
 ]
     ?>
@@ -32,7 +56,7 @@ $ratingsImageArray = [
 
 <!-- ratings slider -->
 <section class="splide ratingsSectionSlider" aria-label="Splide Slider ">
-    <div class="splide__track px-5">
+    <div class="splide__track px-md-5 px-0" >
         <div class="splide__list">
 
             <?php foreach ($ratingsImageArray as $data): ?>

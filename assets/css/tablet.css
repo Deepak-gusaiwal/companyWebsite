@@ -21,11 +21,16 @@ nav.desktopNav{
 /* make display flex to mobile nav bar */
 nav.mobileNav{
    display: flex;
-   position: relative;
+   /* position: relative; */
    justify-content: flex-start;
-   /* top: 100%;
+   position: absolute;
+   top: 100%;
+   width: fit-content;
    left: 0;
-   width: fit-content; */
+   padding: 0.4rem 0.2rem;
+   border-top-right-radius: 0.5rem;
+   border-bottom-right-radius: 0.5rem;
+   border: 2px solid white;
 }
 
 .mobileNavToggler{
@@ -69,7 +74,7 @@ nav.mobileNav .mobileNavLinks{
     left: 0;
     top: 100%;
     padding: 1rem;
-    transform: translateX(-100%);
+    transform: translateX(-110%);
     transition: 300ms;
     max-height: 70vh;
     overflow-y: scroll;
@@ -95,7 +100,17 @@ text-transform: uppercase;
 font-weight: 600;
 text-transform: uppercase;
 width: 100%;
+display: flex;
+gap: 2rem;
+justify-content: space-between;
+padding: 0.5rem 0.6rem;
 }
+.mobileDropToggle label a{
+    font-size: 1.2rem;
+    padding: 0 0.8rem;
+    border-radius: 2rem;
+}
+
 .mobileDropToggle label:hover{
   background-color: var(--brandColor);
 }
@@ -128,4 +143,10 @@ overflow-y: scroll;
     padding-left: 0;
     padding-right: 0;
     padding-inline: 2rem;
+}
+
+/* services Perform Section */
+.servicePerformCard,
+.servicePerformCard .contentBox{
+    min-height: auto;
 }

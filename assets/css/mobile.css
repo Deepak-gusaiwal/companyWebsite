@@ -4,6 +4,9 @@ header .logoBox{
 .mobileBottomLinks{
     display: flex;
 }
+.desktopBottomLinks{
+    display: none;
+}
 /* awards section */
 .awardCard{
     flex-direction: column;

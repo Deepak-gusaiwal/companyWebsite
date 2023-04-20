@@ -1,5 +1,9 @@
-<div class="breadCrubmContainer">
-    <a href="/">Home</a> <span>/</span>
-    <a href="/">Link title</a> <span>/</span>
-    <span>Link Name</span> 
+<div class="breadCrumbContainer">
+<div class="breadCrumb">
+<a href="/">Home</a> <span>/</span>
+    <span><?php echo $pageTitle; ?></span>
+</div>
+<div class="breadCrumbTitle">
+    <h1><?php echo $pageTitle; ?></h1>
+</div>
 </div>

@@ -18,6 +18,34 @@
 
 </div>
 
+
+<div class="desktopBottomLinks">
+
+    <a href="tel: <?php echo $phoneNumber1; ?>"  >
+    <i class="fa fa-phone" aria-hidden="true"></i>
+    <span>Call Us: +91 <?php echo $phoneNumber1; ?></span>
+    </a>
+
+    <a href="mailto:<?php echo $email1 ?>">
+        <i class="fa fa-envelope"></i>
+        <span>Mail Us: <?php echo $email1; ?></span>
+    </a>
+
+    <a href="<?php echo $whatsappLink; ?>" >
+    <i class="fa fa-whatsapp" aria-hidden="true"></i>
+    <span>Whatsapp Us: <?php echo $phoneNumber1; ?></span>
+    </a>
+
+    <a class="contactFormToogler">
+    <i class="fa fa-info-circle" aria-hidden="true"></i>
+        <span>Inquiry Now</span>
+    </a>
+
+    
+</div>
+
+<!-- sticky contact Form -->
+<?php require "./includes/stickyContactForm.php"; ?>
 <footer class="row footer m-0 py-4 text-capitalize">
 
     <div class="col-md-3 col-sm-6 p-3">

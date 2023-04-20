@@ -13,10 +13,12 @@
   --whatsappLight: #25d366;
   --whatsappDark: #128c7e;
   --footerBg: #f2f2f2;
-  --darkBlue:#253f4f;
+  --darkBlue:#172731;
+  --veryLightGreen:#D3FFD9;
 
   --facebook: #4169e1;
   --twitter: #00bfff;
+  --skype: #00bfff;
   --youtube: #ff0000;
   --linkedin: #0077b5;
   --pintrest: #e60023;
@@ -53,7 +55,7 @@ header {
   position: sticky;
   top: 0;
   background-color: white;
-  z-index: 2;
+  z-index: 9999;
 }
 header .topNav {
   width: 100%;
@@ -144,13 +146,23 @@ line-height: 0.6;
 }
 
 .mobileNoInPhoneView{
-    font-size: 0.8rem;
+    font-size: 1rem;
     font-weight: 600;
+    background-color: var(--brandColor);
+    border: 2px solid white;
+    box-shadow: 2px 2px 5px black;
+    border-radius: 0.5rem;
+    padding: 0 0.2rem;
+}
+/* headerSocialLinks */
+.headerSocialLinks a{
+  height: 15px !important;
 }
 /* mobile Nav */
 nav.mobileNav{
   display: none;
 }
+
 /* navbar / menubar css */
 nav{
   background-color: var(--brandColor);
@@ -289,9 +301,32 @@ flex-direction: column;
 }
 /* PPCAdsMegaContainer and PodCastMegaContainer */
 .PPCAdsMegaContainer .megaBoxLeft,
-.PodCastMegaContainer .megaBoxLeft
+.PodCastMegaContainer .megaBoxLeft,
+.WebDesignMegaContainer .megaBoxLeft
 {
   padding-left: 3rem;
+}
+/* WebDesignMegaContainer */
+.WebDesignMegaContainer{
+  max-width: 900px;
+ left: 50%;
+ transform: translateX(-50%);
+}
+
+.WebDesignMegaContainer .megaLinksBox span{
+text-transform: capitalize;
+font-weight: 600;
+font-size: 1.2rem;
+}
+.WebDesignMegaContainer .megaBoxLeft{
+flex: 1;
+}
+.WebDesignMegaContainer .megaBoxRight{
+flex: 2;
+}
+.WebDesignMegaContainer .megaBoxRight .megaBoxRightWrapper{
+  justify-content: center;
+  gap: 2rem;
 }
 
 
@@ -363,17 +398,52 @@ flex-direction: column;
   fill: white;
 }
 
-/* ============================================================breadCrubmContainer css */
-.breadCrubmContainer {
+/* ============================================================breadCrumbContainer css */
+.breadCrumbContainer {
   display: flex;
-  background-color: var(--footerBg);
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background:black;
   color: black;
   gap: 0.6rem;
   padding: 1rem 1rem;
   font-weight: bold;
   text-transform: capitalize;
+  min-height: 200px;
+  position: relative;
+  z-index: 1;
+  background-image: url("../img/seo/seo\ \(1\).webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
-.breadCrubmContainer a:hover {
+.breadCrumbContainer::before{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: #098488be;
+  border-radius: 60% 40% 100% 0% / 59% 0% 100% 41%  ;
+  z-index: -1;
+}
+.breadCrumbContainer .breadCrumb{
+background-color: black;
+width: fit-content;
+color: white;
+padding:0.4rem 1rem;
+}
+.breadCrumbContainer .breadCrumbTitle *{
+ text-align: center;
+ font-size: max(4vw,2.5rem);
+ font-weight: bold;
+ text-transform: capitalize;
+ color: white;
+}
+.breadCrumbContainer a:hover {
   color: var(--brandColor);
 }
 
@@ -498,6 +568,12 @@ flex-direction: column;
 .serviceCard .serviceButtonBox a i{
  font-size: 1.5rem;
 }
+.serviceCard .serviceContentBox {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+height: 65%;
+}
 .serviceCard .serviceContentBox p{
  font-size: 0.9rem;
 }
@@ -527,7 +603,7 @@ flex-direction: column;
 /* contactleft */
 .contectSection .row .contactLeft{
   background-color: var(--brandColor);
-  padding-left: max(10vw,2rem);
+  padding-left: max(8vw,2rem);
 }
 .contactLeft .formBannerSection h1{
   text-transform: capitalize;
@@ -559,7 +635,7 @@ flex-direction: column;
   background-color: var(--darkBlue);
   color: white;
   text-transform: capitalize;
-  padding-right: max(10vw,2rem);
+  padding-right: max(8vw,2rem);
   position: relative;
   z-index: 1;
   overflow: hidden;
@@ -639,18 +715,54 @@ font-weight: 600;
   z-index: -1;
   border-radius: 0% 100% 100% 0% / 0% 100% 0% 100% ;
 }
-.contentHolderSection  .content{
+.contentHolderSection  .content
+{
   border-bottom: 1px solid gray;
   padding: 1rem;
 }
-.contentHolderSection .content p{
+.content{
+  padding: 1rem;
+}
+.contentHolderSection .content li,
+.content li{
+  list-style: disc;
+  font-size: 1.2rem;
+}
+.contentHolderSection .content ul,
+.content ul{
+  width: max(80%,280px)
+
+}
+.contentHolderSection  .content h1,
+.contentHolderSection  .content h2,
+.contentHolderSection  .content h3,
+.contentHolderSection  .content h4,
+.contentHolderSection  .content h5,
+.contentHolderSection  .content h6,
+ .content h1,
+ .content h2,
+ .content h3,
+ .content h4,
+ .content h5,
+ .content h6
+{
+text-align: center;
+font-weight: bold;
+}
+.contentHolderSection .content p,
+.content p
+{
  font-size: 1.2rem;
  text-align: justify;
 }
-.contentHolderSection .content p a{
+.contentHolderSection .content p a,
+.content p a
+{
 font-weight: bold;
 }
-.contentHolderSection .content p a:hover{
+.contentHolderSection .content p a:hover,
+.content p a:hover
+{
   color: var(--brandColor);
 }
 /* ===========================================================awardSection */
@@ -660,6 +772,7 @@ font-weight: bold;
   border-radius: 0.6rem;
   padding: 1rem;
   box-shadow: 0px 0px 2px 2px var(--brandColor) inset;
+  height: 100%;
 }
 .awardImgBox{
  max-width: 200px;
@@ -689,24 +802,89 @@ font-size:1.5rem;
 };
 
 /* =============================================================seoToolsAndResult.php */
-/* .seoResultSection{
 
-}
-.seoResultSection .splide__track .splide__list .splide__slide{
-  min-height: 300px;
-} */
 
 .seoToolsSectionContainer{
 
 }
+.seoToolsSectionContainer .seoToolsSlide{
+  max-height: 200px;
+}
+.seoToolsSectionContainer .seoToolsSlide img{
+ object-fit: contain;
+}
+/* seoToolsSection2 */
+.seoToolsSection2 .seoToolsSlide2{
+min-height: 100px;
+overflow: hidden;
+display: flex;
+gap: 1rem;
+justify-content: space-around;
+align-items: center;
+border-radius: 0.8rem;
+box-shadow: 0px 0px 3px 3px var(--brandColor) inset;
+overflow: hidden;
+padding: 0.8rem;
+transition: 200ms;
+cursor: pointer;
+margin-bottom: 2rem;
+}
+.seoToolsSlide2:hover{
+  opacity: 0.8;
+}
+
+.seoToolsSection2 .seoToolsSlide2 .iconBox{
+font-size: 60px;
+padding:0 1rem;
+
+}
+
+.seoToolsSection2 .seoToolsSlide2 .slideContentBox{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  text-align: center;
+  line-height: 1;
+  font-size: max(1.7vw,1.2rem);
+  border-radius: 1rem;
+  box-shadow: 0px 0px 3px 3px black;
+  border: 2px solid white;
+  padding: 0.8rem;
+  width: 100%;
+}
+.seoToolsSection2 .seoToolsSlide2 .slideContentBox p:nth-child(2){
+font-weight: bold;
+margin-top: -10px;
+}
+
+/* seoResultSlide */
 .seoToolsSectionContainer .commonTitle,
 .seoResultContainer .commonTitle
 {
   background-color: var(--brandColor);
   padding: 0.5rem 1rem;
   text-align: center;
+  font-size: 2rem;
 }
-
+.seoResultSection .seoResultSlide table,
+.seoResultSection .seoResultSlide table td,
+.seoResultSection .seoResultSlide table th
+{
+  border: 2px solid var(--brandColor);
+  border-collapse: collapse;
+}
+.seoResultSection .seoResultSlide table tbody tr td:nth-child(1){
+width: 40%;
+}
+.seoResultSection .seoResultSlide table  tr{
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.seoResultSection .seoResultSlide table thead {
+  background-color: var(--darkBlue);
+  color: white;
+}
 
 /* ===============================================================servicePerformCard */
 .servicePerformCard{
@@ -717,7 +895,8 @@ font-size:1.5rem;
   border:2px solid var(--brandColor);
   padding: 0.7rem;
   border-radius: 0.6rem;
-  min-height: 500px;
+  min-height: 480px;
+  max-height: 480px;
 }
 .servicePerformCard .iconBox{
 font-size: 3rem;
@@ -735,6 +914,12 @@ padding-block: 0.5rem;
 text-align: center;
 font-weight: bold;
 }
+.servicePerformCard .contentBox{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 350px;
+}
 .servicePerformCard .contentBox p{
 text-align: justify;
 text-transform: capitalize;
@@ -744,11 +929,60 @@ text-transform: capitalize;
 .seoChecklistCard{
   border-radius: 0.6rem;
   padding: 1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 .seoChecklistCard h2{
   border-bottom: 2px solid rgb(0, 0, 0);
   margin-bottom: 1rem;
 }
+.seoChecklistCard .seoCheckList{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.seoChecklistCard .seoCheckList li{
+background-color: black;
+color: white;
+text-transform: capitalize;
+font-weight: bold;
+padding: 0.5rem;
+border-radius: 0.5rem;
+}
+
+
+/* =============================================================FAQ Section Css*/
+.FAQContainer .accordion .accordion-item{
+  background-color: var(--brandColor);
+}
+.FAQContainer .accordion .accordion-item .accordion-header .accordion-button
+{
+  font-weight: bold;
+  font-size: 1.2rem;
+  border: 2px solid var(--brandColor);
+  background-color: white;
+}
+
+.FAQContainer .accordion .accordion-item .accordion-header .accordion-button:focus{
+outline: none;
+background-color: white;
+z-index: 0;
+box-shadow: 0px 0px 5px 3px var(--brandColor) inset;
+}
+
+
+.FAQContainer .accordion .accordion-item .accordion-header .accordion-button span:nth-child(1){
+ color: rgb(0, 47, 255);
+ margin-right: 1rem;
+ font-size: 1.4rem;
+}
+.accordionImgBox{
+  background-color: white;
+}
+
 /* ============================================================footer section css */
 .footer {
   background-color: var(--footerBg);
@@ -799,7 +1033,7 @@ text-transform: capitalize;
 
 
 
-    /* mobileBottomLinks */
+    /* ===============================================mobileBottomLinks */
     .mobileBottomLinks{
       display: flex;
       justify-content: space-between;
@@ -809,14 +1043,13 @@ text-transform: capitalize;
       bottom: 0;
       left: 0;
       width: 100%;
-      padding: 0.5rem;
       display: none;
       z-index: 999;
     }
 
     .mobileBottomLinks a{
       width: 100%;
-      padding-block: 0.6rem;
+      padding-block: 0.2rem;
       background-color: var(--whatsappLight);
       color: white;
       display: flex;
@@ -834,7 +1067,122 @@ text-transform: capitalize;
       background-color: var(--linkedin);
     }
 
+    /* ==========================================desktopBottomLinks */
+    .desktopBottomLinks{
+      display: flex;
+      align-items: center;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      z-index: 999;
+    }
+    .desktopBottomLinks a{
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-right: 2px solid white;
+      transition: 200ms;
+      width: 100%;
+      display: flex;
+      gap: 0.5rem;
+      cursor: pointer;
+      padding: 0.5rem 0;
+    }
+    .desktopBottomLinks a i{
+      font-size: 1.5rem;
+    }
+    .desktopBottomLinks a:hover{
+      box-shadow: 0px 0px 3px 3px black;
+      transform:scaleY(1.1);
+    }
 
+    .desktopBottomLinks a:nth-child(1){
+      background-color: red;
+    }
+    .desktopBottomLinks a:nth-child(2){
+      background-color: var(--linkedin);
+    }
+    .desktopBottomLinks a:nth-child(3){
+      background-color: var(--whatsappDark);
+    }
+    .desktopBottomLinks a:nth-child(4){
+      background-color: var(--darkBlue);
+    }
 
+/* ============================================stickyContactFormContainer */
+.stickyContactFormContainer{
+  max-width: 300px;
+  border: 2px solid var(--brandColor);
+  border-radius: 0.5rem;
+  position: fixed;
+  right: 0;
+  top: 30%;
+  z-index: 99;
+  background-color: white;
+  transform: translateX(100%);
+  transition: 300ms;
+  box-shadow: 2px -2px 5px black;
+}
+.stickyContactFormContainer .formtoggleLable{
+  background: black;
+  width: fit-content;
+  gap: 1rem;
+  font-weight: bold;
+  color: white;
+  padding: 0.3rem;
+  font-size: 1rem;
+  text-align: center;
+  text-transform: uppercase;
+  position: absolute;
+  left: -30%;
+  top: 50%;
+  transform: rotate(-90deg);
+  border-top-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+  cursor: pointer;
+  box-shadow: 2px -2px 5px black;
+  border: 2px solid white;
+  border-bottom: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+.stickyContactFormContainer .formtoggleLable i{
+  color: var(--brandColor);
+  font-size: 1.3rem;
+}
+.showForm{
+  transform: translateX(-4%) !important;
+}
+
+.stickyContactFormContainer .formHead{
+  background-color: var(--brandColor);
+  color: black;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  padding: 0.6rem 0;
+  }
+  .stickyContactFormContainer .formHead h3{
+  font-weight: bold;
+  }
+  
+.stickyContactFormContainer .stickyContactForm{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 0.6rem;
+padding: 0.5rem;
+}
+.stickyContactFormContainer .stickyContactForm input,
+.stickyContactFormContainer .stickyContactForm textarea
+{
+width: 100%;
+padding: 0.2rem 1rem;
+}
 
 

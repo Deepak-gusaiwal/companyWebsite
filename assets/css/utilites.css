@@ -1,7 +1,7 @@
 /* whatsappButtonRound */
 .whatsappButtonRound {
-  min-width: 50px;
-  min-height: 50px;
+  min-width: 35px;
+  min-height: 35px;
   font-size: 1.8rem;
   border-radius: 100%;
   background-color: var(--whatsappLight);
@@ -56,9 +56,12 @@
   text-align: center;
   font-size: max(3vw, 2rem);
   width: max(80%, 270px);
-  border-bottom: 2px solid black;
+  
   width: fit-content;
   font-weight: bold;
+}
+.bannerSection.BottomBorder h1{
+  border-bottom: 2px solid black;
 }
 
 /* commonTitle */
@@ -159,39 +162,17 @@ button[type="submit"]:hover,
 .commonButton:hover {
   border-radius: 2rem;
 }
-.contactButtonSectionGroup .commonButton:nth-of-type(1) {
-  background-color: var(--youtube);
-}
-.contactButtonSectionGroup .commonButton:nth-of-type(2) {
-  background-color: black;
-}
-.contactButtonSectionGroup .commonButton:nth-of-type(3) {
-  background-color: var(--whatsappLight);
-}
-.contactButtonSectionGroup .commonButton:nth-of-type(4) {
-  background-color: var(--twitter);
-}
-.contactButtonSectionGroup .commonButton:nth-of-type(5) {
-  background-color: var(--instagram);
-}
 
-/* contactButtonsSection */
-.contactButtonsSection {
-  border: 2px solid var(--brandColor);
-  margin: 1rem;
-  border-radius: 0.5rem;
-}
-.contactButtonsSection p {
-  font-size: 1.2rem;
+/* form */
+.formErrorSpan{
+  color: red;
   text-transform: capitalize;
   font-weight: bold;
-  background-color: var(--brandColor);
-  padding: 1rem;
-  text-align: center;
+  font-size: 1.2rem;
+  margin-top: -2rem;
 }
-.contactButtonsSection p span {
-  color: red;
-}
+
+
 /* whatsapp Button */
 
 .RoundButton {
@@ -210,16 +191,7 @@ button[type="submit"]:hover,
 .RoundButton:hover{
   transform: scaleY(1.1);
 }
-.whatsappBg {
-  background-color: var(--whatsappDark);
-}
-.callBg {
-  background-color: var(--youtube);
-}
 
-.brandBg{
-  background-color: var(--brandColor);
-}
 
 .normalWhatsappButton{
   background-color: var(--whatsappDark);
@@ -249,10 +221,59 @@ font-size: 1.2rem;
 .blueColor{
   color: #414f9b;
 }
-
+.whiteColor{
+  color: white;
+}
 .maroonColor{
   color: #7E0000;
 }
 .purpleColor{
   color: #800080;
+}
+.facebookColor{
+  color: var(--facebook);
+}
+.whatsappColor{
+  color: var(--whatsappLight);
+}
+.instaColor{
+  color: var(--instagram);
+}
+.skypeColor{
+  color: var(--skype);
+}
+
+.darkBlueBg{
+  background-color: #130087;
+}
+.greenBg{
+  background-color: #8AFF87;
+}
+.redBg{
+  background-color: red;
+}
+.whatsappBg {
+  background-color: var(--whatsappDark);
+}
+.callBg {
+  background-color: var(--youtube);
+}
+
+.brandBg{
+  background-color: var(--brandColor);
+}
+.purpleBg{
+  background-color: #800080;
+}
+.skypeBg{
+  background-color: var(--skype);
+}
+.facebookBg{
+  background-color: var(--facebook);
+}
+.whatsappLightBg{
+  background-color: var(--whatsappLight);
+}
+.instaBg{
+  background-color: var(--instagram);
 }
