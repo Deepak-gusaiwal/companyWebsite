@@ -1,5 +1,5 @@
 <?php
-$phoneNumber1 = 9717686168;
+$phoneNumber1 = +91-9717686168;
 $phoneNumber2 = 8802555230;
 $email1 = "anubhav@seoserviceinindia.co.in";
 $email2 = "chander@mysticdigi.com";
@@ -15,8 +15,11 @@ $instagram = "yourInstagramLink";
 $skype = "yourSkypeLink";
 
 ?>
+<!-- get form data and get mail it -->
+<?php require "./includes/Helpers/mail.php"; ?>
 
-
+<!-- sticky mail config -->
+<?php require "./includes/Helpers/stickyMail.php"; ?>
 
 
 

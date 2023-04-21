@@ -7,11 +7,7 @@
     min-height: 200px;
    }
 
-   /* product section */
-   /* tabs Container */
-.tabsContainer .tabGroup{
-    overflow-x: scroll;
-}
+
 
 /* make display none to desktop nav */
 nav.desktopNav{
@@ -150,3 +146,18 @@ overflow-y: scroll;
 .servicePerformCard .contentBox{
     min-height: auto;
 }
+
+
+/* =========================================================================productPageContainer */
+.packagesContainer .packagesTabs {
+    overflow-x: scroll;
+    justify-content: start;
+    gap: 0;
+   }
+.packagesContainer .packagesTabs button{
+   line-height: 1;
+   padding-bottom: 0.8rem;
+   }
+   .packagesTabs button.active{
+    box-shadow: none;
+  }

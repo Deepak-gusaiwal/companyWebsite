@@ -447,106 +447,7 @@ padding:0.4rem 1rem;
   color: var(--brandColor);
 }
 
-/* ================================================================product details */
-.productContainer {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-}
-.productContainer .productImgBox {
-  flex: 1;
-  max-height: 400px;
-  min-width: 300px;
-}
-.productContainer .productImgBox img {
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-}
-.productContainer .productAllDetailsContianer {
-  flex: 1;
-}
-.productContainer .productAllDetailsContianer .addToCartContianer {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-  gap: 1rem;
-  align-items: center;
-}
-.productContainer
-  .productAllDetailsContianer
-  .addToCartContianer
-  .QuantityBox
-  button {
-  border-radius: 0;
-  font-size: 1.8rem;
-  color: black;
-  width: 40px;
-  height: 40px;
-  font-weight: 600;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.productContainer
-  .productAllDetailsContianer
-  .addToCartContianer
-  .QuantityBox
-  button:hover {
-  color: white;
-}
-.productContainer
-  .productAllDetailsContianer
-  .addToCartButtonsContainer
-  button {
-  border-radius: 0;
-}
-.productContainer
-  .productAllDetailsContianer
-  .addToCartButtonsContainer
-  button:first-child {
-  background-color: black;
-  color: white;
-}
-.productContainer
-  .productAllDetailsContianer
-  .compareAndWatchListContainer
-  a:hover {
-  color: var(--brandColor);
-}
-.productContainer .productAllDetailsContianer * {
-  text-transform: capitalize;
-}
 
-.tabsContainer .tabGroup .tab {
-  text-transform: capitalize;
-  font-weight: bold;
-  background-color: var(--brandColor);
-  border: 2px solid transparent;
-  color: black;
-  padding: 0.4rem 0.5rem;
-  cursor: pointer;
-}
-.tabsContainer .tabGroup .tab:hover,
-.tabsContainer .tabGroup .tab.active {
-  background-color: transparent;
-  border: 2px solid var(--brandColor);
-}
-.tabsContainer .tabsDataContiner div {
-  display: none;
-}
-.tabsContainer .tabsDataContiner div.active {
-  display: block;
-}
-/* product productSideBar */
-.productSideBar .shippingInfoContianer {
-  background-color: var(--footerBg);
-}
-.productSideBar .shippingInfoContianer .infoBox span {
-  font-weight: 500;
-}
 
 /* ==============================================================services section  */
 .serviceCard {
@@ -622,7 +523,6 @@ height: 65%;
   color: black;
   font-weight: 500;
   margin-bottom: 1rem;
-  text-transform: capitalize;
 }
 .contactForm input:focus,
 .contactForm textarea:focus,
@@ -951,6 +851,7 @@ text-transform: capitalize;
 font-weight: bold;
 padding: 0.5rem;
 border-radius: 0.5rem;
+text-align: center;
 }
 
 
@@ -1186,3 +1087,246 @@ padding: 0.2rem 1rem;
 }
 
 
+/* =================================================================thank you page css */
+/* thankYourImageBox */
+.thankyouContainer,
+.formErroConainer
+{
+  background-color: var(--brandColor);
+  color: white;
+}
+.thankYourImageBox,
+.formErrorImageBox
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 280px;
+  margin: 0 auto;
+}
+.thankYourImageBox img,
+.formErrorImageBox img
+{
+  object-fit: contain;
+}
+/* ==============================================================formErroConainer */
+.formErrorContentBox h2{
+  font-size: max(6vw,3rem);
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+
+
+/* ===========================================================now Prodcut Page css has been started */
+/* =========================================================================productPageContainer */
+.productBanner{
+  background-color: var(--brandColor);
+  font-size: max(2vw,1.5rem);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: max(1vw,0.2rem);
+  font-weight: bold;
+  border-top-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+}
+
+
+.packagesContainer{
+  border: 2px solid var(--brandColor);
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 0px 0px 4px 2px var(--brandColor);
+}
+
+ .packagesTabs {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ gap: 0.5rem;
+}
+ .packagesTabs button{
+border: none;
+font-size: max(2vw,1.2rem);
+background-color: var(--brandColor);
+padding:0 1rem;
+font-weight: bold;
+text-transform: capitalize;
+border-top-right-radius: 1rem;
+border-top-left-radius: 1rem;
+transition: 200ms;
+}
+.packagesTabs button:hover{
+  background-color: var(--darkBlue);
+  color: white;
+}
+ .packagesTabs button.active{
+  background-color: var(--darkBlue);
+  color: white;
+  border: 2px solid white;
+  box-shadow: -2px -2px 3px black;
+  border-bottom: 0;
+  font-size: max(2.5vw,1.3rem);
+  transform: translateY(3%);
+}
+
+.PackagesTabsDataContainer .PackagesTabsData{
+ display: none;
+  transition: 200ms;
+  background-color: var(--darkBlue);
+  color: white;
+  padding: 1rem;
+  border: 2px solid white;
+  box-shadow: 0px 0px 3px 3px black;
+  flex-direction: column;
+}
+.PackagesTabsDataContainer .PackagesTabsData.active{
+ display: flex;
+}
+
+/* ==================================================keywordAccordionContainer */
+.keywordAccordionContainer{
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.keywordAccordion{
+  border: 2px solid white;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+.keywordAccordionHead{
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  font-size: max(1.5vw,1.2rem);
+  cursor: pointer;
+  padding:0.5rem;
+  transition: 200ms;
+  gap:max(1vw, 0.4rem);
+}
+.keywordAccordionHead:hover{
+  background-color: #214a63;
+}
+.keywordAccordionHead i{
+ background-color: var(--brandColor);
+ width: 25px;
+ height: 25px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ border-radius: 100%;
+}
+.accordionPrice{
+  font-weight: bold;
+  font-size: max(1.5vw,1rem);
+  }
+.keywordAccordionBody{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  font-size: 1.2rem;
+  height: 0;
+  overflow: hidden;
+  padding: 0 1rem;
+  transition: 200ms;
+}
+.keywordAccordionBody .contentBox{
+  flex: 1;
+}
+.keywordAccordionBody .imgBox{
+  flex: 1;
+  margin-bottom: 1rem;
+  min-width: 230px;
+  max-height: 400px;
+  cursor: pointer;
+}
+.keywordAccordionBody .imgBox img{
+  object-fit: contain;
+}
+.showAccordionBody{
+  height: auto ;
+}
+
+/* product Button Group css */
+.productButtonGroup{
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+  cursor: pointer;
+}
+.productButtonGroup a{
+  border: 2px solid white;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  transition: 200ms;
+  font-size: 1.5rem;
+}
+.productButtonGroup a:nth-child(1){
+  background-color: red;
+}
+.productButtonGroup a:nth-child(2){
+  background-color: var(--linkedin);
+}
+.productButtonGroup a:nth-child(3){
+  background-color: var(--whatsappDark);
+}
+.productButtonGroup a:nth-child(4){
+  background-color: var(--skype);
+}
+/* productImagePreviewBox */
+.productImagePreviewBox{
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  display: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: none;
+}
+.productImagePreviewBox::before{
+  content: "";
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.623);
+  top: 0;
+  left: 0;
+  z-index: -1;
+  
+}
+.productImagePreviewBox i {
+  font-size: 2rem;
+  background-color: var(--brandColor);
+  color: white;
+  border-radius: 100%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.popoutImgHolder{
+  max-width: 600px;
+}
+.popoutImgHolder img{
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
