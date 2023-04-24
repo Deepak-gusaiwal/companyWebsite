@@ -435,6 +435,7 @@ background-color: black;
 width: fit-content;
 color: white;
 padding:0.4rem 1rem;
+text-align: center;
 }
 .breadCrumbContainer .breadCrumbTitle *{
  text-align: center;
@@ -562,7 +563,7 @@ height: 65%;
   font-weight: 600;
 }
 .contactRight h3{
-  font-size:max(2vw,1.5rem);
+  font-size:max(2vw,1.2rem);
   font-weight: 600;
 }
 .contactRight .contactRightContent p{
@@ -627,6 +628,10 @@ font-weight: 600;
 .content li{
   list-style: disc;
   font-size: 1.2rem;
+  margin-left: 1rem;
+}
+.content li::marker{
+  color: black;
 }
 .contentHolderSection .content ul,
 .content ul{
@@ -707,8 +712,20 @@ font-size:1.5rem;
 .seoToolsSectionContainer{
 
 }
-.seoToolsSectionContainer .seoToolsSlide{
+.seoToolsSection,
+.seoToolsSection2
+{
+  border-radius: 1rem;
+  border: 1px solid var(--brandColor);
+  overflow: hidden;
+  max-height: 150px;
+  min-height: 150px;
+}
+
+.seoToolsSectionContainer  .seoToolsSlide{
   max-height: 200px;
+  height: 100%;
+  margin-bottom: 1rem;
 }
 .seoToolsSectionContainer .seoToolsSlide img{
  object-fit: contain;
@@ -773,6 +790,7 @@ margin-top: -10px;
 {
   border: 2px solid var(--brandColor);
   border-collapse: collapse;
+  text-align: center;
 }
 .seoResultSection .seoResultSlide table tbody tr td:nth-child(1){
 width: 40%;
@@ -786,18 +804,22 @@ width: 40%;
   color: white;
 }
 
-/* ===============================================================servicePerformCard */
+/* ======================================================servicePerformCard && ohterServicesContainer */
+.ohterServicesContainer,
 .servicePerformCard{
-  /* display: flex; */
+  display: flex;
   flex-direction: column;
   justify-content: start;
   align-items: center;
   border:2px solid var(--brandColor);
   padding: 0.7rem;
   border-radius: 0.6rem;
-  min-height: 480px;
-  max-height: 480px;
+height: 97%;
 }
+.ohterServicesContainer{
+  border: none;
+}
+.ohterServicesContainer .iconBox,
 .servicePerformCard .iconBox{
 font-size: 3rem;
 background-color: var(--brandColor);
@@ -809,6 +831,24 @@ justify-content: center;
 align-items: center;
 border-radius: 0.6rem;
 padding-block: 0.5rem;
+transition: 300ms;
+}
+.ohterServicesContainer .iconBox:hover{
+  box-shadow: 0px 0px 3px 3px black ;
+  cursor: pointer;
+}
+.ohterServicesContainer .iconBox i{
+  transition: 200ms;
+}
+.ohterServicesContainer .iconBox:hover i{
+  transform:rotateY(360deg);
+  text-shadow: 2px 2px 3px red;
+}
+.ohterServicesContainer .iconBox h3{
+transition: 200ms;
+}
+.ohterServicesContainer .iconBox:hover h3{
+  text-shadow: 2px 2px 3px red;
 }
 .servicePerformCard .iconBox h3{
 text-align: center;
@@ -843,18 +883,62 @@ text-transform: capitalize;
   justify-content: center;
   flex-wrap: wrap;
   gap: 0.5rem;
+  margin-bottom: 1rem;
 }
 .seoChecklistCard .seoCheckList li{
 background-color: black;
 color: white;
 text-transform: capitalize;
 font-weight: bold;
-padding: 0.5rem;
+padding: 0.5rem 0.3rem;
 border-radius: 0.5rem;
 text-align: center;
+position: relative;
+cursor: pointer;
+border: 1px solid transparent;
+}
+.seoChecklistCard .seoCheckList li:hover{
+  border: 1px solid white;
+}
+.seoChecklistCard .seoCheckList li::before{
+  content: "";
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  background:linear-gradient(-45deg,black 40%,transparent 60%);
+  top: 70%;
+  left: 50%;
+  transform: translateX(-50%) rotate(45deg);
+  z-index: 6;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
+  opacity: 0;
 }
 
-
+.seoChecklistCard .seoCheckList li .checlistDetail{
+position: absolute;
+background-color: black;
+width: 250px;
+left: 50%;
+transform: translateX(-50%);
+top: 110%;
+z-index: 5;
+padding: 1rem;
+visibility: hidden;
+opacity: 0;
+transition: 200ms;
+border-radius: 1rem;
+border: 1px solid white;
+box-shadow: 2px 2px 5px black;
+}
+.seoChecklistCard .seoCheckList li:hover > .checlistDetail{
+  visibility: visible;
+  opacity: 1;
+  top: 110%;
+}
+.seoChecklistCard .seoCheckList li:hover::before{
+  opacity: 1;
+}
 /* =============================================================FAQ Section Css*/
 .FAQContainer .accordion .accordion-item{
   background-color: var(--brandColor);
@@ -967,6 +1051,9 @@ box-shadow: 0px 0px 5px 3px var(--brandColor) inset;
     .mobileBottomLinks a:nth-child(4){
       background-color: var(--linkedin);
     }
+    .mobileBottomLinks a:nth-child(5){
+      background-color: var(--darkBlue);
+    }
 
     /* ==========================================desktopBottomLinks */
     .desktopBottomLinks{
@@ -1037,14 +1124,14 @@ box-shadow: 0px 0px 5px 3px var(--brandColor) inset;
   text-align: center;
   text-transform: uppercase;
   position: absolute;
-  left: -30%;
+  right: 100%;
   top: 50%;
   transform: rotate(-90deg);
   border-top-right-radius: 1rem;
   border-top-left-radius: 1rem;
   cursor: pointer;
   box-shadow: 2px -2px 5px black;
-  border: 2px solid white;
+  border: 2px solid var(--brandColor);
   border-bottom: none;
   display: flex;
   justify-content: center;
@@ -1052,8 +1139,9 @@ box-shadow: 0px 0px 5px 3px var(--brandColor) inset;
   gap: 0.5rem;
 }
 .stickyContactFormContainer .formtoggleLable i{
-  color: var(--brandColor);
-  font-size: 1.3rem;
+  color: white;
+  font-size: 2rem;
+  transform: rotate(90deg);
 }
 .showForm{
   transform: translateX(-4%) !important;
@@ -1151,7 +1239,8 @@ padding: 0.2rem 1rem;
 border: none;
 font-size: max(2vw,1.2rem);
 background-color: var(--brandColor);
-padding:0 1rem;
+padding: 0.5rem;
+padding-inline: 0.8rem;
 font-weight: bold;
 text-transform: capitalize;
 border-top-right-radius: 1rem;
@@ -1177,15 +1266,22 @@ transition: 200ms;
   transition: 200ms;
   background-color: var(--darkBlue);
   color: white;
-  padding: 1rem;
+  padding: max(1vw,0.5rem);
   border: 2px solid white;
   box-shadow: 0px 0px 3px 3px black;
   flex-direction: column;
+align-items: center;
 }
 .PackagesTabsDataContainer .PackagesTabsData.active{
  display: flex;
 }
-
+.PackagesTabsData h4{
+  text-align: center;
+  color: var(--brandColor);
+  font-weight: bold;
+  border-bottom: 2px solid var(--brandColor);
+  width: fit-content;
+}
 /* ==================================================keywordAccordionContainer */
 .keywordAccordionContainer{
   display: flex;
@@ -1204,7 +1300,8 @@ transition: 200ms;
   font-weight: bold;
   font-size: max(1.5vw,1.2rem);
   cursor: pointer;
-  padding:0.5rem;
+  padding-inline:0.5rem;
+  padding-block: 0.1rem;
   transition: 200ms;
   gap:max(1vw, 0.4rem);
 }
@@ -1227,20 +1324,35 @@ transition: 200ms;
 .keywordAccordionBody{
   display: flex;
   justify-content: center;
-  flex-wrap: wrap;
-  gap: 1rem;
+  flex-wrap: wrap-reverse;
+  gap: max(1vw,0.5rem);
   font-size: 1.2rem;
-  height: 0;
+  max-height: 0px;
   overflow: hidden;
   padding: 0 1rem;
-  transition: 200ms;
+  transition: 200ms ease-in-out;
 }
+.showAccordionBody{
+  max-height: 100rem;
+  margin-top: 0.5rem;
+  }
+
 .keywordAccordionBody .contentBox{
   flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+.keywordAccordionBody .contentBox .accordionPrice,
+.keywordAccordionBody .contentBox h4
+{
+  color: var(--brandColor);
+  font-weight: bold;
+  font-size: 1.5rem;
 }
 .keywordAccordionBody .imgBox{
+  margin-bottom: max(1vw,0.5rem);
   flex: 1;
-  margin-bottom: 1rem;
   min-width: 230px;
   max-height: 400px;
   cursor: pointer;
@@ -1248,9 +1360,7 @@ transition: 200ms;
 .keywordAccordionBody .imgBox img{
   object-fit: contain;
 }
-.showAccordionBody{
-  height: auto ;
-}
+
 
 /* product Button Group css */
 .productButtonGroup{
@@ -1304,7 +1414,7 @@ transition: 200ms;
   position: absolute;
   width: 100vw;
   height: 100vh;
-  background-color: rgba(0, 0, 0, 0.623);
+  background-color: rgba(0, 0, 0, 0.774);
   top: 0;
   left: 0;
   z-index: -1;

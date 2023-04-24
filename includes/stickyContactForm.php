@@ -1,6 +1,6 @@
 <div class="stickyContactFormContainer">
     <span class="formtoggleLable">
-        <i class="fa fa-check-square" aria-hidden="true"></i> <span>Lets connect</span>
+        <i class="fa fa-info-circle" aria-hidden="true"></i>
     </span>
 
 

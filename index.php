@@ -8,13 +8,18 @@
     <title>Seco Service In India</title>
 
     <!-- cssLinks -->
-    <?php require "./includes/cssLinks.php"; ?>
+    <?php
+    $isProductPage=false;
+     require "./includes/cssLinks.php"; 
+     ?>
 </head>
 
 <body>
     <!-- header Section Starteed -->
     <?php require "./includes/header.php"; ?>
     <!-- header Section Ended -->
+
+
 
     <!-- heroSection started -->
     <?php require "./includes/Home/heroSection.php"; ?>
@@ -122,7 +127,7 @@
         <!-- services benifits section ended -->
 
         <!-- servicesRatings section started -->
-        <?php require "./includes/Home/servicesRating.php"; ?>
+        <?php require "./includes/servicesRating.php"; ?>
         <!-- servicesRatings section ended -->
 
         <!-- awardSection started -->
@@ -130,7 +135,7 @@
         <!-- awardSection ended -->
 
         <!-- seoToolsAndResult sections started -->
-        <?php require "./includes/Home/seoToolsAndResult.php"; ?>
+        <?php require "./includes/seoToolsAndResult.php"; ?>
         <!-- seoToolsAndResult sections ended -->
 
         <div class="contentHolderSection">
@@ -168,7 +173,9 @@
         </div>
 
         <!-- seo weekly checklist section started -->
-        <?php require "./includes/Home/seoCheckList.php"; ?>
+        <?php $checkListCardTitle = "SEO Services";
+        $checkListTitile = "SEO Services On-Page SEO Weekly Checklist 2023";
+        require "./includes/seoCheckList.php"; ?>
         <!-- seo weekly checklist section ended -->
 
         <!-- FAQSection Started -->

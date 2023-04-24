@@ -1,4 +1,5 @@
 
+
   <!--=================================================================================================================================================================== desktop navbar started -->
 
   <nav class="desktopNav">
@@ -103,9 +104,9 @@
 
               <ul class="megaLinksBox">
 
-                <li><a href="product/seo-for-dentists "> Dentists </a></li>
-                <li><a href="product/seo-for-ecommerce-websites-stores "> eCommerce </a></li>
-                <li><a href="product/seo-for-ecommerce-websites-stores "> Education </a></li>
+                <li><a href="product/seo-for-dentists"> Dentists </a></li>
+                <li><a href="product/ecommerce-seo-service-packages"> eCommerce </a></li>
+                <li><a href="product/seo-for-ecommerce-websites-stores"> Education </a></li>
                 <li><a href="product/seo-for-finance-companies "> Finance </a></li>
                 <li><a href=""> Gambling</a></li>
                 <li><a href="product/seo-for-government-agencies "> Government </a></li>

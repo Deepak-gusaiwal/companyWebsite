@@ -1,4 +1,5 @@
 
+  
   <!-- ===========================================================================================================================================Mobile Nabar started -->
   <nav class="mobileNav">
     <div class="mobileNavToggler">
@@ -30,7 +31,8 @@
             </label>
             <input type="checkbox" name="" id="seoServices">
             <ul class="mobileDropBox">
-              <li><a href="local-seo-services-india.php">Local SEO Services </a></li>
+              <li><a href="ecommerce-seo-services-india.php">eCommerce SEO</a></li>
+              <li><a href="local-seo-services-india.php">Local SEO Services</a></li>
               <li><a href="product/seo-for-google-my-business-profile">Google Business SEO </a></li>
               <li><a href="youtube-channel-seo-optimization-services.php">YouTube SEO </a></li>
               <li><a href="">Startup SEO Services</a></li>
@@ -38,7 +40,7 @@
               <li><a href="voice-search-seo-optimization-services-india.php">Voice SEO </a></li>
               <li><a href="mobile-igaming-seo-services-india.php">iGaming SEO </a></li>
               <li><a href="multilingual-seo-services-company-india.php">Multilingual SEO </a></li>
-              <li><a href="mobile-search-seo-services-india.php ">Mobile Search SEO </a></li>
+              <li><a href="mobile-search-seo-services-india.php">Mobile Search SEO </a></li>
               <li><a href="seo-monthly-packages-india.php">SEO Packages </a></li>
             </ul>
           </div>
@@ -52,7 +54,7 @@
             <input type="checkbox" name="" id="seoPackagesByRegion">
             <ul class="mobileDropBox">
               <li><a href="product/local-seo-packages-india">Local SEO Package </a></li>
-              <li><a href="product/national-seo-packages-india ">National SEO</a></li>
+              <li><a href="product/national-seo-packages-india">National SEO</a></li>
               <li><a href="product/international-seo-packages-india"> International SEO </a></li>
 
             </ul>
@@ -80,61 +82,62 @@
             <input type="checkbox" name="" id="seoPackagesByCMS">
 
             <ul class="mobileDropBox">
-              <li><a href="product/seo-for-mobile-app "> App Store SEO </a></li>
-              <li><a href="product/seo-for-wordpress-website "> WordPress SEO </a></li>
+              <li><a href="product/seo-for-mobile-app"> App Store SEO </a></li>
+              <li><a href="product/seo-for-wordpress-website"> WordPress SEO </a></li>
               <li><a href="product/seo-for-shopify-website"> Shopify SEO </a></li>
               <li><a href=""> Magento SEO</a></li>
-              <li><a href="product/seo-for-amazon-store-products "> Amazon SEO </a></li>
+              <li><a href="product/seo-for-amazon-store-products"> Amazon SEO </a></li>
               <li><a href=""> eBay SEO </a></li>
-              <li><a href="product/seo-for-wix-website "> Wix SEO </a></li>
+              <li><a href="product/seo-for-wix-website"> Wix SEO </a></li>
               <li><a href=""> BigCommerce SEO </a></li>
-              <li><a href="product/seo-for-woocommerce "> Woocommerce SEO </a></li>
+              <li><a href="product/seo-for-woocommerce"> Woocommerce SEO </a></li>
               <li><a href=""> OpenCart SEO </a></li>
           </div>
 
           <div class="mobileDropBox">
             <label for="seoPackagesByIndustry">
               SEO Packages By Industry
-              <a href="product-category/seo-packages-by-industies"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+              <a href="product-category/seo-packages-by-industies"><i class="fa fa-arrow-circle-right"
+                  aria-hidden="true"></i></a>
             </label>
             <input type="checkbox" name="" id="seoPackagesByIndustry">
 
             <ul class="mobileDropBox">
-              <li><a href="product/seo-for-astrology-astrologers "> Astrology </a></li>
-              <li><a href="product/seo-for-automotive-automobile-industry "> Automobile </a></li>
+              <li><a href="product/seo-for-astrology-astrologers"> Astrology </a></li>
+              <li><a href="product/seo-for-automotive-automobile-industry"> Automobile </a></li>
               <li><a href=""> Artificial Intelligence</a></li>
-              <li><a href="product/seo-for-online-casino-websites "> Casino </a></li>
-              <li><a href="product/seo-for-consulting-firms "> Consultants/Consultancies </a></li>
-              <li><a href="product/seo-for-co-working-space-companies-agencies-websites "> Coworking Office </a></li>
-              <li><a href="product/seo-service-packages-for-cyber-security-companies-firms "> Cyber Security </a></li>
+              <li><a href="product/seo-for-online-casino-websites"> Casino </a></li>
+              <li><a href="product/seo-for-consulting-firms"> Consultants/Consultancies </a></li>
+              <li><a href="product/seo-for-co-working-space-companies-agencies-websites"> Coworking Office </a></li>
+              <li><a href="product/seo-service-packages-for-cyber-security-companies-firms"> Cyber Security </a></li>
               <li><a href="">Data Recovery</a></li>
-              <li><a href="product/seo-for-saas "> Data Science & SAAS </a></li>
-              <li><a href="product/seo-for-dentists "> Dentists </a></li>
-              <li><a href="product/seo-for-ecommerce-websites-stores "> eCommerce </a></li>
-              <li><a href="product/seo-for-ecommerce-websites-stores "> Education </a></li>
-              <li><a href="product/seo-for-finance-companies "> Finance </a></li>
+              <li><a href="product/seo-for-saas"> Data Science & SAAS </a></li>
+              <li><a href="product/seo-for-dentists"> Dentists </a></li>
+              <li><a href="product/ecommerce-seo-service-packages"> eCommerce </a></li>
+              <li><a href="product/seo-for-ecommerce-websites-stores"> Education </a></li>
+              <li><a href="product/seo-for-finance-companies"> Finance </a></li>
               <li><a href=""> Gambling</a></li>
-              <li><a href="product/seo-for-government-agencies "> Government </a></li>
+              <li><a href="product/seo-for-government-agencies"> Government </a></li>
               <li><a href="product/seo-for-healthcare-industry"> Healthcare </a></li>
               <li><a href=""> Homebuilders</a></li>
               <li><a href="product/seo-for-hotel-websites"> Hotels </a></li>
               <li><a href="product/seo-for-insurance-companies"> Insurance </a></li>
               <li><a href="product/seo-for-insurance-companies"> Computers & IT </a></li>
-              <li><a href="product/seo-for-lawyers-law-firms "> Law Firms </a></li>
+              <li><a href="product/seo-for-lawyers-law-firms"> Law Firms </a></li>
               <li><a href=""> Logistics</a></li>
-              <li><a href="product/seo-for-manufacturing-companies "> Manufacturers </a></li>
+              <li><a href="product/seo-for-manufacturing-companies"> Manufacturers </a></li>
               <li><a href=""> Market Research</a></li>
               <li><a href="product/seo-for-movers-and-packers"> Movers And Packers </a></li>
-              <li><a href="product/pet-grooming-care-industry-seo-packages-india ">Pet Groomers </a></li>
-              <li><a href="product/seo-for-politicians ">Politicians </a></li>
-              <li><a href="product/seo-for-real-estate-agents ">Real Estate </a></li>
-              <li><a href="product/seo-for-restaurants ">Restaurants </a></li>
-              <li><a href="product/seo-for-satta-matka-industry-website ">Satta Matka </a></li>
-              <li><a href="product/seo-for-software-companies-and-firms ">Software </a></li>
-              <li><a href="product/sportsbook-seo-services-and-packages ">Sportsbook </a></li>
-              <li><a href="product/seo-for-trading-companies ">Trading/Traders </a></li>
-              <li><a href="product/seo-for-transportation-companies ">Transportation </a></li>
-              <li><a href="product/seo-for-travel-agency-website ">Travel Agency </a></li>
+              <li><a href="product/pet-grooming-care-industry-seo-packages-india">Pet Groomers </a></li>
+              <li><a href="product/seo-for-politicians">Politicians </a></li>
+              <li><a href="product/seo-for-real-estate-agents">Real Estate </a></li>
+              <li><a href="product/seo-for-restaurants">Restaurants </a></li>
+              <li><a href="product/seo-for-satta-matka-industry-website">Satta Matka </a></li>
+              <li><a href="product/seo-for-software-companies-and-firms">Software </a></li>
+              <li><a href="product/sportsbook-seo-services-and-packages">Sportsbook </a></li>
+              <li><a href="product/seo-for-trading-companies">Trading/Traders </a></li>
+              <li><a href="product/seo-for-transportation-companies">Transportation </a></li>
+              <li><a href="product/seo-for-travel-agency-website">Travel Agency </a></li>
 
             </ul>
           </div>
@@ -143,9 +146,9 @@
         <!-- seo section ended -->
 
 
-          <!-- seo section started -->
+        <!-- seo section started -->
 
-          <li class="mobileDropToggle">
+        <li class="mobileDropToggle">
           <label for="PPCAds">
             PPC Ads
           </label>
@@ -153,66 +156,68 @@
 
           <div class="mobileDropBox">
             <label for="ppcServices">
-            PPC Services
-              <a href="ppc-pay-per-click-services-india.php"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+              PPC Services
+              <a href="ppc-pay-per-click-services-india.php"><i class="fa fa-arrow-circle-right"
+                  aria-hidden="true"></i></a>
             </label>
             <input type="checkbox" name="" id="ppcServices">
             <ul class="mobileDropBox">
-            <li><a href="google-ads-management-services-company.php ">Google Ads </a></li>
-                <li><a href="bing-ads-management-services-company.php ">Bing Ads </a></li>
-                <li><a href="product/facebook-ads-management-packages ">Facebook Ads </a></li>
-                <li><a href="">Instagram Ads </a></li>
-                <li><a href="product/twitter-ads-management-packages ">Twitter Ads </a></li>
-                <li><a href="product/linkedin-ads-management-packages ">LinkedIn Ads </a></li>
-                <li><a href="product/pinterest-ads-management-packages ">Pinterest Ads </a></li>
-                <li><a href="mobile-igaming-ppc-services-india.php ">Mobile Gaming Ads </a></li>
+              <li><a href="google-ads-management-services-company.php">Google Ads </a></li>
+              <li><a href="bing-ads-management-services-company.php">Bing Ads </a></li>
+              <li><a href="product/facebook-ads-management-packages">Facebook Ads </a></li>
+              <li><a href="">Instagram Ads </a></li>
+              <li><a href="product/twitter-ads-management-packages">Twitter Ads </a></li>
+              <li><a href="product/linkedin-ads-management-packages">LinkedIn Ads </a></li>
+              <li><a href="product/pinterest-ads-management-packages">Pinterest Ads </a></li>
+              <li><a href="mobile-igaming-ppc-services-india.php">Mobile Gaming Ads </a></li>
             </ul>
           </div>
 
           <div class="mobileDropBox">
             <label for="ppcpackages">
-            PPC Packages by Industry
-              <a href="product-category/seo-packages-by-industies"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+              PPC Packages by Industry
+              <a href="product-category/seo-packages-by-industies"><i class="fa fa-arrow-circle-right"
+                  aria-hidden="true"></i></a>
             </label>
             <input type="checkbox" name="" id="ppcpackages">
 
             <ul class="mobileDropBox">
-            <li><a href="product/google-ads-for-astrology-astrologers ">Astrology </a></li>
-                <li><a href="product/google-ads-for-automotive-automobile-industry ">Automobile </a></li>
-                <li><a href="">Artificial Intelligence</a></li>
-                <li><a href="product/google-ads-for-online-casino-websites ">Casino </a></li>
-                <li><a href="product/google-ads-for-consulting-firms ">Consultants/Consultancies </a></li>
-                <li><a href="product/google-ads-for-co-working-space-companies-agencies-websites ">Coworking Office </a>
-                </li>
-                <li><a href="product/seo-service-packages-for-cyber-security-companies-firms ">Cyber Security </a></li>
-                <li><a href="">Data Recovery</a></li>
-                <li><a href="product/google-ads-for-saas ">Data Science & SAAS </a></li>
-                <li><a href="product/google-ads-for-dentists ">Dentists </a></li>
-                <li><a href="product/google-ads-for-ecommerce-websites-stores ">eCommerce </a></li>
-                <li><a href="product/google-ads-for-ecommerce-websites-stores ">Education </a></li>
-                <li><a href="product/google-ads-for-finance-companies ">Finance </a></li>
-                <li><a href="">Gambling</a></li>
-                <li><a href="product/google-ads-for-government-agencies ">Government </a></li>
-                <li><a href="product/google-ads-for-healthcare-industry">Healthcare </a></li>
-                <li><a href="">Homebuilders</a></li>
-                <li><a href="product/google-ads-for-hotel-websites">Hotels </a></li>
-                <li><a href="product/google-ads-for-insurance-companies">Insurance </a></li>
-                <li><a href="product/google-ads-for-insurance-companies">Computers & IT </a></li>
-                <li><a href="product/google-ads-for-lawyers-law-firms ">Law Firms </a></li>
-                <li><a href="">Logistics</a></li>
-                <li><a href="product/google-ads-for-manufacturing-companies ">Manufacturers </a></li>
-                <li><a href="">Market Research</a></li>
-                <li><a href="product/google-ads-for-movers-and-packers">Movers And Packers </a></li>
-                <li><a href="product/pet-grooming-care-industry-seo-packages-india ">Pet Groomers </a></li>
-                <li><a href="product/google-ads-for-politicians ">Politicians </a></li>
-                <li><a href="product/google-ads-for-real-estate-agents ">Real Estate </a></li>
-                <li><a href="product/google-ads-for-restaurants ">Restaurants </a></li>
-                <li><a href="product/google-ads-for-satta-matka-industry-website ">Satta Matka </a></li>
-                <li><a href="product/google-ads-for-software-companies-and-firms ">Software </a></li>
-                <li><a href="product/sportsbook-seo-services-and-packages ">Sportsbook </a></li>
-                <li><a href="product/google-ads-for-trading-companies ">Trading/Traders </a></li>
-                <li><a href="product/google-ads-for-transportation-companies ">Transportation </a></li>
-                <li><a href="product/google-ads-for-travel-agency-website ">Travel Agency </a></li>
+              <li><a href="product/google-ads-for-astrology-astrologers">Astrology </a></li>
+              <li><a href="product/google-ads-for-automotive-automobile-industry">Automobile </a></li>
+              <li><a href="">Artificial Intelligence</a></li>
+              <li><a href="product/google-ads-for-online-casino-websites">Casino </a></li>
+              <li><a href="product/google-ads-for-consulting-firms">Consultants/Consultancies </a></li>
+              <li><a href="product/google-ads-for-co-working-space-companies-agencies-websites">Coworking Office </a>
+              </li>
+              <li><a href="product/seo-service-packages-for-cyber-security-companies-firms">Cyber Security </a></li>
+              <li><a href="">Data Recovery</a></li>
+              <li><a href="product/google-ads-for-saas">Data Science & SAAS </a></li>
+              <li><a href="product/google-ads-for-dentists">Dentists </a></li>
+              <li><a href="product/google-ads-for-ecommerce-websites-stores">eCommerce </a></li>
+              <li><a href="product/google-ads-for-ecommerce-websites-stores">Education </a></li>
+              <li><a href="product/google-ads-for-finance-companies">Finance </a></li>
+              <li><a href="">Gambling</a></li>
+              <li><a href="product/google-ads-for-government-agencies">Government </a></li>
+              <li><a href="product/google-ads-for-healthcare-industry">Healthcare </a></li>
+              <li><a href="">Homebuilders</a></li>
+              <li><a href="product/google-ads-for-hotel-websites">Hotels </a></li>
+              <li><a href="product/google-ads-for-insurance-companies">Insurance </a></li>
+              <li><a href="product/google-ads-for-insurance-companies">Computers & IT </a></li>
+              <li><a href="product/google-ads-for-lawyers-law-firms">Law Firms </a></li>
+              <li><a href="">Logistics</a></li>
+              <li><a href="product/google-ads-for-manufacturing-companies">Manufacturers </a></li>
+              <li><a href="">Market Research</a></li>
+              <li><a href="product/google-ads-for-movers-and-packers">Movers And Packers </a></li>
+              <li><a href="product/pet-grooming-care-industry-seo-packages-india">Pet Groomers </a></li>
+              <li><a href="product/google-ads-for-politicians">Politicians </a></li>
+              <li><a href="product/google-ads-for-real-estate-agents">Real Estate </a></li>
+              <li><a href="product/google-ads-for-restaurants">Restaurants </a></li>
+              <li><a href="product/google-ads-for-satta-matka-industry-website">Satta Matka </a></li>
+              <li><a href="product/google-ads-for-software-companies-and-firms">Software </a></li>
+              <li><a href="product/sportsbook-seo-services-and-packages">Sportsbook </a></li>
+              <li><a href="product/google-ads-for-trading-companies">Trading/Traders </a></li>
+              <li><a href="product/google-ads-for-transportation-companies">Transportation </a></li>
+              <li><a href="product/google-ads-for-travel-agency-website">Travel Agency </a></li>
             </ul>
           </div>
 
@@ -230,10 +235,10 @@
           <input type="checkbox" name="" id="SMO">
 
           <ul class="mobileDropBox">
-            <li><a href="facebook-page-profile-optimization-services.php ">Facebook Optimization </a></li>
-            <li><a href="twitter-page-profile-optimization-services.php ">Twitter Optimization </a></li>
-            <li><a href="linkedin-page-profile-optimization-services.php ">LinkedIn Optimization </a></li>
-            <li><a href="instagram-page-profile-optimization-services.php ">Instagram Optimization </a></li>
+            <li><a href="facebook-page-profile-optimization-services.php">Facebook Optimization </a></li>
+            <li><a href="twitter-page-profile-optimization-services.php">Twitter Optimization </a></li>
+            <li><a href="linkedin-page-profile-optimization-services.php">LinkedIn Optimization </a></li>
+            <li><a href="instagram-page-profile-optimization-services.php">Instagram Optimization </a></li>
             <li><a href="">Pinterest Optimization</a></li>
             <li><a href="product-category/smo-social-media-optimization-packages"> SMO Packages </a></li>
 
@@ -245,19 +250,19 @@
           <label for="ContentWriting">
             Content Writing
             <a href="content-writing-services.php"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
-             </label>
+          </label>
           <input type="checkbox" name="" id="ContentWriting">
 
           <ul class="mobileDropBox">
-            <li><a href="content-writing-services.php "></a></li>
-            <li><a href="website-blog-writing-services.php ">Blog Writing </a></li>
-            <li><a href="web-page-service-content-writing-services.php ">Service Page Writing </a></li>
-            <li><a href="ecommerce-products-description-writing-services.php ">Product Content Writing </a></li>
-            <li><a href="press-release-writing-services.php ">Press Release Writing </a></li>
-            <li><a href="guest-post-writing-services.php ">Guest Post Writing </a></li>
-            <li><a href="social-media-post-writing-services.php ">Social Media Post Writing </a></li>
-            <li><a href="graphics-content-writing-services.php ">Graphics Content Writing </a></li>
-            <li><a href="guest-posting-services-india.php ">Guest Post Submission </a></li>
+            <li><a href="content-writing-services.php"></a></li>
+            <li><a href="website-blog-writing-services.php">Blog Writing </a></li>
+            <li><a href="web-page-service-content-writing-services.php">Service Page Writing </a></li>
+            <li><a href="ecommerce-products-description-writing-services.php">Product Content Writing </a></li>
+            <li><a href="press-release-writing-services.php">Press Release Writing </a></li>
+            <li><a href="guest-post-writing-services.php">Guest Post Writing </a></li>
+            <li><a href="social-media-post-writing-services.php">Social Media Post Writing </a></li>
+            <li><a href="graphics-content-writing-services.php">Graphics Content Writing </a></li>
+            <li><a href="guest-posting-services-india.php">Guest Post Submission </a></li>
 
 
           </ul>
@@ -271,8 +276,8 @@
           <input type="checkbox" name="" id="youtube">
 
           <ul class="mobileDropBox">
-            <li><a href="youtube-channel-seo-optimization-services.php ">YouTube SEO </a></li>
-            <li><a href="youtube-channel-monetization-services.php ">YouTube Monetization </a></li>
+            <li><a href="youtube-channel-seo-optimization-services.php">YouTube SEO </a></li>
+            <li><a href="youtube-channel-monetization-services.php">YouTube Monetization </a></li>
             <li><a href="product/youtube-channel-subscribers-count-packages">YouTube Subscribers </a></li>
             <li><a href="product/youtube-videos-watch-hour-count-packages">YouTube Watch Hours </a></li>
 
@@ -369,7 +374,7 @@
 
 
 
-    
+
 
         <!-- other section started -->
         <li class="mobileDropToggle">
@@ -381,11 +386,12 @@
           <div class="mobileDropBox">
             <label for="webDesign">
               Website Design
-              <a href="website-designing-services-company-india.php"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+              <a href="website-designing-services-company-india.php"><i class="fa fa-arrow-circle-right"
+                  aria-hidden="true"></i></a>
             </label>
             <input type="checkbox" name="" id="webDesign">
             <ul class="mobileDropBox">
-              <li><a href="mobile-responsive-website-designing-services-company-india.php "> Mobile Web Designing
+              <li><a href="mobile-responsive-website-designing-services-company-india.php"> Mobile Web Designing
                 </a></li>
               <li><a href="wordpress-website-designing-services-company-india.php"> WordPress Web Designing </a></li>
               <li><a href="shopify-ecommerce-website-designing-services-company-india.php"> Shopify Web Designing
@@ -407,8 +413,8 @@
             <ul class="mobileDropBox">
               <li>
                 <label for="ecommerce">ECommerce Website
-                  <a href="product-category/ecommerce-website-designing-development-packages"><i class="fa fa-arrow-circle-right"
-                      aria-hidden="true"></i></a>
+                  <a href="product-category/ecommerce-website-designing-development-packages"><i
+                      class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
                 </label>
                 <input type="checkbox" name="" id="ecommerce">
                 <ul class="mobileDropBox">
@@ -421,8 +427,8 @@
               </li>
               <li>
                 <label for="nonEcommerce">Non-eCommerce Website
-                  <a href="product-category/non-ecommerce-website-designing-packages"><i class="fa fa-arrow-circle-right"
-                      aria-hidden="true"></i></a>
+                  <a href="product-category/non-ecommerce-website-designing-packages"><i
+                      class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
                 </label>
                 <input type="checkbox" name="" id="nonEcommerce">
                 <ul class="mobileDropBox">

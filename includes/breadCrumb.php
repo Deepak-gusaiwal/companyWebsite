@@ -4,7 +4,7 @@
     <span>/</span>
 
     <?php if(isset($categoryTitle) && isset($categoryUrl)): ?>
-    <span><a href="<?php echo $categoryTitle; ?>"><?php echo $categoryTitle; ?></a></span>
+    <span><a href="<?php echo $categoryUrl; ?>"><?php echo $categoryTitle; ?></a></span>
     <span>/</span>
     <?php endif; ?>
 

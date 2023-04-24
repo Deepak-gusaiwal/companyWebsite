@@ -77,11 +77,21 @@ if (isset($_POST['Ssubmit'])) {
 
         $sucss = mail($to, $subject, $email_body, $headers);
         $userSucss = mail($SuserEmail, $SsubjectToUser, $SuserEmailBody, $SheadersToUser);
-        if ($sucss && $userSucss) {
-            header("Location:thankyou.php");
+
+        if ($isProductPage) {
+            if ($sucss && $userSucss) {
+                header("Location:../thankyou.php");
+            } else {
+                header("Location:../formSubmissionError.php");
+            }
         } else {
-            header("Location:formSubmissionError.php");
+            if ($sucss && $userSucss) {
+                header("Location:thankyou.php");
+            } else {
+                header("Location:formSubmissionError.php");
+            }
         }
+
 
     }
 

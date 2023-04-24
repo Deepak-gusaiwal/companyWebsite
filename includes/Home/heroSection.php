@@ -1,7 +1,7 @@
 <div class="container-fluid m-0 p-0 heroSectionMasterContainer">
     <div class=" heroSectionSlideContainer">
 
-      <section class="splide heroSplide" aria-label="Splide Slider ">
+      <section class="splide heroSplide" aria-label="Splide Slider">
         <div class="splide__track">
           <div class="splide__list">
 

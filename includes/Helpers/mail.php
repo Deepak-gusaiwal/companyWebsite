@@ -1,7 +1,7 @@
 <?php
 $name = $email = $phoneNo = $websiteUrl = $requirment = $budget = $message = "";
 $nameErr = $emailErr = $phoneNoErr = $websiteUrlErr = $budgetErr = $requirmentErr = $messageErr = false;
-$formSubmissionError=false;
+$formSubmissionError = false;
 if (isset($_POST['submit'])) {
 
     // validate the name field
@@ -57,12 +57,12 @@ if (isset($_POST['submit'])) {
     }
 
     if ($nameErr || $emailErr || $phoneNoErr || $websiteUrlErr || $budgetErr || $requirmentErr || $messageErr) {
-        $formSubmissionError=true;
-    //  header("location:javascript://history.go(-1)");
+        $formSubmissionError = true;
+        //  header("location:javascript://history.go(-1)");
     } else {
         //  get the mail by user
         $nameErr = $emailErr = $phoneNoErr = $websiteUrlErr = $budgetErr = $requirmentErr = $messageErr = false;
-        
+
         // Email information
         $to = "dgusaiwal537@gmail.com";
         $subject = "Contact Form Submission By $name";
@@ -78,25 +78,35 @@ if (isset($_POST['submit'])) {
         $email_body .= "budget: " . $budget . "\n";
         $email_body .= "requirment: " . $requirment . "\n";
         $email_body .= "Message:\n" . $message . "\n\n";
-        
+
         // content to send confimation email to the user
         $userEmail = $email;
         $subjectToUser = "Confirmation Email";
         $headersToUser = "From: " . $to . "\r\n";
-         // Compose message to the user
-         $messageToUser = "We have Recieved your Email Successfully We Will Contact You within 24 hours";
-         $userEmailBody = "We have Recieved your Email Successfully.\n\n";
-         $userEmailBody .= "Company Name: " . "seo service India" . "\n";
-         $userEmailBody .= "Message:\n" . $messageToUser . "\n\n";
-        
-        
+        // Compose message to the user
+        $messageToUser = "We have Recieved your Email Successfully We Will Contact You within 24 hours";
+        $userEmailBody = "We have Recieved your Email Successfully.\n\n";
+        $userEmailBody .= "Company Name: " . "seo service India" . "\n";
+        $userEmailBody .= "Message:\n" . $messageToUser . "\n\n";
+
+
         $sucss = mail($to, $subject, $email_body, $headers);
         $userSucss = mail($userEmail, $subjectToUser, $userEmailBody, $headersToUser);
-        if ($sucss && $userSucss) {
-            header("Location:thankyou.php");
-        }else{
-            header("Location:formSubmissionError.php");
+
+        if ($isProductPage) {
+            if ($sucss && $userSucss) {
+                header("Location:../thankyou.php");
+            } else {
+                header("Location:../formSubmissionError.php");
+            }
+        } else {
+            if ($sucss && $userSucss) {
+                header("Location:thankyou.php");
+            } else {
+                header("Location:formSubmissionError.php");
+            }
         }
+
 
     }
 

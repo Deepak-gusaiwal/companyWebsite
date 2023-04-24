@@ -8,7 +8,10 @@
     <title>Form is Not Submitted</title>
 
     <!-- cssLinks -->
-    <?php require "./includes/cssLinks.php"; ?>
+    <?php
+     $isProductPage=false;
+     require "./includes/cssLinks.php"; 
+     ?>
 </head>
 
 <body>

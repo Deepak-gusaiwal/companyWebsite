@@ -4,16 +4,20 @@
         <i class="fa fa-whatsapp"></i>
     </a>
 
-    <a href="<?php echo $whatsappLink ?>">
+    <a href="tel:<?php echo $phoneNumber1; ?>">
         <i class="fa fa-phone"></i>
     </a>
 
-    <a href="<?php echo $whatsappLink ?>">
+    <a href="<?php echo $skype ?>">
         <i class="fa fa-skype"></i>
     </a>
 
-    <a href="<?php echo $whatsappLink ?>">
+    <a href="mailto:<?php echo $email1 ?>">
         <i class="fa fa-envelope"></i>
+    </a>
+
+    <a class="contactFormToogler">
+        <i class="fa fa-info-circle"></i>
     </a>
 
 </div>
@@ -21,38 +25,50 @@
 
 <div class="desktopBottomLinks">
 
-    <a href="tel: <?php echo $phoneNumber1; ?>"  >
-    <i class="fa fa-phone" aria-hidden="true"></i>
-    <span>Call Us: +91 <?php echo $phoneNumber1; ?></span>
+    <a href="tel:<?php echo $phoneNumber1; ?>">
+        <i class="fa fa-phone" aria-hidden="true"></i>
+        <span>Call Us:
+            <?php echo $phoneNumber1; ?>
+        </span>
     </a>
 
     <a href="mailto:<?php echo $email1 ?>">
         <i class="fa fa-envelope"></i>
-        <span>Mail Us: <?php echo $email1; ?></span>
+        <span>Mail Us:
+            <?php echo $email1; ?>
+        </span>
     </a>
 
-    <a href="<?php echo $whatsappLink; ?>" >
-    <i class="fa fa-whatsapp" aria-hidden="true"></i>
-    <span>Whatsapp Us: <?php echo $phoneNumber1; ?></span>
+    <a href="<?php echo $whatsappLink; ?>">
+        <i class="fa fa-whatsapp" aria-hidden="true"></i>
+        <span>Whatsapp Us:
+            <?php echo $phoneNumber1; ?>
+        </span>
     </a>
 
     <a class="contactFormToogler">
-    <i class="fa fa-info-circle" aria-hidden="true"></i>
+        <i class="fa fa-info-circle" aria-hidden="true"></i>
         <span>Inquiry Now</span>
     </a>
 
-    
+
 </div>
 
 <!-- sticky contact Form -->
-<?php require "./includes/stickyContactForm.php"; ?>
+<?php if ($isProductPage): ?>
+    <?php require "../includes/stickyContactForm.php"; ?>
+<?php else: ?>
+    <?php require "./includes/stickyContactForm.php"; ?>
+<?php endif; ?>
+
+
 <footer class="row footer m-0 py-4 text-capitalize">
 
     <div class="col-md-3 col-sm-6 p-3">
         <h3 class="footerTitle">Contact us</h3>
         <div class="footerContent">
             <p>Call Us <a href="tel:<?php echo $phoneNumber1; ?>" class="phoneNumber">
-                    +91 <?php echo $phoneNumber1; ?>
+                    <?php echo $phoneNumber1; ?>
                 </a></p>
 
             <p>
@@ -70,11 +86,11 @@
             <p><strong>Mail at: </strong><a href="mailto:<?php echo $email2 ?>"> <?php echo $email2 ?></a></p>
 
             <a href="tel:<?php echo $phoneNumber1 ?>" class="phoneNumber">
-                +91 <?php echo $phoneNumber1 ?>
+                <?php echo $phoneNumber1 ?>
             </a>
             <br>
             <a href="tel:<?php echo $phoneNumber2 ?>" class="phoneNumber">
-                +91-<?php echo $phoneNumber2 ?>
+                <?php echo $phoneNumber2 ?>
             </a>
             <div class="socialLinks d-flex gap-4 py-4 px-2">
                 <a href="<?php echo $facebook; ?>"><i class="fa fa-facebook"></i></a>
@@ -104,7 +120,12 @@
             <li><a href="">Coupon Partner</a></li>
         </ul>
         <div class="footerImageBox">
-            <img src="./assets/img/footer/footer-4.webp" alt="footer-4.webp">
+            <?php if ($isProductPage): ?>
+                <img src="../assets/img/footer/footer-4.webp" alt="footer-4.webp">
+            <?php else: ?>
+                <img src="./assets/img/footer/footer-4.webp" alt="footer-4.webp">
+            <?php endif; ?>
+
         </div>
     </div>
 
@@ -125,7 +146,12 @@
 
         </ul>
         <div class="footerImageBox">
-            <img src="./assets/img/footer/footer-3.webp" alt="footer-3.webp">
+            <?php if ($isProductPage): ?>
+                <img src="../assets/img/footer/footer-3.webp" alt="footer-3.webp">
+            <?php else: ?>
+                <img src="./assets/img/footer/footer-3.webp" alt="footer-3.webp">
+            <?php endif; ?>
+
         </div>
     </div>
 
@@ -143,7 +169,13 @@
         </ul>
 
         <div class="footerImageBox">
-            <img src="./assets/img/footer/footer-2.svg" alt="footer-2.svg">
+        <?php if ($isProductPage): ?>
+            <img src="../assets/img/footer/footer-2.svg" alt="footer-2.svg">
+            <?php else: ?>
+                <img src="./assets/img/footer/footer-2.svg" alt="footer-2.svg">
+            <?php endif; ?>
+
+           
         </div>
     </div>
 
@@ -163,7 +195,13 @@
         </div>
         <div class="footerBottomImageBox col-md-4 d-flex  gap-2 align-items-center justify-content-end">
             <span>Pay Us Via</span>
-            <img src="./assets/img/footer/payments.webp" alt="payemnts image">
+
+            <?php if ($isProductPage): ?>
+                <img src="../assets/img/footer/payments.webp" alt="payemnts image">
+            <?php else: ?>
+                <img src="./assets/img/footer/payments.webp" alt="payemnts image">
+            <?php endif; ?>
+           
         </div>
     </div>
 </footer>

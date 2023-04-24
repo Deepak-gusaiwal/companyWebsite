@@ -11,3 +11,6 @@ header .logoBox{
 .awardCard{
     flex-direction: column;
 }
+
+/* seo checklist */
+.seoCheckList{flex-direction: column;}

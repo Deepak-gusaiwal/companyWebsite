@@ -2,25 +2,23 @@
 
 let stickyContactFormContainer = document.querySelector('.stickyContactFormContainer');
 let formtoggleLable = document.querySelector('.formtoggleLable');
-let faCheckSquare = document.querySelector('.fa-check-square');
 
 let contactFormToogler = [...document.querySelectorAll('.contactFormToogler')];
 let contactFormTogglerIcons = [...document.querySelectorAll('.fa-info-circle')];
 
 formtoggleLable.addEventListener('click', () => {
-    togglerForm(stickyContactFormContainer, faCheckSquare, contactFormTogglerIcons);
+    togglerForm(stickyContactFormContainer, contactFormTogglerIcons);
 });
 
 contactFormToogler.forEach((item) => {
     item.addEventListener('click', () => {
-        togglerForm(stickyContactFormContainer, faCheckSquare, contactFormTogglerIcons);
+        togglerForm(stickyContactFormContainer, contactFormTogglerIcons);
     })
 });
 
 
-function togglerForm(form, icon, toggler) {
+function togglerForm(form, toggler) {
     stickyContactFormContainer.classList.toggle('showForm')
-    faCheckSquare.classList.toggle('fa-window-close')
     toggler.forEach((element) => {
         element.classList.toggle('fa-window-close');
     })
@@ -29,23 +27,29 @@ function togglerForm(form, icon, toggler) {
 // products tabs js
 // tab.dataset.filter
 let packagesTabs = document.querySelector('.packagesTabs');
-packagesTabs = [...packagesTabs.children];
+if(packagesTabs){
+    packagesTabs = [...packagesTabs.children];
+}
 
 let PackagesTabsData = [...document.querySelectorAll('.PackagesTabsData')];
 
-packagesTabs.forEach((packagesTab) => {
-    packagesTab.addEventListener('click', () => {
-        let activePakcageTab = document.querySelector('.packageTab.active');
-        activePakcageTab.classList.remove('active');
-        packagesTab.classList.add('active');
-        let dataSetVal = packagesTab.dataset.filter;
-        let activepackagesTabData = document.querySelector('.PackagesTabsData.active');
+if (packagesTabs) {
 
-        filterPackagesData(PackagesTabsData, activepackagesTabData, dataSetVal);
+    packagesTabs.forEach((packagesTab) => {
+        packagesTab.addEventListener('click', () => {
+            let activePakcageTab = document.querySelector('.packageTab.active');
+            activePakcageTab.classList.remove('active');
+            packagesTab.classList.add('active');
+            let dataSetVal = packagesTab.dataset.filter;
+            let activepackagesTabData = document.querySelector('.PackagesTabsData.active');
+
+            filterPackagesData(PackagesTabsData, activepackagesTabData, dataSetVal);
+
+        })
 
     })
 
-})
+}
 
 //  function to filter Packages Tabs Data
 const filterPackagesData = (DataTabsArr, activeDataTab, dataSetVal) => {
@@ -80,28 +84,29 @@ let previwBoxCloseIcon = document.querySelector('.productImagePreviewBox i');
 productImgBox.forEach((imgBox) => {
 
     imgBox.addEventListener('click', () => {
-    // remove the previous image
-    let popoutImgHolder = document.querySelector('.popoutImgHolder');
-    if(popoutImgHolder){
-        popoutImgHolder.remove();
-    }
-    
-    let imgSrc = imgBox.querySelector('img').src;
+        // remove the previous image
+        let popoutImgHolder = document.querySelector('.popoutImgHolder');
+        if (popoutImgHolder) {
+            popoutImgHolder.remove();
+        }
+
+        let imgSrc = imgBox.querySelector('img').src;
 
         let div = document.createElement('div');
         div.classList.add('popoutImgHolder')
-        
-        
+
+
         let img = document.createElement('img');
         img.src = imgSrc;
-        
+
         div.appendChild(img);
         productImagePreviewBox.appendChild(div);
-        productImagePreviewBox.style.display="flex";
+        productImagePreviewBox.style.display = "flex";
 
     })
 });
-
-previwBoxCloseIcon.addEventListener('click',()=>{
-    productImagePreviewBox.style.display="none";
-})
+if(previwBoxCloseIcon){
+    previwBoxCloseIcon.addEventListener('click', () => {
+        productImagePreviewBox.style.display = "none";
+    })
+}

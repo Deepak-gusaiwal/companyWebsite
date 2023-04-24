@@ -67,7 +67,7 @@ nav.mobileNav .mobileNavLinks{
     background-color: white;
     border-bottom: 2px solid var(--brandColor);
     position: absolute;
-    left: 0;
+    left: -2px;
     top: 100%;
     padding: 1rem;
     transform: translateX(-110%);
@@ -151,12 +151,18 @@ overflow-y: scroll;
 /* =========================================================================productPageContainer */
 .packagesContainer .packagesTabs {
     overflow-x: scroll;
-    justify-content: start;
+    overflow-y: hidden;
+    justify-content: center;
     gap: 0;
+    transform: translateY(2%);
+    /* transform: translateY(22%); */
    }
+   /* .packagesContainer .packagesTabs::-webkit-scrollbar{
+    width: 0;
+   } */
 .packagesContainer .packagesTabs button{
    line-height: 1;
-   padding-bottom: 0.8rem;
+   padding-block: 0.6rem;
    }
    .packagesTabs button.active{
     box-shadow: none;

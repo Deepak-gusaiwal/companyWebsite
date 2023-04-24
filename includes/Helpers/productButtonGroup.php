@@ -1,5 +1,5 @@
 <div class="productButtonGroup">
-    <a href="tel: <?php echo $phoneNumber1; ?>">
+    <a href="tel:<?php echo $phoneNumber1; ?>">
         <i class="fa fa-phone" aria-hidden="true"></i>
     </a>
 

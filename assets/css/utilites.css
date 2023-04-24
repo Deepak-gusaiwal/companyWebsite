@@ -6,15 +6,17 @@
   border-radius: 100%;
   background-color: var(--whatsappLight);
   box-shadow: 2px 2px 5px black;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  
   padding-top: 0.2rem;
   position: relative;
   z-index: 1;
   overflow: hidden;
   transition: 200ms;
   color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 0.1rem;
 }
 .whatsappButtonRound::before {
   content: "";
@@ -50,17 +52,21 @@
   align-items: center;
   padding: 1rem;
 }
-.bannerSection h1 {
+.bannerSection h1,
+.bannerSection .commonTitle
+ {
   width: 100%;
   padding: 0.3rem 0.6rem;
   text-align: center;
   font-size: max(3vw, 2rem);
   width: max(80%, 270px);
-  
+  text-transform: capitalize;
   width: fit-content;
   font-weight: bold;
 }
-.bannerSection.BottomBorder h1{
+.bannerSection.BottomBorder h1,
+.bannerSection.BottomBorder .commonTitle
+{
   border-bottom: 2px solid black;
 }
 

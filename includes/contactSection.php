@@ -1,5 +1,3 @@
-
-
 <div class=" contectSection">
 
     <div class="row p-0 m-0">
@@ -9,9 +7,9 @@
                 <h1>Discover How We Can Help <span>Your Business Grow.</span></h1>
             </div>
             <!-- form submission Error Message -->
-            <?php if( $formSubmissionError):?>
-                <h3 class="redBg whiteColor px-2" >Please Fill Form Correctly</h3>
-                <?php endif;?>
+            <?php if ($formSubmissionError): ?>
+                <h3 class="redBg whiteColor px-2">Please Fill Form Correctly</h3>
+            <?php endif; ?>
 
             <form class="contactForm" action="" method="post">
 
@@ -95,13 +93,19 @@
                     </div>
                 </div>
 
-          
+
             </form>
         </div>
 
         <div class="col-md-6 contactRight py-3">
-            <img src="./assets/img/contact/world.webp" alt="world image" srcset="">
-            <h1><a href="tel:+<?php echo $phoneNumber1 ?>">+91 <?php echo $phoneNumber1 ?></a></h1>
+            <?php if ($isProductPage): ?>
+                <img src="../assets/img/contact/world.webp" alt="world image" srcset="">
+            <?php else: ?>
+                <img src="./assets/img/contact/world.webp" alt="world image" srcset="">
+            <?php endif; ?>
+
+
+            <h1><a href="tel:+<?php echo $phoneNumber1 ?>"> <?php echo $phoneNumber1 ?></a></h1>
             <h3><a href="mailto:<?php echo $email1 ?>"></a>
                 <?php echo $email1 ?>
             </h3>
