@@ -2224,4 +2224,3 @@ var n, t;
     ? define(t)
     : ((n = "undefined" != typeof globalThis ? globalThis : n || self).Splide =
         t());
-//# sourceMappingURL=splide.min.js.map

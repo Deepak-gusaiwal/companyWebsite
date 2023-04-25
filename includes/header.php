@@ -42,9 +42,9 @@ $skype = "skype:anubhav.garg7?chat";
     class="topNav d-flex  justify-content-between align-items-center px-md-4 px-2 py-2 gap-md-3 gap-2 flex-md-nowrap flex-wrap">
 
     <?php if ($isProductPage): ?>
-      <div class="logoBox">
+      <a href="/" class="logoBox">
         <img src="../assets/img/logo.webp" alt="logo img" />
-      </div>
+      </a>
     <?php else: ?>
       <div class="logoBox">
         <img src="./assets/img/logo.webp" alt="logo img" />

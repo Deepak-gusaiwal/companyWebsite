@@ -5,7 +5,7 @@
   <nav class="desktopNav">
     <ul class="navLinksContainer">
 
-      <li><a class="navLink" href="">Home</a></li>
+      <li><a class="navLink" href="/">Home</a></li>
 
 
       <!-- Seo Pakcages Meaga Drop Down Started -->

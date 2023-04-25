@@ -34,6 +34,10 @@
       drag: "free",
       snap: true,
       autoplay: true,
+      autoScroll: {
+        speed: -13,
+      }
+
     });
 
     splideHero.mount();

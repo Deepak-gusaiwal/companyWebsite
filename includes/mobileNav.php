@@ -9,7 +9,7 @@
     </div>
 
     <div class="mobileNavLinks">
-      <a class="mobileNavLink" href="">Home</a>
+      <a class="mobileNavLink" href="/">Home</a>
 
 
 

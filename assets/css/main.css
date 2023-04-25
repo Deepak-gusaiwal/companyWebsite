@@ -784,6 +784,9 @@ margin-top: -10px;
   text-align: center;
   font-size: 2rem;
 }
+.seoResultSection .seoResultSlide{
+  margin-bottom: 1rem;
+}
 .seoResultSection .seoResultSlide table,
 .seoResultSection .seoResultSlide table td,
 .seoResultSection .seoResultSlide table th
@@ -1219,6 +1222,7 @@ padding: 0.2rem 1rem;
   font-weight: bold;
   border-top-right-radius: 1rem;
   border-top-left-radius: 1rem;
+  text-align: center;
 }
 
 
