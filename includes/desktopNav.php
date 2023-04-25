@@ -93,7 +93,7 @@
                 <li><a href="product/seo-for-astrology-astrologers "> Astrology </a></li>
                 <li><a href="product/seo-for-automotive-automobile-industry "> Automobile </a></li>
                 <li><a href=""> Artificial Intelligence</a></li>
-                <li><a href="product/seo-for-online-casino-websites "> Casino </a></li>
+                <li><a href="product/seo-for-online-casino-websites"> Casino </a></li>
                 <li><a href="product/seo-for-consulting-firms "> Consultants/Consultancies </a></li>
                 <li><a href="product/seo-for-co-working-space-companies-agencies-websites "> Coworking Office </a></li>
                 <li><a href="product/seo-service-packages-for-cyber-security-companies-firms "> Cyber Security </a></li>
@@ -118,21 +118,21 @@
               <ul class="megaLinksBox">
 
                 <li><a href="product/seo-for-insurance-companies"> Insurance </a></li>
-                <li><a href="product/seo-for-insurance-companies"> Computers & IT </a></li>
-                <li><a href="product/seo-for-lawyers-law-firms "> Law Firms </a></li>
+                <li><a href="product/seo-for-it-companies"> Computers & IT </a></li>
+                <li><a href="product/seo-for-lawyers-law-firms"> Law Firms </a></li>
                 <li><a href=""> Logistics</a></li>
-                <li><a href="product/seo-for-manufacturing-companies "> Manufacturers </a></li>
+                <li><a href="product/seo-for-manufacturing-companies"> Manufacturers </a></li>
                 <li><a href=""> Market Research</a></li>
                 <li><a href="product/seo-for-movers-and-packers"> Movers And Packers </a></li>
                 <li><a href="product/pet-grooming-care-industry-seo-packages-india ">Pet Groomers </a></li>
-                <li><a href="product/seo-for-politicians ">Politicians </a></li>
+                <li><a href="product/seo-for-politicians">Politicians </a></li>
               </ul>
 
               <ul class="megaLinksBox">
-                <li><a href="product/seo-for-real-estate-agents ">Real Estate </a></li>
+                <li><a href="product/seo-for-real-estate-agents">Real Estate </a></li>
                 <li><a href="product/seo-for-restaurants ">Restaurants </a></li>
                 <li><a href="product/seo-for-satta-matka-industry-website ">Satta Matka </a></li>
-                <li><a href="product/seo-for-software-companies-and-firms ">Software </a></li>
+                <li><a href="product/seo-for-software-companies-and-firms">Software </a></li>
                 <li><a href="product/sportsbook-seo-services-and-packages ">Sportsbook </a></li>
                 <li><a href="product/seo-for-trading-companies ">Trading/Traders </a></li>
                 <li><a href="product/seo-for-transportation-companies ">Transportation </a></li>
