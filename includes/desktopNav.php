@@ -103,9 +103,7 @@
 
             <ul class="megaLinksBox">
               <li><a href="/product/seo-for-astrology-astrologers.php"> Astrology </a></li>
-              <li><a href="/product/seo-for-automotive-automobile-industry.php"> Automobile
-                </a>
-              </li>
+              <li><a href="/product/seo-for-automotive-automobile-industry.php"> Automobile</a></li>
               <li><a href="/product/"> Artificial Intelligence</a></li>
               <li><a href="/product/seo-for-online-casino-websites.php"> Casino </a></li>
               <li><a href="/product/seo-for-consulting-firms.php"> Consultants/Consultancies
