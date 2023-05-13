@@ -101,11 +101,7 @@
                 </div>
 
                 
-                <?php if($isProductPage){
-                        require "../includes/Helpers/buttonsGroup.php";
-                } else{
-                    require "./includes/Helpers/buttonsGroup.php";
-                } ?>
+                <?php  require __DIR__."/Helpers/buttonsGroup.php";?>
             </div>
         </div>
 
@@ -168,11 +164,7 @@
                         </li>
                     </ul>
                 </div>
-               <?php if($isProductPage){
-                        require "../includes/Helpers/buttonsGroup.php";
-                } else{
-                    require "./includes/Helpers/buttonsGroup.php";
-                } ?>
+                <?php  require __DIR__."/Helpers/buttonsGroup.php";?>
             </div>
         </div>
 
@@ -211,11 +203,7 @@
                         </li>
                     </ul>
                 </div>
-               <?php if($isProductPage){
-                        require "../includes/Helpers/buttonsGroup.php";
-                } else{
-                    require "./includes/Helpers/buttonsGroup.php";
-                } ?>
+                <?php  require __DIR__."/Helpers/buttonsGroup.php";?>
             </div>
         </div>
         <div class="col-md-6 mb-3 ">
@@ -258,11 +246,7 @@
                         </li>
                     </ul>
                 </div>
-               <?php if($isProductPage){
-                        require "../includes/Helpers/buttonsGroup.php";
-                } else{
-                    require "./includes/Helpers/buttonsGroup.php";
-                } ?>
+                <?php   require __DIR__."/Helpers/buttonsGroup.php";?>
             </div>
         </div>
 

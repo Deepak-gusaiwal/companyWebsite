@@ -5,6 +5,7 @@ $email1 = "anubhav@seoserviceinindia.co.in";
 $email2 = "chander@mysticdigi.com";
 $whatsappLink = "https://bit.ly/3yvu39p";
 
+
 // social links
 $facebook = "https://www.facebook.com/SeoServiceInIndia.Co.In";
 $twitter = "https://twitter.com/seoserviceinind";
@@ -14,22 +15,18 @@ $pinterest = "https://in.pinterest.com/seoserviceinind/";
 $instagram = "https://www.instagram.com/seoserviceinindia/";
 $skype = "skype:anubhav.garg7?chat";
 
+
+
 ?>
 
 <!-- =================================for email configration started==============================-->
-<?php if ($isProductPage): ?>
+
   <!-- normal Contact form -->
-  <?php require "../includes/Helpers/mail.php"; ?>
+  <?php require __DIR__ ."/Helpers/mail.php"; ?>
 
   <!-- Inquiry form -->
-  <?php require "../includes/Helpers/stickyMail.php"; ?>
-<?php else: ?>
-  <!-- normal Contact form -->
-  <?php require "./includes/Helpers/mail.php"; ?>
+  <?php require __DIR__ ."/Helpers/stickyMail.php"; ?>
 
-  <!-- Inquiry form -->
-  <?php require "./includes/Helpers/stickyMail.php"; ?>
-<?php endif; ?>
 <!-- ==========================================for email configration ended ===========================-->
 
 
@@ -41,15 +38,15 @@ $skype = "skype:anubhav.garg7?chat";
   <div
     class="topNav d-flex  justify-content-between align-items-center px-md-4 px-2 py-2 gap-md-3 gap-2 flex-md-nowrap flex-wrap">
 
-    <?php if ($isProductPage): ?>
+   
       <a href="/" class="logoBox">
+      <?php if ($isProductPage): ?>
         <img src="../assets/img/logo.webp" alt="logo img" />
+        <?php else: ?>
+        <img src="assets/img/logo.webp" alt="logo img" />
+        <?php endif; ?>
       </a>
-    <?php else: ?>
-      <div class="logoBox">
-        <img src="./assets/img/logo.webp" alt="logo img" />
-      </div>
-    <?php endif; ?>
+
 
     <div class="freeSEOToolsContainer d-lg-flex d-none ">
       <span>Our Free SEO Tools</span>
@@ -97,17 +94,12 @@ $skype = "skype:anubhav.garg7?chat";
 
 
 
-  <?php if ($isProductPage): ?>
-  <!-- normal Contact form -->
-  <?php require "../includes/desktopNav.php"; ?>
-  <?php require "../includes/mobileNav.php"; ?>
 
-<?php else: ?>
   <!-- normal Contact form -->
-  <?php require "./includes/desktopNav.php"; ?>
-  <?php require "./includes/mobileNav.php"; ?>
+  <?php  require __DIR__ ."/desktopNav.php"; ?>
+  <?php  require __DIR__ ."/mobileNav.php"; ?>
 
-<?php endif; ?>
+
 
 
 

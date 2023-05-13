@@ -62,12 +62,14 @@ $ratingsImageArray = [
             <?php foreach ($ratingsImageArray as $data): ?>
                 <!-- slide-1 -->
                 <div class="splide__slide ratingSlide">
-
                     <?php if ($isProductPage): ?>
-                        <img src="../assets/img/ratings/<?php echo $data['img'] ?>" alt="sliderimg-<?php echo $data['img'] ?>" />
+                        <img src="../assets/img/ratings/<?php echo $data['img'] ?>"
+                            alt="sliderimg-<?php echo $data['img'] ?>" />
                     <?php else: ?>
                         <img src="./assets/img/ratings/<?php echo $data['img'] ?>" alt="sliderimg-<?php echo $data['img'] ?>" />
                     <?php endif; ?>
+
+
                 </div>
                 <!-- slide-1 end -->
             <?php endforeach; ?>

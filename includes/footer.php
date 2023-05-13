@@ -55,11 +55,9 @@
 </div>
 
 <!-- sticky contact Form -->
-<?php if ($isProductPage): ?>
-    <?php require "../includes/stickyContactForm.php"; ?>
-<?php else: ?>
-    <?php require "./includes/stickyContactForm.php"; ?>
-<?php endif; ?>
+
+<?php require __DIR__ . "/stickyContactForm.php"; ?>
+
 
 
 <footer class="row footer m-0 py-4 text-capitalize">
@@ -169,13 +167,14 @@
         </ul>
 
         <div class="footerImageBox">
-        <?php if ($isProductPage): ?>
-            <img src="../assets/img/footer/footer-2.svg" alt="footer-2.svg">
+
+            <?php if ($isProductPage): ?>
+                <img src="../assets/img/footer/footer-2.svg" alt="footer-2.svg">
             <?php else: ?>
                 <img src="./assets/img/footer/footer-2.svg" alt="footer-2.svg">
             <?php endif; ?>
 
-           
+
         </div>
     </div>
 
@@ -195,13 +194,15 @@
         </div>
         <div class="footerBottomImageBox col-md-4 d-flex  gap-2 align-items-center justify-content-end">
             <span>Pay Us Via</span>
-
             <?php if ($isProductPage): ?>
                 <img src="../assets/img/footer/payments.webp" alt="payemnts image">
             <?php else: ?>
                 <img src="./assets/img/footer/payments.webp" alt="payemnts image">
             <?php endif; ?>
-           
+
+          
+
+
         </div>
     </div>
 </footer>

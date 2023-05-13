@@ -9,7 +9,7 @@
 
     <!-- cssLinks -->
     <?php
-    $isProductPage=false;
+    $isProductPage = false;
      require "./includes/cssLinks.php"; 
      ?>
 </head>
@@ -22,15 +22,15 @@
 
 
     <!-- heroSection started -->
-    <?php require "./includes/Home/heroSection.php"; ?>
+    <?php require "includes/Home/heroSection.php"; ?>
     <!-- heroSection ended -->
 
     <!-- servicesSection started -->
-    <?php require "./includes/Home/servicesSection.php"; ?>
+    <?php require "includes/Home/servicesSection.php"; ?>
     <!-- servicesSection ended -->
 
     <!-- contactSetion started -->
-    <?php require "./includes/contactSection.php"; ?>
+    <?php require "includes/contactSection.php"; ?>
     <!-- contactSetion ended -->
 
     <!-- services benifits section started -->
@@ -127,15 +127,15 @@
         <!-- services benifits section ended -->
 
         <!-- servicesRatings section started -->
-        <?php require "./includes/servicesRating.php"; ?>
+        <?php require "includes/servicesRating.php"; ?>
         <!-- servicesRatings section ended -->
 
         <!-- awardSection started -->
-        <?php require "./includes/Home/awardSection.php"; ?>
+        <?php require "includes/Home/awardSection.php"; ?>
         <!-- awardSection ended -->
 
         <!-- seoToolsAndResult sections started -->
-        <?php require "./includes/seoToolsAndResult.php"; ?>
+        <?php require "includes/seoToolsAndResult.php"; ?>
         <!-- seoToolsAndResult sections ended -->
 
         <div class="contentHolderSection">
@@ -168,18 +168,18 @@
 
             <div class="container">
                 <!-- performance services cards -->
-                <?php require "./includes/Home/seoServicesPerform.php"; ?>
+                <?php require "includes/Home/seoServicesPerform.php"; ?>
             </div>
         </div>
 
         <!-- seo weekly checklist section started -->
         <?php $checkListCardTitle = "SEO Services";
         $checkListTitile = "SEO Services On-Page SEO Weekly Checklist 2023";
-        require "./includes/seoCheckList.php"; ?>
+        require "includes/seoCheckList.php"; ?>
         <!-- seo weekly checklist section ended -->
 
         <!-- FAQSection Started -->
-        <?php require "./includes/Home/FAQSection.php"; ?>
+        <?php require "includes/Home/FAQSection.php"; ?>
         <!-- FAQSection ended -->
 
 
@@ -366,13 +366,13 @@
 
 
         <!-- contactSetionSecond started -->
-        <?php require "./includes/contactSection.php"; ?>
+        <?php require "includes/contactSection.php"; ?>
         <!-- contactSetionSecond ended -->
         <!-- footer started -->
-        <?php require "./includes/footer.php"; ?>
+        <?php require "includes/footer.php"; ?>
         <!-- footer ended -->
         <!-- jsLinks -->
-        <?php require "./includes/jsLinks.php"; ?>
+        <?php require "includes/jsLinks.php"; ?>
 </body>
 
 </html>

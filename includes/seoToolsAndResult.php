@@ -30,13 +30,16 @@ $seoToolsImages = [
                             <?php foreach ($seoToolsImages as $data): ?>
                                 <!-- slide-1 -->
                                 <div class="splide__slide seoToolsSlide">
+
                                     <?php if ($isProductPage): ?>
                                         <img src="../assets/img/seoTools/<?php echo $data['img'] ?>"
-                                            alt="sliderimg-<?php echo $data['img'] ?>" />
+                                        alt="sliderimg-<?php echo $data['img'] ?>" />
                                     <?php else: ?>
                                         <img src="./assets/img/seoTools/<?php echo $data['img'] ?>"
-                                            alt="sliderimg-<?php echo $data['img'] ?>" />
+                                        alt="sliderimg-<?php echo $data['img'] ?>" />
                                     <?php endif; ?>
+                                   
+
                                 </div>
                                 <!-- slide-1 end -->
                             <?php endforeach; ?>

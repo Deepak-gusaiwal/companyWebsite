@@ -18,7 +18,7 @@
   <script src="./assets/js/navbar.js"></script>
   <!-- script js -->
   <script src="./assets/js/script.js"></script>
-<?php endif ?>
+<?php endif; ?>
 
 
 

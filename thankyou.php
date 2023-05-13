@@ -9,7 +9,7 @@
 
     <!-- cssLinks -->
     <?php 
-     $isProductPage=false;
+
     require "./includes/cssLinks.php"; 
     ?>
 </head>

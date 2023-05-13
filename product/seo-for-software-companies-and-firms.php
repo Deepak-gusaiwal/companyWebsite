@@ -12,7 +12,7 @@
     $pageTitle = "SEO For Software Companies";
     $categoryTitle = "SEO Packages By Industry";
     $categoryUrl = "product-category/seo-packages-by-industies";
-    $isProductPage = true;
+    $isProductPage=true;
     require "../includes/cssLinks.php";
     ?>
 </head>

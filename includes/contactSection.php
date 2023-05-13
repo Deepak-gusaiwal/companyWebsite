@@ -98,11 +98,11 @@
         </div>
 
         <div class="col-md-6 contactRight py-3">
-            <?php if ($isProductPage): ?>
+        <?php if ($isProductPage): ?>
                 <img src="../assets/img/contact/world.webp" alt="world image" srcset="">
-            <?php else: ?>
-                <img src="./assets/img/contact/world.webp" alt="world image" srcset="">
-            <?php endif; ?>
+                <?php  else:?>
+                    <img src="./assets/img/contact/world.webp" alt="world image" srcset="">
+         <?php  endif;?>
 
 
             <h1><a href="tel:+<?php echo $phoneNumber1 ?>"> <?php echo $phoneNumber1 ?></a></h1>
