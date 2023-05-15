@@ -190,7 +190,7 @@
               </a>
             </h5>
             <ul class="megaLinksBox">
-              <li><a href="google-ads-management-services-company.php ">Google Ads </a></li>
+              <li><a href="/google-ads-management-services-company.php">Google Ads </a></li>
               <li><a href="bing-ads-management-services-company.php ">Bing Ads </a></li>
               <li><a href="facebook-ads-management-packages.php">Facebook Ads </a>
               </li>

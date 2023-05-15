@@ -971,6 +971,24 @@ box-shadow: 0px 0px 5px 3px var(--brandColor) inset;
   background-color: white;
 }
 
+/* serviceAccordion */
+.serviceAccordion{
+justify-content: flex-start;
+}
+
+.serviceAccordion .contentBox{
+  min-width: 70%;
+}
+.accordionUl
+{
+  list-style: disc;
+  padding-left: 1rem;
+  margin-bottom: 1rem;
+}
+.accordionUl li{
+  list-style: disc;
+}
+
 /* ============================================================footer section css */
 .footer {
   background-color: var(--footerBg);
