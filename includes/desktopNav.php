@@ -102,6 +102,7 @@
           <div class="megaBoxRightWrapper">
 
             <ul class="megaLinksBox">
+              <li><a href="/product/ seo-for-ai-softwares-tools.php"> AI Software and Tools </a></li>
               <li><a href="/product/seo-for-astrology-astrologers.php"> Astrology </a></li>
               <li><a href="/product/seo-for-automotive-automobile-industry.php"> Automobile</a></li>
               <li><a href="/product/"> Artificial Intelligence</a></li>
@@ -115,30 +116,30 @@
 
               <li>
                 <a
-                  href="/product/productseo-service-packages-for-cyber-security-companies-firms.php ">
+                  href="/product/seo-service-packages-for-cyber-security-companies-firms.php ">
                   Cyber Security </a>
               </li>
               <li><a href="/product/">Data Recovery</a></li>
-              <li><a href="/product/seo-for-saas.php"> Data Science & SAAS </a></li>
-
+              
             </ul>
-
+            
             <ul class="megaLinksBox">
-
+              
+              <li><a href="/product/seo-for-saas.php"> Data Science & SAAS </a></li>
               <li><a href="/product/seo-for-dentists.php"> Dentists </a></li>
               <li><a href="/product/ecommerce-seo-service-packages.php"> eCommerce </a></li>
-              <li><a href="/product/seo-for-ecommerce-websites-stores.php"> Education </a>
+              <li><a href="/product/"> Education </a>
               </li>
               <li><a href="/product/seo-for-finance-companies.php"> Finance </a></li>
               <li><a href="/product/"> Gambling</a></li>
               <li><a href="/product/seo-for-government-agencies.php"> Government </a></li>
               <li><a href="/product/seo-for-healthcare-industry.php"> Healthcare </a></li>
               <li><a href="/product/"> Homebuilders</a></li>
-              <li><a href="/product/seo-for-hotel-websites.php"> Hotels </a></li>
             </ul>
-
+            
             <ul class="megaLinksBox">
-
+              
+              <li><a href="/product/seo-for-hotel-websites.php"> Hotels </a></li>
               <li><a href="/product/seo-for-insurance-companies.php"> Insurance </a></li>
               <li><a href="/product/seo-for-it-companies.php"> Computers & IT </a></li>
               <li><a href="/product/seo-for-lawyers-law-firms.php"> Law Firms </a></li>
@@ -150,10 +151,10 @@
               </li>
               <li><a href="/product/pet-grooming-care-industry-seo-packages-india.php">Pet
                   Groomers </a></li>
+                </ul>
+                
+                <ul class="megaLinksBox">
               <li><a href="/product/seo-for-politicians.php">Politicians </a></li>
-            </ul>
-
-            <ul class="megaLinksBox">
               <li><a href="/product/seo-for-real-estate-agents.php">Real Estate </a></li>
               <li><a href="/product/seo-for-restaurants.php">Restaurants </a></li>
               <li><a href="/product/seo-for-satta-matka-industry-website.php">Satta Matka </a>
@@ -220,6 +221,7 @@
           <div class="megaBoxRightWrapper">
 
             <ul class="megaLinksBox">
+            <li><a href="/product/seo-for-ai-softwares-tools.php"> AI Software and Tools </a></li>
               <li><a href="google-ads-for-astrology-astrologers.php">Astrology </a>
               </li>
               <li><a
@@ -239,13 +241,13 @@
                   href="seo-service-packages-for-cyber-security-companies-firms.php">Cyber
                   Security </a></li>
               <li><a href="">Data Recovery</a></li>
-              <li><a href="google-ads-for-saas.php">Data Science & SAAS </a></li>
-
+              
             </ul>
-
+            
             <ul class="megaLinksBox">
-
-
+              
+              
+              <li><a href="google-ads-for-saas.php">Data Science & SAAS </a></li>
               <li><a href="google-ads-for-dentists.php">Dentists </a></li>
               <li><a href="google-ads-for-ecommerce-websites-stores.php">eCommerce
                 </a>
@@ -260,11 +262,11 @@
               <li><a href="google-ads-for-healthcare-industry.php">Healthcare </a>
               </li>
               <li><a href="">Homebuilders</a></li>
-              <li><a href="google-ads-for-hotel-websites.php">Hotels </a></li>
             </ul>
-
+            
             <ul class="megaLinksBox">
-
+              
+              <li><a href="google-ads-for-hotel-websites.php">Hotels </a></li>
               <li><a href="google-ads-for-insurance-companies.php">Insurance </a>
               </li>
               <li><a href="google-ads-for-insurance-companies.php">Computers & IT
@@ -281,10 +283,10 @@
               <li><a href="pet-grooming-care-industry-seo-packages-india.php">Pet
                   Groomers
                 </a></li>
+              </ul>
+              
+              <ul class="megaLinksBox">
               <li><a href="google-ads-for-politicians.php">Politicians </a></li>
-            </ul>
-
-            <ul class="megaLinksBox">
               <li><a href="google-ads-for-real-estate-agents.php">Real Estate </a>
               </li>
               <li><a href="google-ads-for-restaurants.php">Restaurants </a></li>
