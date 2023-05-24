@@ -978,6 +978,12 @@ justify-content: flex-start;
 
 .serviceAccordion .contentBox{
   min-width: 70%;
+  padding-top: 1rem;
+}
+.serviceAccordion .imgBox{
+display: flex;
+align-items: flex-start;
+max-height: 100% !important;
 }
 .accordionUl
 {
@@ -987,6 +993,9 @@ justify-content: flex-start;
 }
 .accordionUl li{
   list-style: disc;
+}
+.accordionUl li strong{
+color: var(--brandColor);
 }
 
 /* ============================================================footer section css */
@@ -1355,7 +1364,7 @@ align-items: center;
   transition: 200ms ease-in-out;
 }
 .showAccordionBody{
-  max-height: 100rem;
+  max-height: fit-content;
   margin-top: 0.5rem;
   }
 
