@@ -101,6 +101,7 @@
       drag: "free",
       snap: true,
       autoplay: true,
+      
     });
 
 
@@ -125,5 +126,27 @@
     });
 
     splide5.mount();
+  }
+</script>
+<!--popularPodcastSplideContainer Section splide slider config -->
+<script>
+  const popularPodcastSplideContainer = document.querySelector('.popularPodcastSplideContainer');
+  if (popularPodcastSplideContainer) {
+    const splide6 = new Splide(".popularPodcastSplideContainer", {
+      perPage: 4,
+      gap: "1rem",
+      padding: "0",
+      type: "loop",
+      drag: "free",
+      snap: true,
+      arrows: true,
+      autoplay: true,
+      breakpoints: {
+        768: { perPage: 2 },
+        500: { perPage: 1,arrows: false, },
+      },
+    });
+
+    splide6.mount();
   }
 </script>

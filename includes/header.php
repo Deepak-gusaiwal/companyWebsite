@@ -32,7 +32,6 @@ $skype = "skype:anubhav.garg7?chat";
 
 
 
-
 <header class="d-flex flex-column justify-content-between align-items-center p-0">
 
   <div
