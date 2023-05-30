@@ -46,6 +46,9 @@ body {
   color: black;
   font-family: Calibri;
 }
+p{
+  margin-bottom: 0;
+}
 
 /* ====================================================================header css */
 
@@ -437,6 +440,39 @@ nav .navLinksContainer {
 }
 .breadCrumbContainer a:hover {
   color: var(--brandColor);
+}
+
+
+/* ========================================serviceBreadCrumb section*/
+.serviceBreadCrumbSection .serviceBreadCrumbElements{
+background: linear-gradient(45deg,var(--brandColor) 50%, var(--darkBlue) 50%);
+ color:white;
+ width: fit-content;
+ padding: 0.5rem;
+ text-transform: uppercase;
+ width: 100%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ gap: 0.5rem;
+ border-bottom: 4px solid white;
+}
+.serviceBreadCrumbSection .serviceBreadCrumbElements a{
+ font-weight: bold;
+ transition: 200ms ease;
+ background-color: var(--darkBlue);
+ padding: 0.2rem;
+ border-radius: 0.2rem;
+}
+.serviceBreadCrumbSection .serviceBreadCrumbElements a:hover{
+color: var(--brandColor);
+}
+.serviceBreadCrumbSection .serviceBreadCrumbElements span{
+background-color: white;
+color: var(--darkBlue);
+font-weight: 600;
+padding: 0.2rem;
+border-radius: 0.4rem;
 }
 
 /* ==============================================================services section  */
@@ -1682,4 +1718,96 @@ nav .navLinksContainer {
 .singleProductCard  h2:hover::before
 {
  transform: translateX(0%) rotate(45deg) scale(5);
+}
+
+
+/* seo services pages css */
+/*=================================== ecommerce-seo-services-india.php */
+/* servicesTopContainer */
+.servicesTopContainer{
+  background-color: var(--darkBlue);
+  color: white;
+}
+.servicesTopContainer .topContetBox h1,
+.servicesTopContainer .topContetBox h2
+{
+  background-color: var(--brandColor);
+  font-weight: bold;
+  text-shadow: 2px 2px rgb(0, 0, 0);
+  padding-inline: 0.5rem;
+}
+
+.serviceTopCard{
+  display: flex;
+  justify-content: start;
+  align-items: center;
+ background-color: var(--brandColor);
+  gap: 0.5rem;
+  color: white;
+  border-top-left-radius: 5rem;
+  border-bottom-left-radius: 5rem;
+  padding: 0 0.5rem;
+  border: 2px solid white;
+}
+.serviceTopCard:nth-child(even){
+  border-top-left-radius: 0rem;
+  border-bottom-left-radius: 0rem;
+  border-top-right-radius: 5rem;
+  border-bottom-right-radius: 5rem;
+  flex-direction: row-reverse;
+  background-color: var(--darkBlue);
+}
+.serviceTopCard .imgBox{
+  min-width: 60px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--darkBlue);
+  border-radius: 100%;
+  padding: 0.5rem;
+  border: 2px solid white;
+  box-shadow: 
+  5px 5px 2px 2px black
+  ;
+}
+.serviceTopCard .contentBox{
+  padding: 0.5rem;
+  width: 100%;
+}
+.serviceTopCard .contentBox p{
+background-color: var(--darkBlue);
+color: rgb(255, 255, 255);
+font-weight: bold;
+text-align: center;
+font-size: 1.2rem;
+}
+.serviceTopCard:nth-child(even) .contentBox p{
+background-color: var(--brandColor);
+color: black;
+
+}
+.serviceTopCard .contentBox .subContentBox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+ 
+}
+.serviceTopCard .contentBox .subContentBox h3{
+font-weight: bold;
+text-shadow: 2px 2px black;
+text-transform: capitalize;
+margin: 0;
+font-size: 1.5rem;
+}
+.serviceTopCard .contentBox .subContentBox span{
+font-weight: bold;
+text-transform: uppercase;
+width: 100%;
+color: black;
+}
+.serviceTopCard:nth-child(even) .contentBox .subContentBox span{
+color: rgb(255, 255, 255);
 }

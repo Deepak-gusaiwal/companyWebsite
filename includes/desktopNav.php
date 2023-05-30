@@ -17,24 +17,17 @@
           <div class="megaContentBox">
             <h5>SEO Services</h5>
             <ul class="megaLinksBox">
-              <li><a href="ecommerce-seo-services-india.php">eCommerce SEO Services </a></li>
-              <li><a href="local-seo-services-india.php">Local SEO Services </a></li>
-              <li><a href="seo-for-google-my-business-profile.php">Google Business
-                  SEO
-                </a></li>
-              <li><a href="youtube-channel-seo-optimization-services.php">YouTube SEO </a>
-              </li>
-              <li><a href="">Startup SEO Services</a></li>
-              <li><a href="aso-app-store-seo-optimization-services.php">ASO Services </a>
-              </li>
-              <li><a href="voice-search-seo-optimization-services-india.php">Voice SEO </a>
-              </li>
-              <li><a href="mobile-igaming-seo-services-india.php">iGaming SEO </a></li>
-              <li><a href="multilingual-seo-services-company-india.php">Multilingual SEO </a>
-              </li>
-              <li><a href="mobile-search-seo-services-india.php ">Mobile Search SEO </a></li>
-              <li><a href="seo-monthly-packages-india.php">SEO Packages </a></li>
-
+              <li><a href="/ecommerce-seo-services-india.php">eCommerce SEO Services </a></li>
+              <li><a href="/local-seo-services-india.php">Local SEO Services </a></li>
+              <li><a href="/seo-for-google-my-business-profile.php">Google Business SEO </a></li>
+              <li><a href="/youtube-channel-seo-optimization-services.php">YouTube SEO </a> </li>
+              <li><a href="/">Startup SEO Services</a></li>
+              <li><a href="/aso-app-store-seo-optimization-services.php">ASO Services </a> </li>
+              <li><a href="/voice-search-seo-optimization-services-india.php">Voice SEO </a> </li>
+              <li><a href="/mobile-igaming-seo-services-india.php">iGaming SEO </a></li>
+              <li><a href="/multilingual-seo-services-company-india.php">Multilingual SEO </a> </li>
+              <li><a href="/mobile-search-seo-services-india.php ">Mobile Search SEO </a></li>
+              <li><a href="/seo-monthly-packages-india.php">SEO Packages </a></li> 
             </ul>
           </div>
 

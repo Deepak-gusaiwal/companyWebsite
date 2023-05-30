@@ -14,3 +14,17 @@ header .logoBox{
 
 /* seo checklist */
 .seoCheckList{flex-direction: column;}
+
+
+/* sevicesTopContainer css */
+.servicesTopContainer .topContetBox h1,
+.servicesTopContainer .topContetBox h2
+{
+text-align: center;
+}
+.serviceTopCard .contentBox .subContentBox{
+    flex-wrap: wrap;
+    gap: 0;
+    justify-content: center;
+    text-align: center;
+}

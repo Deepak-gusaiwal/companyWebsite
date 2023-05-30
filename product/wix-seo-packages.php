@@ -27,18 +27,12 @@
     <!-- breadCrumb ended -->
 
 
-
+<!-- 
     <div class="contentHolderSection">
         <div class="content container p-2">
-            <!-- Product Top Content started -->
-            <h2 class="fs-1 ">Dentists SEO Services Can Help You Reach More Patients Online.</h2>
-            <p>
-                Dentists are seeking for Dentists SEO package for new ways to promote their practice on the internet.
-            </p>
-
-            <!-- Product Top Content ended -->
+            
         </div>
-    </div>
+    </div> -->
 
 
 

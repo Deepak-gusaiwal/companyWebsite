@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Seo For Dentist</title>
+    <title>Seo For app store</title>
 
     <!-- cssLinks -->
     <?php
@@ -28,17 +28,11 @@
 
 
 
-    <div class="contentHolderSection">
+    <!-- <div class="contentHolderSection">
         <div class="content container p-2">
-            <!-- Product Top Content started -->
-            <h2 class="fs-1 ">Dentists SEO Services Can Help You Reach More Patients Online.</h2>
-            <p>
-                Dentists are seeking for Dentists SEO package for new ways to promote their practice on the internet.
-            </p>
-
-            <!-- Product Top Content ended -->
+         
         </div>
-    </div>
+    </div> -->
 
 
 
@@ -481,12 +475,6 @@
 
 
 
-    <!-- seo weekly checklist section started -->
-    <?php $checkListCardTitle = $pageTitle;
-    $checkListTitile = "$pageTitle Weekly On-Page Checklist 2023";
-
-    require "../includes/seoCheckList.php"; ?>
-    <!-- seo weekly checklist section ended -->
 
     <!-- product Content Section started -->
 
