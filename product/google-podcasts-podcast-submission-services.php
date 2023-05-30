@@ -39,7 +39,7 @@
                 <h2>Contact Us for Podcast Submissions</h2>
                 <div class="descriptionSection">
                     <h3>Description</h3>
-                    <p>google</p>
+                    <p>Google Podcasts is a podcasting directory; this means that podcast listening apps and other podcast listening services use Google Podcasts to find podcasts and enable playback. Google Podcasts does not store your RSS feed or audio files, but rather points to the RSS feed and audio files that you have posted elsewhere.</p>
                 </div>
                 <div class="contactBox my-3">
                     <?php require "../includes/Helpers/productButtonGroup.php"; ?>

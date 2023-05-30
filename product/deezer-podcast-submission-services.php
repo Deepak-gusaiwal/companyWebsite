@@ -39,7 +39,7 @@
                 <h2>Contact Us for Podcast Submissions</h2>
                 <div class="descriptionSection">
                     <h3>Description</h3>
-                    <p>deezer</p>
+                    <p>Deezer's dedicated Podcasts tab features a wide selection of podcasts, including locally produced shows, specialist subjects and international hits. </p>
                 </div>
                 <div class="contactBox my-3">
                     <?php require "../includes/Helpers/productButtonGroup.php"; ?>

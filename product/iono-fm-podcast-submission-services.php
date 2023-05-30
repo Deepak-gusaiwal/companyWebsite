@@ -39,7 +39,7 @@
                 <h2>Contact Us for Podcast Submissions</h2>
                 <div class="descriptionSection">
                     <h3>Description</h3>
-                    <p>iono fm</p>
+                    <p>Iono.fm is the proud partner to over 1800 content brands who use our audio ecosystem, across the continent. Injected or live stream audio ads have a great impact and provides accurate and deep delivery statistics simply unavailable from traditional radio.</p>
                 </div>
                 <div class="contactBox my-3">
                     <?php require "../includes/Helpers/productButtonGroup.php"; ?>

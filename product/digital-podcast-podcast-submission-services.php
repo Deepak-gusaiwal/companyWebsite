@@ -39,7 +39,7 @@
                 <h2>Contact Us for Podcast Submissions</h2>
                 <div class="descriptionSection">
                     <h3>Description</h3>
-                    <p>digital</p>
+                    <p>Podcasting is the preparation and distribution of audio files using RSS feeds to the computers of subscribed users. These files may then be uploaded to streaming services, which users can listen to on their smartphones or digital music and multimedia players, like an iPod.</p>
                 </div>
                 <div class="contactBox my-3">
                     <?php require "../includes/Helpers/productButtonGroup.php"; ?>

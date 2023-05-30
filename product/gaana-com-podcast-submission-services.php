@@ -39,7 +39,7 @@
                 <h2>Contact Us for Podcast Submissions</h2>
                 <div class="descriptionSection">
                     <h3>Description</h3>
-                    <p>gaana-com</p>
+                    <p>Download and listen to latest & best Hindi & English Podcasts shows & stories online on Gaana.com.</p>
                 </div>
                 <div class="contactBox my-3">
                     <?php require "../includes/Helpers/productButtonGroup.php"; ?>

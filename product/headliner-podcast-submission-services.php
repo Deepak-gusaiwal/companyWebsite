@@ -39,7 +39,7 @@
                 <h2>Contact Us for Podcast Submissions</h2>
                 <div class="descriptionSection">
                     <h3>Description</h3>
-                    <p>headliner</p>
+                    <p>Headliner is the easiest way to automatically create & share your podcast clips to social. The Headliner app allows you to share your Headliner videos on Instagram, Facebook, Twitter, LinkedIn, WhatsApp, SMS/iMessage & more! You can also set up Automatic Audiogram Videos for your podcast.</p>
                 </div>
                 <div class="contactBox my-3">
                     <?php require "../includes/Helpers/productButtonGroup.php"; ?>

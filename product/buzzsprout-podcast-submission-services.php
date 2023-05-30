@@ -39,7 +39,7 @@
                 <h2>Contact Us for Podcast Submissions</h2>
                 <div class="descriptionSection">
                     <h3>Description</h3>
-                    <p>buzzsprout</p>
+                    <p>Buzzsprout is a cloud-based podcast hosting solution that helps businesses create and publish podcasts across various streaming platforms. Professionals can upload audio files on the platform and schedule episodes on specific dates according to requirements.</p>
                 </div>
                 <div class="contactBox my-3">
                     <?php require "../includes/Helpers/productButtonGroup.php"; ?>

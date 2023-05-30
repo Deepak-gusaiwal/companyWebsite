@@ -39,7 +39,7 @@
                 <h2>Contact Us for Podcast Submissions</h2>
                 <div class="descriptionSection">
                     <h3>Description</h3>
-                    <p>himalaya</p>
+                    <p>Himalaya, a brainchild of Ximalaya 喜马拉雅, is an inspirational content app, featuring short audio courses and motivational stories. Get the insights that can improve your life, and work on your personal development. Listen to inspirational stories and work on your self-improvement with Himalaya.</p>
                 </div>
                 <div class="contactBox my-3">
                     <?php require "../includes/Helpers/productButtonGroup.php"; ?>

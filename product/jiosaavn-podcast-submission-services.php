@@ -39,7 +39,7 @@
                 <h2>Contact Us for Podcast Submissions</h2>
                 <div class="descriptionSection">
                     <h3>Description</h3>
-                    <p>jiosaavn</p>
+                    <p>JioSaavn is a creator's incubator. If brewing content is your cup of tea, and if you can leave people speechless with your speech, then just hit record, and leave the rest to us. Get Started.</p>
                 </div>
                 <div class="contactBox my-3">
                     <?php require "../includes/Helpers/productButtonGroup.php"; ?>

@@ -39,7 +39,7 @@
                 <h2>Contact Us for Podcast Submissions</h2>
                 <div class="descriptionSection">
                     <h3>Description</h3>
-                    <p>hubhopper</p>
+                    <p>Hubhopper, the ultimate podcast platform allows users to host, manage and distribute their podcast for free. With our powerful and easy-to-use podcast creation & management tools, podcasters are able to grow their show and reach a wide target audience base through our distribution network.</p>
                 </div>
                 <div class="contactBox my-3">
                     <?php require "../includes/Helpers/productButtonGroup.php"; ?>

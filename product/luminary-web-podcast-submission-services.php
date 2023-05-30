@@ -39,7 +39,7 @@
                 <h2>Contact Us for Podcast Submissions</h2>
                 <div class="descriptionSection">
                     <h3>Description</h3>
-                    <p>luminaryweb</p>
+                    <p>The Luminary is a podcast series that is focused on the inspirational stories of popular personalities in Sri Lanka, which is created by AIESEC in SLIIT.</p>
                 </div>
                 <div class="contactBox my-3">
                     <?php require "../includes/Helpers/productButtonGroup.php"; ?>

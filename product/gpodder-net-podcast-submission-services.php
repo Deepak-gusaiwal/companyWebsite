@@ -39,7 +39,7 @@
                 <h2>Contact Us for Podcast Submissions</h2>
                 <div class="descriptionSection">
                     <h3>Description</h3>
-                    <p>gpodder</p>
+                    <p>Podder is a simple, cross-platform podcast downloader, player, and sync tool. It supports RSS feeds, FeedBurner, YouTube, and SoundCloud, and it also has an open source sync service that you can run if you want. gPodder doesn't do podcast playback; instead, it uses your audio or video player of choice.</p>
                 </div>
                 <div class="contactBox my-3">
                     <?php require "../includes/Helpers/productButtonGroup.php"; ?>

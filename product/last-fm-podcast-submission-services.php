@@ -39,7 +39,7 @@
                 <h2>Contact Us for Podcast Submissions</h2>
                 <div class="descriptionSection">
                     <h3>Description</h3>
-                    <p>last-fm</p>
+                    <p>Last.fm streams your favorite music for free while offering great listening, watching, and sharing features. What sets Last.fm apart from other services is that it learns what you like by paying attention to your musical preferences.</p>
                 </div>
                 <div class="contactBox my-3">
                     <?php require "../includes/Helpers/productButtonGroup.php"; ?>

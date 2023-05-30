@@ -39,7 +39,7 @@
                 <h2>Contact Us for Podcast Submissions</h2>
                 <div class="descriptionSection">
                     <h3>Description</h3>
-                    <p>listen-notes</p>
+                    <p>Listen Notes is the best podcast search engine and database, providing a user-facing website and a developer-facing API. Search the whole Internet's podcasts. Curate your own podcast playlists. Listen on your favorite podcast player apps.</p>
                 </div>
                 <div class="contactBox my-3">
                     <?php require "../includes/Helpers/productButtonGroup.php"; ?>

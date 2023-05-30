@@ -39,7 +39,7 @@
                 <h2>Contact Us for Podcast Submissions</h2>
                 <div class="descriptionSection">
                     <h3>Description</h3>
-                    <p>ivoox</p>
+                    <p>With iVoox you can listen, share and download podcasts, radio shows and much more for free, whenever you want, wherever you want. Courses, conferences, classes, lectures, audio books, children's stories, audio guides, stand up comedy, stories, music and concerts, poems, biographies and even meditation sessions.</p>
                 </div>
                 <div class="contactBox my-3">
                     <?php require "../includes/Helpers/productButtonGroup.php"; ?>

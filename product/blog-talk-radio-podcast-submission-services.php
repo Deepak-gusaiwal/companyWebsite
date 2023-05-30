@@ -39,7 +39,7 @@
                 <h2>Contact Us for Podcast Submissions</h2>
                 <div class="descriptionSection">
                     <h3>Description</h3>
-                    <p>blog-talk-radio</p>
+                    <p>BlogTalkRadio is a web-based platform that allows podcasters and radio sites and talk show hosts to create live and on-demand talk format content for distribution on the web and podcast distribution channels</p>
                 </div>
                 <div class="contactBox my-3">
                     <?php require "../includes/Helpers/productButtonGroup.php"; ?>

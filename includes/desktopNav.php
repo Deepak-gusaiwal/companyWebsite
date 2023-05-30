@@ -39,14 +39,12 @@
           </div>
 
           <div class="megaContentBox">
-            <h5 class="mt-2"><a href="product-category/seo-package-by-region.php">SEO
-                Packages
-                By Region</a></h5>
+            <h5 class="mt-2"><a href="/product-category/seo-package-by-region.php">
+              SEO Packages By Region</a></h5>
             <ul class="megaLinksBox">
-              <li><a href="local-seo-packages-india.php">Local SEO Package </a></li>
-              <li><a href="national-seo-packages-india.php">National SEO</a></li>
-              <li><a href="international-seo-packages-india.php"> International SEO
-                </a></li>
+              <li><a href="/product/local-seo-packages-india.php">Local SEO Package </a></li>
+              <li><a href="/product/national-seo-packages-india.php">National SEO</a></li>
+              <li><a href="/product/international-seo-packages-india.php"> International SEO</a></li>
 
             </ul>
           </div>
@@ -57,19 +55,15 @@
         <div class="megaBoxMiddle">
           <div class="megaContentBox">
             <h5 class="mt-2">
-              <a href="product-category/seo-packages-by-language.php">SEO Packages By
-                Language</a>
+              <a href="/product-category/seo-packages-by-language.php">SEO Packages By Language</a>
             </h5>
             <ul class="megaLinksBox">
-              <li><a href="seo-packages-for-french-language.php"> French SEO </a>
-              </li>
-              <li><a href="seo-packages-for-german-language.php"> German SEO </a>
-              </li>
-              <li><a href="seo-packages-for-dutch-language.php"> Dutch SEO </a></li>
-              <li><a href="seo-packages-for-spanish.php"> Spanish SEO </a></li>
-              <li><a href="seo-packages-for-russian-language.php"> Russian SEO </a>
-              </li>
-
+              <li><a href="/product/seo-packages-for-french-language.php"> French SEO </a></li>
+              <li><a href="/product/seo-packages-for-german-language.php"> German SEO </a> </li>
+              <li><a href="/product/seo-packages-for-dutch-language.php"> Dutch SEO </a></li>
+              <li><a href="/product/seo-packages-for-spanish.php"> Spanish SEO </a></li>
+              <li><a href="/product/seo-packages-for-russian-language.php"> Russian SEO </a></li>
+              <li><a href="/product/seo-packages-for-danish-denmark-language.php"> danish SEO </a></li>
             </ul>
           </div>
 
@@ -147,8 +141,8 @@
                 </ul>
                 
                 <ul class="megaLinksBox">
-                <li><a href="/product/pet-grooming-care-industry-seo-packages-india.php">Pet
-                Groomers </a></li>
+                <li><a href="/product/pet-grooming-care-industry-seo-packages-india.php">
+                  Pet Groomers </a></li>
                 <li><a href="/product/seo-for-politicians.php">Politicians </a></li>
               <li><a href="/product/seo-for-real-estate-agents.php">Real Estate </a></li>
               <li><a href="/product/seo-for-restaurants.php">Restaurants </a></li>
@@ -318,128 +312,123 @@
 
     <!-- PodCast  Meaga Drop Down Started -->
     <li>
-      <a href="seo-podcast-submission-services-india.php" class="navLink">PodCast</a>
+      <a href="/seo-podcast-submission-services-india.php" class="navLink">PodCast</a>
       <div class="megaContainer PodCastMegaContainer">
-
-
-
-
-
 
         <div class="megaBoxRight">
           <h5>
-            <a href="product-category/seo-packages-by-industies">Available Podcast Platforms
+            <a href="/seo-podcast-submission-services-india.php">Available Podcast Platforms
             </a>
           </h5>
 
           <div class="megaBoxRightWrapper">
 
             <ul class="megaLinksBox">
-              <li><a target="_blank" href="/product/8tracks-podcast-submission-services.php">8tracks</a></li>
-              <li><a target="_blank" href="/product/acast-podcast-submission-services.php">Acast</a></li>
-              <li><a target="_blank" href="/product/alltop-com-podcast-submission-services.php">AllTop.com</a></li>
-              <li><a target="_blank" href="/product/amazon-podcast-submission-services.php">Amazon</a></li>
-              <li><a target="_blank" href="/product/american-podcasts-podcast-submission-services.php">
+              <li><a  href="/product/8tracks-podcast-submission-services.php">8tracks</a></li>
+              <li><a  href="/product/acast-podcast-submission-services.php">Acast</a></li>
+              <li><a  href="/product/alltop-com-podcast-submission-services.php">AllTop.com</a></li>
+              <li><a  href="/product/amazon-podcast-submission-services.php">Amazon</a></li>
+              <li><a  href="/product/american-podcasts-podcast-submission-services.php">
                 American Podcast</a></li>
-              <li><a target="_blank" href="/product/anchor-podcast-submission-services.php">Anchor</a></li>
-              <li><a target="_blank" href="/product/apple-podcast-submission-services.php">Apple</a>
+              <li><a  href="/product/anchor-podcast-submission-services.php">Anchor</a></li>
+              <li><a  href="/product/apple-podcast-submission-services.php">Apple</a>
               </li>
-              <li><a target="_blank" href="/product/audioboom-podcast-submission-services.php">Audioboom</a></li>
-              <li><a target="_blank" href="/product/ausha-podcast-submission-services.php">Ausha</a></li>
-              <li><a target="_blank" href="/product/bandcamp-podcast-submission-services.php">Bandcamp</a></li>
-              <li><a target="_blank" href="/product/beyondpod-podcast-submission-services.php">BeyondPod</a></li>
-              <li><a target="_blank" href="/product/blip-fm-podcast-submission-services.php">Blip.fm</a></li>
+              <li><a  href="/product/audioboom-podcast-submission-services.php">Audioboom</a></li>
+              <li><a  href="/product/ausha-podcast-submission-services.php">Ausha</a></li>
+              <li><a  href="/product/bandcamp-podcast-submission-services.php">Bandcamp</a></li>
+              <li><a  href="/product/beyondpod-podcast-submission-services.php">BeyondPod</a></li>
+              <li><a  href="/product/blip-fm-podcast-submission-services.php">Blip.fm</a></li>
 
             </ul>
 
             <ul class="megaLinksBox">
-              <li><a target="_blank" href="/product/blog-talk-radio-podcast-submission-services.php">Blog Talk Radio</a>
+              <li><a  href="/product/blog-talk-radio-podcast-submission-services.php">Blog Talk Radio</a>
               </li>
-              <li><a target="_blank" href="/product/blubrry-podcast-submission-services.php">Blubrry</a></li>
-              <li><a target="_blank" href="/product/buzzsprout-podcast-submission-services.php">buzzsprout</a></li>
-              <li><a target="_blank" href="/product/castbox-podcast-submission-services.php">Castbox</a></li>
-              <li><a target="_blank" href="/product/castos-podcast-submission-services.php">Castos</a></li>
-              <li><a target="_blank" href="/product/castro-podcast-app-podcast-submission-services.php">Castro</a></li>
-              <li><a target="_blank" href="/product/clyp-podcast-submission-services.php">Clyp</a></li>
-              <li><a target="_blank" href="/product/deezer-podcast-submission-services.php">Deezer</a></li>
-              <li><a target="_blank" href="/product/digital-podcast-podcast-submission-services.php">Digital podcast</a>
+              <li><a  href="/product/blubrry-podcast-submission-services.php">Blubrry</a></li>
+              <li><a  href="/product/buzzsprout-podcast-submission-services.php">buzzsprout</a></li>
+              <li><a  href="/product/castbox-podcast-submission-services.php">Castbox</a></li>
+              <li><a  href="/product/castos-podcast-submission-services.php">Castos</a></li>
+              <li><a  href="/product/castro-podcast-app-podcast-submission-services.php">Castro</a></li>
+              <li><a  href="/product/clyp-podcast-submission-services.php">Clyp</a></li>
+              <li><a  href="/product/deezer-podcast-submission-services.php">Deezer</a></li>
+              <li><a  href="/product/digital-podcast-podcast-submission-services.php">Digital podcast</a>
               </li>
-              <li><a target="_blank" href="/product/doggcatcher-podcast-submission-services.php">Doggcatcher</a></li>
-              <li><a target="_blank" href="/product/feedly-podcast-submission-services.php">Feedly</a></li>
-              <li><a target="_blank" href="/product/fyyd-de-podcast-submission-services.php">FYYD.DE</a></li>
-              <li><a target="_blank" href="/product/gaana-com-podcast-submission-services.php">Gaana.com</a></li>
+              <li><a  href="/product/doggcatcher-podcast-submission-services.php">Doggcatcher</a></li>
+              <li><a  href="/product/feedly-podcast-submission-services.php">Feedly</a></li>
+              <li><a  href="/product/fyyd-de-podcast-submission-services.php">FYYD.DE</a></li>
+              <li><a  href="/product/gaana-com-podcast-submission-services.php">Gaana.com</a></li>
 
             </ul>
 
             <ul class="megaLinksBox">
-              <li><a target="_blank" href="/product/google-podcasts-podcast-submission-services.php">Google Podcasts</a>
+              <li><a  href="/product/google-podcasts-podcast-submission-services.php">Google Podcasts</a>
               </li>
-              <li><a target="_blank" href="/product/gpodder-net-podcast-submission-services.php">GPODDER.net</a></li>
-              <li><a target="_blank" href="/product/headliner-podcast-submission-services.php">Headliner</a></li>
-              <li><a target="_blank" href="/product/himalaya-podcast-submission-services.php">Himalaya</a></li>
-              <li><a target="_blank" href="/product/hubhopper-podcast-submission-services.php">Hubhopper</a></li>
-              <li><a target="_blank" href="/product/iheartradio-podcast-submission-services.php">iHeartRadio</a></li>
-              <li><a target="_blank" href="/product/iono-fm-podcast-submission-services.php">IONO.FM</a></li>
-              <li><a target="_blank" href="/product/ivoox-podcast-submission-services.php">iVoox</a></li>
-              <li><a target="_blank" href="/product/jiosaavn-podcast-submission-services.php">JioSaavan</a></li>
-              <li><a target="_blank" href="/product/last-fm-podcast-submission-services.php">Last.fm</a></li>
-              <li><a target="_blank" href="/product/listen-notes-podcast-submission-services.php">Listen notes</a></li>
-              <li><a target="_blank" href="/product/luminary-web-podcast-submission-services.php">Luminary</a></li>
+              <li><a  href="/product/gpodder-net-podcast-submission-services.php">GPODDER.net</a></li>
+              <li><a  href="/product/headliner-podcast-submission-services.php">Headliner</a></li>
+              <li><a  href="/product/himalaya-podcast-submission-services.php">Himalaya</a></li>
+              <li><a  href="/product/hubhopper-podcast-submission-services.php">Hubhopper</a></li>
+              <li><a  href="/product/iheartradio-podcast-submission-services.php">iHeartRadio</a></li>
+              <li><a  href="/product/iono-fm-podcast-submission-services.php">IONO.FM</a></li>
+              <li><a  href="/product/ivoox-podcast-submission-services.php">iVoox</a></li>
+              <li><a  href="/product/jiosaavn-podcast-submission-services.php">JioSaavan</a></li>
+              <li><a  href="/product/last-fm-podcast-submission-services.php">Last.fm</a></li>
+              <li><a  href="/product/listen-notes-podcast-submission-services.php">Listen notes</a></li>
+              <li><a  href="/product/luminary-web-podcast-submission-services.php">Luminary</a></li>
 
             </ul>
 
             <ul class="megaLinksBox">
-              <li><a target="_blank" href="/product/my-podcast-world-podcast-submission-services.php">
+              <li><a  href="/product/my-podcast-world-podcast-submission-services.php">
                 My Podcast World</a></li>
-              <li><a target="_blank" href="/product/myspace-podcast-submission-services.php">MySpace</a></li>
-              <li><a target="_blank" href="/product/overcast-podcast-submission-services.php">Overcast</a></li>
-              <li><a target="_blank" href="/product/oxide-radio-podcast-submission-services.php">Oxide</a></li>
-              <li><a target="_blank" href="/product/pandora-podcast-submission-services.php">Pandora</a></li>
-              <li><a target="_blank" href="/product/pinecast-podcast-submission-services.php">Pinecast</a></li>
-              <li><a target="_blank" href="/product/player-fm-podcast-submission-services.php">Player FM</a></li>
-              <li><a target="_blank" href="/product/pocket-casts-podcast-submission-services.php">Pocket Casts</a></li>
-              <li><a target="_blank" href="/product/podbean-podcast-submission-services.php">Podbean</a></li>
-              <li><a target="_blank" href="/product/podcastindex-org-podcast-submission-services.php">
+              <li><a  href="/product/myspace-podcast-submission-services.php">MySpace</a></li>
+              <li><a  href="/product/overcast-podcast-submission-services.php">Overcast</a></li>
+              <li><a  href="/product/oxide-radio-podcast-submission-services.php">Oxide</a></li>
+              <li><a  href="/product/pandora-podcast-submission-services.php">Pandora</a></li>
+              <li><a  href="/product/pinecast-podcast-submission-services.php">Pinecast</a></li>
+              <li><a  href="/product/player-fm-podcast-submission-services.php">Player FM</a></li>
+              <li><a  href="/product/pocket-casts-podcast-submission-services.php">Pocket Casts</a></li>
+              <li><a  href="/product/podbean-podcast-submission-services.php">Podbean</a></li>
+              <li><a  href="/product/podcastindex-org-podcast-submission-services.php">
                 Podcast Index</a></li>
-              <li><a target="_blank" href="/product/podcast-republic-podcast-submission-services.php">
+              <li><a  href="/product/podcast-republic-podcast-submission-services.php">
                 Podcast Republic</a></li>
-              <li><a target="_blank" href="/product/podcasts-com-podcast-submission-services.php">Podcasts.com</a></li>
+              <li><a  href="/product/podcasts-com-podcast-submission-services.php">Podcasts.com</a></li>
 
             </ul>
 
             <ul class="megaLinksBox">
-              <li><a target="_blank" href="/product/podchaser-podcast-submission-services.php">Podchaser</a></li>
-              <li><a target="_blank" href="/product/podcorn-podcast-submission-services.php">Podcorn</a></li>
-              <li><a target="_blank" href="/product/podfollow-com-podcast-submission-services.php">
+              <li><a  href="/product/podchaser-podcast-submission-services.php">Podchaser</a></li>
+              <li><a  href="/product/podcorn-podcast-submission-services.php">Podcorn</a></li>
+              <li><a  href="/product/podfollow-com-podcast-submission-services.php">
                 PODFOLLOW.COM</a></li>
-              <li><a target="_blank" href="/product/podfriend-podcast-submission-services.php">Podfriend</a></li>
-              <li><a target="_blank" href="/product/podigee-podcast-submission-services.php">Podigee</a></li>
-              <li><a target="_blank" href="/product/podnews-podcast-submission-services.php">Podnews</a></li>
-              <li><a target="_blank" href="/product/podomatic-podcast-submission-services.php">Podomatic</a></li>
-              <li><a target="_blank" href="/product/podparadise-podcast-submission-services.php">PodParadise</a></li>
-              <li><a target="_blank" href="/product/podserve-fm-podcast-submission-services.php">Podserve.fm</a></li>
-              <li><a target="_blank" href="/product/podtail-podcast-submission-services.php">Podtail</a></li>
-              <li><a target="_blank" href="/product/radiopublic-podcast-submission-services.php">RadioPublic</a></li>
-              <li><a target="_blank" href="/product/redcircle-podcast-submission-services.php">RedCircle</a></li>
+              <li><a  href="/product/podfriend-podcast-submission-services.php">Podfriend</a></li>
+              <li><a  href="/product/podigee-podcast-submission-services.php">Podigee</a></li>
+              <li><a  href="/product/podnews-podcast-submission-services.php">Podnews</a></li>
+              <li><a  href="/product/podomatic-podcast-submission-services.php">Podomatic</a></li>
+              <li><a  href="/product/podparadise-podcast-submission-services.php">PodParadise</a></li>
+              <li><a  href="/product/podserve-fm-podcast-submission-services.php">Podserve.fm</a></li>
+              <li><a  href="/product/podtail-podcast-submission-services.php">Podtail</a></li>
+              <li><a  href="/product/radiopublic-podcast-submission-services.php">RadioPublic</a></li>
+              <li><a  href="/product/redcircle-podcast-submission-services.php">RedCircle</a></li>
 
             </ul>
 
             <ul class="megaLinksBox">
-              <li><a target="_blank" 
+              <li><a  
               href="/product/resonate-recordings-podcast-submission-services.php">Resonate recordings</a></li>
-              <li><a target="_blank" href="/product/riverside-fm-podcast-submission-services.php">Riverside.fm</a></li>
-              <li><a target="_blank" href="/product/shoutcast-podcast-submission-services.php">Shoutcast</a></li>
-              <li><a target="_blank" href="/product/simplecast-podcast-submission-services.php">Simplecast</a></li>
-              <li><a target="_blank" href="/product/soundcloud-podcast-submission-services.php">Soundcloud</a></li>
-              <li><a target="_blank" href="/product/spotify-podcast-submission-services.php">Spotify</a></li>
-              <li><a target="_blank" href="/product/spreaker-podcast-submission-services.php">Spreaker</a></li>
-              <li><a target="_blank" href="/product/stitcher-podcast-submission-services.php">Stitcher</a></li>
-              <li><a target="_blank" href="/product/tunein-podcast-submission-services.php">TuinIn</a></li>
-              <li><a target="_blank" href="/product/uk-podcast-directory-podcast-submission-services.php">
+              <li><a  href="/product/riverside-fm-podcast-submission-services.php">Riverside.fm</a></li>
+              <li><a  href="/product/shoutcast-podcast-submission-services.php">Shoutcast</a></li>
+              <li><a  href="/product/simplecast-podcast-submission-services.php">Simplecast</a></li>
+              <li><a  href="/product/soundcloud-podcast-submission-services.php">Soundcloud</a></li>
+              <li><a  href="/product/spotify-podcast-submission-services.php">Spotify</a></li>
+              <li><a  href="/product/spreaker-podcast-submission-services.php">Spreaker</a></li>
+              <li><a  href="/product/stitcher-podcast-submission-services.php">Stitcher</a></li>
+              <li><a  href="/product/tunein-podcast-submission-services.php">TuinIn</a></li>
+              <li><a  href="/product/uk-podcast-directory-podcast-submission-services.php">
                 UK Podcast Directory</a></li>
-              <li><a target="_blank" href="/product/zencast-podcast-submission-services.php">Zencast</a></li>
-              <li><a target="_blank" href="/product/zeno-media-podcast-submission-services.php">Zeno media</a></li>
-              <li><a target="_blank" href="/product/zeno-fm-podcast-submission-services.php">Zeno.FM</a></li>
+              <li><a  href="/product/zencast-podcast-submission-services.php">Zencast</a></li>
+              <li><a  href="/product/zeno-media-podcast-submission-services.php">Zeno media</a></li>
+              <li><a  href="/product/zeno-fm-podcast-submission-services.php">Zeno.FM</a></li>
 
             </ul>
 

@@ -39,7 +39,7 @@
                 <h2>Contact Us for Podcast Submissions</h2>
                 <div class="descriptionSection">
                     <h3>Description</h3>
-                    <p>castos</p>
+                    <p>With Castos, every podcast you publish gets its own responsive website, making it easy for your audience to subscribe, search episodes, and connect with you on social media.</p>
                 </div>
                 <div class="contactBox my-3">
                     <?php require "../includes/Helpers/productButtonGroup.php"; ?>
