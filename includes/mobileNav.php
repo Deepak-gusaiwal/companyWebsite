@@ -76,20 +76,24 @@
 
         <div class="mobileDropBox">
           <label for="seoPackagesByCMS">SEO Packages by CMS
+            <a href="/product-category/seo-packages-by-cms.php">
+              <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
+            </a>
           </label>
           <input type="checkbox" name="" id="seoPackagesByCMS">
 
           <ul class="mobileDropBox">
-            <li><a href="/product/seo-for-mobile-app"> App Store SEO </a></li>
-            <li><a href="/product/seo-for-wordpress-website"> WordPress SEO </a></li>
-            <li><a href="/product/seo-for-shopify-website"> Shopify SEO </a></li>
-            <li><a href=""> Magento SEO</a></li>
-            <li><a href="/product/seo-for-amazon-store-products"> Amazon SEO </a></li>
-            <li><a href=""> eBay SEO </a></li>
-            <li><a href="/product/seo-for-wix-website"> Wix SEO </a></li>
-            <li><a href=""> BigCommerce SEO </a></li>
-            <li><a href="/product/seo-for-woocommerce"> Woocommerce SEO </a></li>
-            <li><a href=""> OpenCart SEO </a></li>
+            <li><a href="/product/app-store-seo-packages.php"> App Store SEO </a></li>
+            <li><a href="/product/wordpress-seo-packages.php"> WordPress SEO </a></li>
+            <li><a href="/product/shopify-seo-packages.php"> Shopify SEO </a></li>
+            <li><a href="/product/magento-seo-packages.php"> Magento SEO</a></li>
+            <li><a href="/product/amazon-seo-packages.php"> Amazon SEO </a></li>
+            <li><a href="/product/ebay-seo-packages.php"> eBay SEO </a></li>
+            <li><a href="/product/wix-seo-packages.php"> Wix SEO </a></li>
+            <li><a href="/product/big-commerce-seo-packages.php"> BigCommerce SEO </a></li>
+            <li><a href="/product/woo-commerce-seo-packages.php"> Woocommerce SEO </a></li>
+            <li><a href="/product/opencart-seo-packages.php"> OpenCart SEO </a></li>
+          </ul>
         </div>
 
         <div class="mobileDropBox">
@@ -299,96 +303,96 @@
       <li class="mobileDropToggle">
         <label for="podcast">
           Available Podcast Platforms
-          <a href="/seo-podcast-submission-services-india.php"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+          <a href="/seo-podcast-submission-services-india.php"><i class="fa fa-arrow-circle-right"
+              aria-hidden="true"></i></a>
         </label>
         <input type="checkbox" name="" id="podcast">
 
         <ul class="mobileDropBox">
-        <li><a  href="/product/8tracks-podcast-submission-services.php">8tracks</a></li>
-              <li><a  href="/product/acast-podcast-submission-services.php">Acast</a></li>
-              <li><a  href="/product/alltop-com-podcast-submission-services.php">AllTop.com</a></li>
-              <li><a  href="/product/amazon-podcast-submission-services.php">Amazon</a></li>
-              <li><a  href="/product/american-podcasts-podcast-submission-services.php">
-                American Podcast</a></li>
-              <li><a  href="/product/anchor-podcast-submission-services.php">Anchor</a></li>
-              <li><a  href="/product/apple-podcast-submission-services.php">Apple</a>
-              </li>
-              <li><a  href="/product/audioboom-podcast-submission-services.php">Audioboom</a></li>
-              <li><a  href="/product/ausha-podcast-submission-services.php">Ausha</a></li>
-              <li><a  href="/product/bandcamp-podcast-submission-services.php">Bandcamp</a></li>
-              <li><a  href="/product/beyondpod-podcast-submission-services.php">BeyondPod</a></li>
-              <li><a  href="/product/blip-fm-podcast-submission-services.php">Blip.fm</a></li>
-              <li><a  href="/product/blog-talk-radio-podcast-submission-services.php">Blog Talk Radio</a>
-              </li>
-              <li><a  href="/product/blubrry-podcast-submission-services.php">Blubrry</a></li>
-              <li><a  href="/product/buzzsprout-podcast-submission-services.php">buzzsprout</a></li>
-              <li><a  href="/product/castbox-podcast-submission-services.php">Castbox</a></li>
-              <li><a  href="/product/castos-podcast-submission-services.php">Castos</a></li>
-              <li><a  href="/product/castro-podcast-app-podcast-submission-services.php">Castro</a></li>
-              <li><a  href="/product/clyp-podcast-submission-services.php">Clyp</a></li>
-              <li><a  href="/product/deezer-podcast-submission-services.php">Deezer</a></li>
-              <li><a  href="/product/digital-podcast-podcast-submission-services.php">Digital podcast</a>
-              </li>
-              <li><a  href="/product/doggcatcher-podcast-submission-services.php">Doggcatcher</a></li>
-              <li><a  href="/product/feedly-podcast-submission-services.php">Feedly</a></li>
-              <li><a  href="/product/fyyd-de-podcast-submission-services.php">FYYD.DE</a></li>
-              <li><a  href="/product/gaana-com-podcast-submission-services.php">Gaana.com</a></li>
-              <li><a  href="/product/google-podcasts-podcast-submission-services.php">Google Podcasts</a>
-              </li>
-              <li><a  href="/product/gpodder-net-podcast-submission-services.php">GPODDER.net</a></li>
-              <li><a  href="/product/headliner-podcast-submission-services.php">Headliner</a></li>
-              <li><a  href="/product/himalaya-podcast-submission-services.php">Himalaya</a></li>
-              <li><a  href="/product/hubhopper-podcast-submission-services.php">Hubhopper</a></li>
-              <li><a  href="/product/iheartradio-podcast-submission-services.php">iHeartRadio</a></li>
-              <li><a  href="/product/iono-fm-podcast-submission-services.php">IONO.FM</a></li>
-              <li><a  href="/product/ivoox-podcast-submission-services.php">iVoox</a></li>
-              <li><a  href="/product/jiosaavn-podcast-submission-services.php">JioSaavan</a></li>
-              <li><a  href="/product/last-fm-podcast-submission-services.php">Last.fm</a></li>
-              <li><a  href="/product/listen-notes-podcast-submission-services.php">Listen notes</a></li>
-              <li><a  href="/product/luminary-web-podcast-submission-services.php">Luminary</a></li>
-              <li><a  href="/product/my-podcast-world-podcast-submission-services.php">
-                My Podcast World</a></li>
-              <li><a  href="/product/myspace-podcast-submission-services.php">MySpace</a></li>
-              <li><a  href="/product/overcast-podcast-submission-services.php">Overcast</a></li>
-              <li><a  href="/product/oxide-radio-podcast-submission-services.php">Oxide</a></li>
-              <li><a  href="/product/pandora-podcast-submission-services.php">Pandora</a></li>
-              <li><a  href="/product/pinecast-podcast-submission-services.php">Pinecast</a></li>
-              <li><a  href="/product/player-fm-podcast-submission-services.php">Player FM</a></li>
-              <li><a  href="/product/pocket-casts-podcast-submission-services.php">Pocket Casts</a></li>
-              <li><a  href="/product/podbean-podcast-submission-services.php">Podbean</a></li>
-              <li><a  href="/product/podcastindex-org-podcast-submission-services.php">
-                Podcast Index</a></li>
-              <li><a  href="/product/podcast-republic-podcast-submission-services.php">
-                Podcast Republic</a></li>
-              <li><a  href="/product/podcasts-com-podcast-submission-services.php">Podcasts.com</a></li>
-              <li><a  href="/product/podchaser-podcast-submission-services.php">Podchaser</a></li>
-              <li><a  href="/product/podcorn-podcast-submission-services.php">Podcorn</a></li>
-              <li><a  href="/product/podfollow-com-podcast-submission-services.php">
-                PODFOLLOW.COM</a></li>
-              <li><a  href="/product/podfriend-podcast-submission-services.php">Podfriend</a></li>
-              <li><a  href="/product/podigee-podcast-submission-services.php">Podigee</a></li>
-              <li><a  href="/product/podnews-podcast-submission-services.php">Podnews</a></li>
-              <li><a  href="/product/podomatic-podcast-submission-services.php">Podomatic</a></li>
-              <li><a  href="/product/podparadise-podcast-submission-services.php">PodParadise</a></li>
-              <li><a  href="/product/podserve-fm-podcast-submission-services.php">Podserve.fm</a></li>
-              <li><a  href="/product/podtail-podcast-submission-services.php">Podtail</a></li>
-              <li><a  href="/product/radiopublic-podcast-submission-services.php">RadioPublic</a></li>
-              <li><a  href="/product/redcircle-podcast-submission-services.php">RedCircle</a></li>
-              <li><a  
-              href="/product/resonate-recordings-podcast-submission-services.php">Resonate recordings</a></li>
-              <li><a  href="/product/riverside-fm-podcast-submission-services.php">Riverside.fm</a></li>
-              <li><a  href="/product/shoutcast-podcast-submission-services.php">Shoutcast</a></li>
-              <li><a  href="/product/simplecast-podcast-submission-services.php">Simplecast</a></li>
-              <li><a  href="/product/soundcloud-podcast-submission-services.php">Soundcloud</a></li>
-              <li><a  href="/product/spotify-podcast-submission-services.php">Spotify</a></li>
-              <li><a  href="/product/spreaker-podcast-submission-services.php">Spreaker</a></li>
-              <li><a  href="/product/stitcher-podcast-submission-services.php">Stitcher</a></li>
-              <li><a  href="/product/tunein-podcast-submission-services.php">TuinIn</a></li>
-              <li><a  href="/product/uk-podcast-directory-podcast-submission-services.php">
-                UK Podcast Directory</a></li>
-              <li><a  href="/product/zencast-podcast-submission-services.php">Zencast</a></li>
-              <li><a  href="/product/zeno-media-podcast-submission-services.php">Zeno media</a></li>
-              <li><a  href="/product/zeno-fm-podcast-submission-services.php">Zeno.FM</a></li>
+          <li><a href="/product/8tracks-podcast-submission-services.php">8tracks</a></li>
+          <li><a href="/product/acast-podcast-submission-services.php">Acast</a></li>
+          <li><a href="/product/alltop-com-podcast-submission-services.php">AllTop.com</a></li>
+          <li><a href="/product/amazon-podcast-submission-services.php">Amazon</a></li>
+          <li><a href="/product/american-podcasts-podcast-submission-services.php">
+              American Podcast</a></li>
+          <li><a href="/product/anchor-podcast-submission-services.php">Anchor</a></li>
+          <li><a href="/product/apple-podcast-submission-services.php">Apple</a>
+          </li>
+          <li><a href="/product/audioboom-podcast-submission-services.php">Audioboom</a></li>
+          <li><a href="/product/ausha-podcast-submission-services.php">Ausha</a></li>
+          <li><a href="/product/bandcamp-podcast-submission-services.php">Bandcamp</a></li>
+          <li><a href="/product/beyondpod-podcast-submission-services.php">BeyondPod</a></li>
+          <li><a href="/product/blip-fm-podcast-submission-services.php">Blip.fm</a></li>
+          <li><a href="/product/blog-talk-radio-podcast-submission-services.php">Blog Talk Radio</a>
+          </li>
+          <li><a href="/product/blubrry-podcast-submission-services.php">Blubrry</a></li>
+          <li><a href="/product/buzzsprout-podcast-submission-services.php">buzzsprout</a></li>
+          <li><a href="/product/castbox-podcast-submission-services.php">Castbox</a></li>
+          <li><a href="/product/castos-podcast-submission-services.php">Castos</a></li>
+          <li><a href="/product/castro-podcast-app-podcast-submission-services.php">Castro</a></li>
+          <li><a href="/product/clyp-podcast-submission-services.php">Clyp</a></li>
+          <li><a href="/product/deezer-podcast-submission-services.php">Deezer</a></li>
+          <li><a href="/product/digital-podcast-podcast-submission-services.php">Digital podcast</a>
+          </li>
+          <li><a href="/product/doggcatcher-podcast-submission-services.php">Doggcatcher</a></li>
+          <li><a href="/product/feedly-podcast-submission-services.php">Feedly</a></li>
+          <li><a href="/product/fyyd-de-podcast-submission-services.php">FYYD.DE</a></li>
+          <li><a href="/product/gaana-com-podcast-submission-services.php">Gaana.com</a></li>
+          <li><a href="/product/google-podcasts-podcast-submission-services.php">Google Podcasts</a>
+          </li>
+          <li><a href="/product/gpodder-net-podcast-submission-services.php">GPODDER.net</a></li>
+          <li><a href="/product/headliner-podcast-submission-services.php">Headliner</a></li>
+          <li><a href="/product/himalaya-podcast-submission-services.php">Himalaya</a></li>
+          <li><a href="/product/hubhopper-podcast-submission-services.php">Hubhopper</a></li>
+          <li><a href="/product/iheartradio-podcast-submission-services.php">iHeartRadio</a></li>
+          <li><a href="/product/iono-fm-podcast-submission-services.php">IONO.FM</a></li>
+          <li><a href="/product/ivoox-podcast-submission-services.php">iVoox</a></li>
+          <li><a href="/product/jiosaavn-podcast-submission-services.php">JioSaavan</a></li>
+          <li><a href="/product/last-fm-podcast-submission-services.php">Last.fm</a></li>
+          <li><a href="/product/listen-notes-podcast-submission-services.php">Listen notes</a></li>
+          <li><a href="/product/luminary-web-podcast-submission-services.php">Luminary</a></li>
+          <li><a href="/product/my-podcast-world-podcast-submission-services.php">
+              My Podcast World</a></li>
+          <li><a href="/product/myspace-podcast-submission-services.php">MySpace</a></li>
+          <li><a href="/product/overcast-podcast-submission-services.php">Overcast</a></li>
+          <li><a href="/product/oxide-radio-podcast-submission-services.php">Oxide</a></li>
+          <li><a href="/product/pandora-podcast-submission-services.php">Pandora</a></li>
+          <li><a href="/product/pinecast-podcast-submission-services.php">Pinecast</a></li>
+          <li><a href="/product/player-fm-podcast-submission-services.php">Player FM</a></li>
+          <li><a href="/product/pocket-casts-podcast-submission-services.php">Pocket Casts</a></li>
+          <li><a href="/product/podbean-podcast-submission-services.php">Podbean</a></li>
+          <li><a href="/product/podcastindex-org-podcast-submission-services.php">
+              Podcast Index</a></li>
+          <li><a href="/product/podcast-republic-podcast-submission-services.php">
+              Podcast Republic</a></li>
+          <li><a href="/product/podcasts-com-podcast-submission-services.php">Podcasts.com</a></li>
+          <li><a href="/product/podchaser-podcast-submission-services.php">Podchaser</a></li>
+          <li><a href="/product/podcorn-podcast-submission-services.php">Podcorn</a></li>
+          <li><a href="/product/podfollow-com-podcast-submission-services.php">
+              PODFOLLOW.COM</a></li>
+          <li><a href="/product/podfriend-podcast-submission-services.php">Podfriend</a></li>
+          <li><a href="/product/podigee-podcast-submission-services.php">Podigee</a></li>
+          <li><a href="/product/podnews-podcast-submission-services.php">Podnews</a></li>
+          <li><a href="/product/podomatic-podcast-submission-services.php">Podomatic</a></li>
+          <li><a href="/product/podparadise-podcast-submission-services.php">PodParadise</a></li>
+          <li><a href="/product/podserve-fm-podcast-submission-services.php">Podserve.fm</a></li>
+          <li><a href="/product/podtail-podcast-submission-services.php">Podtail</a></li>
+          <li><a href="/product/radiopublic-podcast-submission-services.php">RadioPublic</a></li>
+          <li><a href="/product/redcircle-podcast-submission-services.php">RedCircle</a></li>
+          <li><a href="/product/resonate-recordings-podcast-submission-services.php">Resonate recordings</a></li>
+          <li><a href="/product/riverside-fm-podcast-submission-services.php">Riverside.fm</a></li>
+          <li><a href="/product/shoutcast-podcast-submission-services.php">Shoutcast</a></li>
+          <li><a href="/product/simplecast-podcast-submission-services.php">Simplecast</a></li>
+          <li><a href="/product/soundcloud-podcast-submission-services.php">Soundcloud</a></li>
+          <li><a href="/product/spotify-podcast-submission-services.php">Spotify</a></li>
+          <li><a href="/product/spreaker-podcast-submission-services.php">Spreaker</a></li>
+          <li><a href="/product/stitcher-podcast-submission-services.php">Stitcher</a></li>
+          <li><a href="/product/tunein-podcast-submission-services.php">TuinIn</a></li>
+          <li><a href="/product/uk-podcast-directory-podcast-submission-services.php">
+              UK Podcast Directory</a></li>
+          <li><a href="/product/zencast-podcast-submission-services.php">Zencast</a></li>
+          <li><a href="/product/zeno-media-podcast-submission-services.php">Zeno media</a></li>
+          <li><a href="/product/zeno-fm-podcast-submission-services.php">Zeno.FM</a></li>
         </ul>
       </li>
       <!-- other section ended -->

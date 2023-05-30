@@ -68,18 +68,20 @@
           </div>
 
           <div class="megaContentBox">
-            <h5>SEO Packages by CMS </h5>
+            <h5>
+              <a href="/product-category/seo-packages-by-cms.php">SEO Packages by CMS</a>
+             </h5>
             <ul class="megaLinksBox">
-              <li><a href="seo-for-mobile-app.php"> App Store SEO </a></li>
-              <li><a href="seo-for-wordpress-website.php"> WordPress SEO </a></li>
-              <li><a href="seo-for-shopify-website.php"> Shopify SEO </a></li>
-              <li><a href=""> Magento SEO</a></li>
-              <li><a href="seo-for-amazon-store-products.php"> Amazon SEO </a></li>
-              <li><a href=""> eBay SEO </a></li>
-              <li><a href="seo-for-wix-website.php"> Wix SEO </a></li>
-              <li><a href=""> BigCommerce SEO </a></li>
-              <li><a href="seo-for-woocommerce.php"> Woocommerce SEO </a></li>
-              <li><a href=""> OpenCart SEO </a></li>
+              <li><a href="/product/app-store-seo-packages.php"> App Store SEO </a></li>
+              <li><a href="/product/wordpress-seo-packages.php"> WordPress SEO </a></li>
+              <li><a href="/product/shopify-seo-packages.php"> Shopify SEO </a></li>
+              <li><a href="/product/magento-seo-packages.php"> Magento SEO</a></li>
+              <li><a href="/product/amazon-seo-packages.php"> Amazon SEO </a></li>
+              <li><a href="/product/ebay-seo-packages.php"> eBay SEO </a></li>
+              <li><a href="/product/wix-seo-packages.php"> Wix SEO </a></li>
+              <li><a href="/product/big-commerce-seo-packages.php"> BigCommerce SEO </a></li>
+              <li><a href="/product/woo-commerce-seo-packages.php"> Woocommerce SEO </a></li>
+              <li><a href="/product/opencart-seo-packages.php"> OpenCart SEO </a></li>
 
             </ul>
           </div>
