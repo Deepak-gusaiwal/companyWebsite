@@ -6,7 +6,7 @@
   border-radius: 100%;
   background-color: var(--whatsappLight);
   box-shadow: 2px 2px 5px black;
-  
+
   padding-top: 0.2rem;
   position: relative;
   z-index: 1;
@@ -53,8 +53,7 @@
   padding: 1rem;
 }
 .bannerSection h1,
-.bannerSection .commonTitle
- {
+.bannerSection .commonTitle {
   width: 100%;
   padding: 0.3rem 0.6rem;
   text-align: center;
@@ -65,8 +64,7 @@
   font-weight: bold;
 }
 .bannerSection.BottomBorder h1,
-.bannerSection.BottomBorder .commonTitle
-{
+.bannerSection.BottomBorder .commonTitle {
   border-bottom: 2px solid black;
 }
 
@@ -170,14 +168,13 @@ button[type="submit"]:hover,
 }
 
 /* form */
-.formErrorSpan{
+.formErrorSpan {
   color: red;
   text-transform: capitalize;
   font-weight: bold;
   font-size: 1.2rem;
   margin-top: -2rem;
 }
-
 
 /* whatsapp Button */
 
@@ -194,15 +191,14 @@ button[type="submit"]:hover,
   box-shadow: 2px 2px 5px black;
   transition: 200ms;
 }
-.RoundButton:hover{
+.RoundButton:hover {
   transform: scaleY(1.1);
 }
 
-
-.normalWhatsappButton{
+.normalWhatsappButton {
   background-color: var(--whatsappDark);
   padding: 0.6rem 1rem;
-  border-radius:0.6rem;
+  border-radius: 0.6rem;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -210,52 +206,52 @@ button[type="submit"]:hover,
   color: white;
   text-transform: uppercase;
   max-width: 10rem;
-  border:2px solid white;
+  border: 2px solid white;
   transition: 200ms;
   transform-origin: left;
 }
-.normalWhatsappButton:hover{
+.normalWhatsappButton:hover {
   transform: scaleX(1.1);
 }
-.normalWhatsappButton i{
-font-size: 1.2rem;
+.normalWhatsappButton i {
+  font-size: 1.2rem;
 }
 
-.redColor{
-  color:red;
+.redColor {
+  color: red;
 }
-.blueColor{
+.blueColor {
   color: #414f9b;
 }
-.whiteColor{
+.whiteColor {
   color: white;
 }
-.maroonColor{
-  color: #7E0000;
+.maroonColor {
+  color: #7e0000;
 }
-.purpleColor{
+.purpleColor {
   color: #800080;
 }
-.facebookColor{
+.facebookColor {
   color: var(--facebook);
 }
-.whatsappColor{
+.whatsappColor {
   color: var(--whatsappLight);
 }
-.instaColor{
+.instaColor {
   color: var(--instagram);
 }
-.skypeColor{
+.skypeColor {
   color: var(--skype);
 }
 
-.darkBlueBg{
+.darkBlueBg {
   background-color: #130087;
 }
-.greenBg{
-  background-color: #8AFF87;
+.greenBg {
+  background-color: #8aff87;
 }
-.redBg{
+.redBg {
   background-color: red;
 }
 .whatsappBg {
@@ -265,21 +261,57 @@ font-size: 1.2rem;
   background-color: var(--youtube);
 }
 
-.brandBg{
+.brandBg {
   background-color: var(--brandColor);
 }
-.purpleBg{
+.purpleBg {
   background-color: #800080;
 }
-.skypeBg{
+.skypeBg {
   background-color: var(--skype);
 }
-.facebookBg{
+.facebookBg {
   background-color: var(--facebook);
 }
-.whatsappLightBg{
+.whatsappLightBg {
   background-color: var(--whatsappLight);
 }
-.instaBg{
+.instaBg {
   background-color: var(--instagram);
 }
+
+/* ================titleBanner */
+.titleBanner {
+  background-color: var(--darkBlue);
+  width: 100%;
+  text-align: center;
+  margin: 0.5rem auto;
+  max-width: 1200px;
+  color: white;
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  padding-inline: 1rem;
+}
+.titleBanner::before {
+  content: "";
+  position: absolute;
+  width: 200px;
+  height: 100%;
+  background-color: var(--brandColor);
+  top: 0;
+  right: -7rem;
+  transform: rotate(45deg);
+  z-index: -1;
+}
+.titleBanner::after{
+  content: "";
+  position: absolute;
+  width: 200px;
+  height: 100%;
+  background-color: var(--brandColor);
+  top: 0;
+  left: -7rem;
+  transform: rotate(45deg);
+  z-index: -1;
+  }

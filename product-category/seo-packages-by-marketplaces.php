@@ -5,11 +5,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SEO Package By CMS</title>
-
+    <title>SEO Package By Market Places</title>
+    
     <!-- cssLinks -->
     <?php
-    $pageTitle = "SEO Package By CMS";
+    $pageTitle = "SEO Package By Market Places";
     $isProductPage = true;
     require "../includes/cssLinks.php";
     ?>
@@ -28,25 +28,41 @@
     <?php
     $AllProducts = [
         [
-            "img" => "ecommerceSeoService/wordpress.png",
-            "title" => "WordPress SEO",
-            "url" => "/product/wordpress-seo-packages.php",
+            "img" => "ecommerceSeoService/amazon.png",
+            "title" => "Amazon SEO",
+            "url" => "/product/amazon-seo-packages.php",
         ],
         [
-            "img" => "ecommerceSeoService/shopify.png",
-            "title" => "Shopify SEO",
-            "url" => "/product/shopify-seo-packages.php",
+            "img" => "ecommerceSeoService/ebay.png",
+            "title" => "EBay SEO",
+            "url" => "/product/ebay-seo-packages.php",
         ],
         [
-            "img" => "ecommerceSeoService/magento.png",
-            "title" => "Magento SEO",
-            "url" => "/product/magento-seo-packages.php",
+            "img" => "ecommerceSeoService/flipkart.png",
+            "title" => "Flipkart SEO",
+            "url" => "/product/flipkart-seo-packages.php",
         ],
         [
-            "img" => "ecommerceSeoService/wix.png",
-            "title" => "Wix SEO",
-            "url" => "/product/wix-seo-packages.php",
+            "img" => "ecommerceSeoService/myntra.png",
+            "title" => "myntra SEO",
+            "url" => "/product/myntra-seo-packages.php",
         ],
+        [
+            "img" => "ecommerceSeoService/nykaa.png",
+            "title" => "nykaa SEO",
+            "url" => "/product/nykaa-seo-packages.php",
+        ],
+        [
+            "img" => "ecommerceSeoService/ajio.png",
+            "title" => "ajio SEO",
+            "url" => "/product/ajio-seo-packages.php",
+        ],
+        [
+            "img" => "ecommerceSeoService/tata-cliq.png",
+            "title" => "tata cliq SEO",
+            "url" => "/product/tata-cliq-seo-packages.php",
+        ],
+        
     ]
         ?>
     <!-- all podcast array ended -->
@@ -73,7 +89,7 @@
 
             <div class="row">
                 <?php foreach ($AllProducts as $data): ?>
-                    <div class="col-md-3 col-sm-6 productCardCol">
+                    <div class="col-md-4 col-sm-6 productCardCol">
                         <div class="singleProductCard">
                             <div class="imgBox">
                                 <a href="<?php echo $data['url'] ?>">

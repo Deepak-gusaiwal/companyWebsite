@@ -5,13 +5,13 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Seo For opencart</title>
+    <title>Seo For myntra</title>
 
     <!-- cssLinks -->
     <?php
-    $pageTitle = "SEO For opencart";
-    $categoryTitle = "SEO Packages by CMS";
-    $categoryUrl = "/product-category/seo-packages-by-cms.php";
+    $pageTitle = "SEO For myntra";
+    $categoryTitle = "SEO Packages by Market Places";
+    $categoryUrl = "/product-category/seo-packages-by-marketplaces.php";
     $isProductPage=true;
     require "../includes/cssLinks.php";
     ?>
@@ -30,7 +30,7 @@
 
     <!-- <div class="contentHolderSection">
         <div class="content container p-2">
-           
+      
         </div>
     </div> -->
 
@@ -475,12 +475,6 @@
 
 
 
-    <!-- seo weekly checklist section started -->
-    <?php $checkListCardTitle = $pageTitle;
-    $checkListTitile = "$pageTitle Weekly On-Page Checklist 2023";
-
-    require "../includes/seoCheckList.php"; ?>
-    <!-- seo weekly checklist section ended -->
 
     <!-- product Content Section started -->
 

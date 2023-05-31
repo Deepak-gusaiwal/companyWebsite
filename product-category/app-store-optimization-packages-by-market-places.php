@@ -5,11 +5,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SEO Package By CMS</title>
+    <title>SEO Package By ASO</title>
 
     <!-- cssLinks -->
     <?php
-    $pageTitle = "SEO Package By CMS";
+    $pageTitle = "SEO Package By ASO";
     $isProductPage = true;
     require "../includes/cssLinks.php";
     ?>
@@ -28,25 +28,16 @@
     <?php
     $AllProducts = [
         [
-            "img" => "ecommerceSeoService/wordpress.png",
-            "title" => "WordPress SEO",
-            "url" => "/product/wordpress-seo-packages.php",
+            "img" => "ecommerceSeoService/playstore.png",
+            "title" => "Play Store App",
+            "url" => "/product/google-play-store-seo-packages.php",
         ],
         [
-            "img" => "ecommerceSeoService/shopify.png",
-            "title" => "Shopify SEO",
-            "url" => "/product/shopify-seo-packages.php",
-        ],
-        [
-            "img" => "ecommerceSeoService/magento.png",
-            "title" => "Magento SEO",
-            "url" => "/product/magento-seo-packages.php",
-        ],
-        [
-            "img" => "ecommerceSeoService/wix.png",
-            "title" => "Wix SEO",
-            "url" => "/product/wix-seo-packages.php",
-        ],
+            "img" => "ecommerceSeoService/appstore.png",
+            "title" => "IOS Store App",
+            "url" => "/product/ios-app-seo-packages.php",
+        ]
+        
     ]
         ?>
     <!-- all podcast array ended -->
@@ -71,9 +62,9 @@
                 <?php echo $pageTitle; ?>
             </h1>
 
-            <div class="row">
+            <div class="row justify-content-center">
                 <?php foreach ($AllProducts as $data): ?>
-                    <div class="col-md-3 col-sm-6 productCardCol">
+                    <div class="col-md-4 col-sm-6 productCardCol">
                         <div class="singleProductCard">
                             <div class="imgBox">
                                 <a href="<?php echo $data['url'] ?>">

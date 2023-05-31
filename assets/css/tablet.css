@@ -97,9 +97,25 @@ font-weight: 600;
 text-transform: uppercase;
 width: 100%;
 display: flex;
+align-items: center;
 gap: 2rem;
 justify-content: space-between;
 padding: 0.5rem 0.6rem;
+position: relative;
+padding-left: 3rem;
+}
+.mobileDropToggle label::before{
+  content: "+";
+  left: 0.3rem;
+  position: absolute;
+  font-size: 1.2rem;
+  background-color: var(--darkBlue);
+  color: white;
+  width: 29px;
+  height: 29px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .mobileDropToggle label a{
     font-size: 1.2rem;
@@ -107,7 +123,7 @@ padding: 0.5rem 0.6rem;
     border-radius: 2rem;
 }
 
-.mobileDropToggle label:hover{
+.mobileDropToggle label:active{
   background-color: var(--brandColor);
 }
 
@@ -132,7 +148,14 @@ overflow-y: scroll;
  visibility: visible;
  opacity: 1;
 }
+.mobileDropToggle input:checked ~ label{
+    background-color: var(--brandColor);
+    border-bottom: 1px solid black;
+}
+.mobileDropToggle input:checked ~ label::before{
+   content: "-";
 
+}
 /* conact us section */
 .contactRight,
 .contactLeft{
@@ -166,4 +189,19 @@ overflow-y: scroll;
    }
    .packagesTabs button.active{
     box-shadow: none;
+  }
+  /* ===================================================servicePackageSection */
+  .servicePackageBox{
+    flex-direction: column;
+  }
+  .servicePackageBox:nth-child(even){
+    flex-direction: column;
+  }
+  .servicePackageBox .contentBox {
+   margin-top: -80px;
+   padding-top: 80px;
+  }
+  .servicePackageBox:nth-child(even) .contentBox {
+   margin-top: -80px;
+   padding-top: 80px;
   }

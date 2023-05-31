@@ -10,8 +10,8 @@
     <!-- cssLinks -->
     <?php
     $pageTitle = "SEO For ebay";
-    $categoryTitle = "SEO Packages by CMS";
-    $categoryUrl = "/product-category/seo-packages-by-cms.php";
+    $categoryTitle = "SEO Packages by Market Places";
+    $categoryUrl = "/product-category/seo-packages-by-marketplaces.php";
     $isProductPage=true;
     require "../includes/cssLinks.php";
     ?>

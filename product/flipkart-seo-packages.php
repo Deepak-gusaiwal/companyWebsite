@@ -5,13 +5,13 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Seo For app store</title>
+    <title>Seo For flipkart</title>
 
     <!-- cssLinks -->
     <?php
-    $pageTitle = "SEO For app store";
-    $categoryTitle = "SEO Packages by CMS";
-    $categoryUrl = "/product-category/seo-packages-by-cms.php";
+    $pageTitle = "SEO For flipkart";
+    $categoryTitle = "SEO Packages by Market Places";
+    $categoryUrl = "/product-category/seo-packages-by-marketplaces.php";
     $isProductPage=true;
     require "../includes/cssLinks.php";
     ?>
@@ -30,7 +30,7 @@
 
     <!-- <div class="contentHolderSection">
         <div class="content container p-2">
-         
+      
         </div>
     </div> -->
 

@@ -25,6 +25,7 @@
     <!-- serviceBreadCrumb ended -->
 
 
+    <!-- servicesTopContainer started -->
     <div class="servicesTopContainer">
         <div class="container">
             <div class="row">
@@ -32,7 +33,7 @@
                 <div class="col-md-7">
                     <div
                         class="topContetBox py-2 d-flex flex-column align-items-md-start align-items-center justify-content-center">
-                        <h1>#1 eCommerce SEO Services India</h1>
+                        <h1>#1 eCommerce SEO Services</h1>
                         <p>Think of your customers as potential suitors. What are you doing to draw them in and show off
                             your best assets? Capture the essence of your business in the right amount of characters
                             with
@@ -51,7 +52,9 @@
                             expertise in a number of SEO and SEO-related Internet marketing disciplines and possess
                             extremely strong campaign management skills.</p>
 
-                        <?php require "./includes/Helpers/productButtonGroup.php"; ?>
+                        <div class="mt-2">
+                            <?php require "./includes/Helpers/productButtonGroup.php"; ?>
+                        </div>
                     </div>
                 </div>
                 <div class="col-md-5">
@@ -117,22 +120,68 @@
             </div>
         </div>
     </div>
+    <!-- servicesTopContainer ended -->
 
 
-    <!-- image previewBox -->
-    <div class="productImagePreviewBox">
-        <i class="fa fa-times" aria-hidden="true"></i>
+<!-- availabe ecommerece packages started -->
+<section class="servicePackageSection">
+    <h1 class="titleBanner">Availabe CMS SEO Packages</h1>
+    <div class="container">
+
+    <div class="servicePackageBox ">
+        <div class="imgBox">
+        <img src="./assets/img/services/ecommerceSeoService/wordpress.png" alt="wordpress.png">
+        </div>
+        <div class="contentBox">
+            <h3>Wordpress eCommerce SEO</h3>
+            <p>WordPress is a web content management system. It is a tool to publish blogs but has evolved to support publishing other web content, including more traditional websites, mailing lists and Internet forum, media galleries, etc.</p>
+            <a href="/product/wordpress-seo-packages.php" class="button">see package</a>
+        </div>
+    </div>
+
+    <div class="servicePackageBox ">
+        <div class="imgBox">
+        <img src="./assets/img/services/ecommerceSeoService/magento.png" alt="magento.png">
+        </div>
+        <div class="contentBox">
+            <h3>magento eCommerce SEO</h3>
+            <p>Magento is an open-source e-commerce platform written in PHP. It uses multiple other PHP frameworks such as Laminas and Symfony. Magento source code is distributed under Open Software License v3.0. Magento was acquired by Adobe Inc in May 2018 for $1.68 billion</p>
+            <a href="/product/magento-seo-packages.php" class="button">see package</a>
+        </div>
+    </div>
+
+    <div class="servicePackageBox ">
+        <div class="imgBox">
+        <img src="./assets/img/services/ecommerceSeoService/shopify.png" alt="shoify.png">
+        </div>
+        <div class="contentBox">
+            <h3>shopify eCommerce SEO</h3>
+            <p>Shopify Inc. is a Canadian multinational e-commerce company headquartered in Ottawa, Ontario. Shopify is the name of its proprietary e-commerce platform for online stores and retail point-of-sale systems.</p>
+            <a href="/product/shopify-seo-packages.php" class="button">see package</a>
+        </div>
+    </div>
+
+
+    <div class="servicePackageBox ">
+        <div class="imgBox">
+        <img src="./assets/img/services/ecommerceSeoService/wix.png" alt="wix.png">
+        </div>
+        <div class="contentBox">
+            <h3>wix eCommerce SEO</h3>
+            <p>Wix.com Ltd. is an Israeli software company, publicly listed in the US, that provides cloud-based web development services. It allows users to create HTML5 websites and mobile sites through the use of online drag and drop tools.</p>
+            <a href="/product/wix-seo-packages.php" class="button">see package</a>
+        </div>
     </div>
 
 
 
 
-    <!-- seo weekly checklist section started -->
-    <?php $checkListCardTitle = $pageTitle;
-    $checkListTitile = "$pageTitle Weekly On-Page Checklist 2023";
+    </div>
+</section>
+<!-- availabe ecommerece packages ended -->
 
-    require "./includes/seoCheckList.php"; ?>
-    <!-- seo weekly checklist section ended -->
+
+
 
     <!-- product Content Section started -->
     <div class="contentHolderSection">
@@ -191,9 +240,10 @@
             <p>When it comes to your website’s impression, we believe in keeping it honest, interesting, and relevant.
                 With these elements in place, you can turn the first meeting into a long-term partnership of lifetime
                 value.</p>
-            <h3>We Improve The U/I Of Entire Website We Remove Other Technical Issues We Increase Website Crawlability
-                We Optimize & Insert SEO Content We Develop Your Brand Name As “Brand” We Increase Daily Visitors &
-                Revenues.</h3>
+            <p> <strong>We Improve The U/I Of Entire Website We Remove Other Technical Issues We Increase Website
+                    Crawlability
+                    We Optimize & Insert SEO Content We Develop Your Brand Name As “Brand” We Increase Daily Visitors &
+                    Revenues.</strong></p>
         </div>
 
         <!-- other Services Section Started -->

@@ -5,11 +5,11 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Seo For amazon</title>
+    <title>Seo For ajio</title>
 
     <!-- cssLinks -->
     <?php
-    $pageTitle = "SEO For amazon";
+    $pageTitle = "SEO For ajio";
     $categoryTitle = "SEO Packages by Market Places";
     $categoryUrl = "/product-category/seo-packages-by-marketplaces.php";
     $isProductPage=true;
@@ -30,7 +30,7 @@
 
     <!-- <div class="contentHolderSection">
         <div class="content container p-2">
-            
+      
         </div>
     </div> -->
 
