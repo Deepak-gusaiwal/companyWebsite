@@ -1,10 +1,10 @@
 <div class=" FAQContainer">
 
     <div class="bannerSection darkBlueBg">
-      <div class="container">
-      <h1 class="whiteColor">SEO Services, SEO Company, Web SEO Services, SEO Agency India:
-            FAQ’s / People Also Ask</h1>
-      </div>
+        <div class="container">
+            <h1 class="whiteColor">SEO Services, SEO Company, Web SEO Services, SEO Agency India:
+                FAQ’s / People Also Ask</h1>
+        </div>
     </div>
 
     <div class="accordion my-2 container" id="accordionToggleId">
@@ -65,7 +65,11 @@
                             <img src="./assets/img/faq/faq.webp" alt="">
                         </div>
                         <div class="accordionContent col-md-7 ">
-                            <p>Whenever you reach out to our SEO experts or sales executives the very first task, they perform is an in-depth SEO Audit and Analysis for the website’s page URLs, Page Structure, Conversion Rates, Broken Links, Keywords Research, and Other Technical SEO analysis to understand the major flaws on your website that needs to be rectified during the SEO campaign. Get Your Free SEO Audit For Free.
+                            <p>Whenever you reach out to our SEO experts or sales executives the very first task, they
+                                perform is an in-depth SEO Audit and Analysis for the website’s page URLs, Page
+                                Structure, Conversion Rates, Broken Links, Keywords Research, and Other Technical SEO
+                                analysis to understand the major flaws on your website that needs to be rectified during
+                                the SEO campaign. Get Your Free SEO Audit For Free.
                             </p>
 
                             <?php require "./includes/Helpers/buttonsGroup.php"; ?>
@@ -95,7 +99,10 @@
                             <img src="" alt="faq-3image">
                         </div>
                         <div class="accordionContent col-md-7 ">
-                            <p>At our SEO Company, our web SEO service professionals always check each and every third party website they use for the backlink creations for our clients website. We do this by testing those backlink sites on our demo websites to be sure if we get a backlink from them it should not hamper our client’s website in any of the
+                            <p>At our SEO Company, our web SEO service professionals always check each and every third
+                                party website they use for the backlink creations for our clients website. We do this by
+                                testing those backlink sites on our demo websites to be sure if we get a backlink from
+                                them it should not hamper our client’s website in any of the
                             </p>
 
                             <?php require "./includes/Helpers/buttonsGroup.php"; ?>
@@ -122,10 +129,16 @@
                     <div class="row">
 
                         <div class="accordionImgBox col-md-5">
-                        <img src="" alt="faq-4image">
+                            <img src="" alt="faq-4image">
                         </div>
                         <div class="accordionContent col-md-7 ">
-                            <p>At our Indian SEO Company, we generally give progress reports on a monthly cycle. But if a client needs the reports in a weekly or fortnightly format then we share the work done accordingly. However, we always recommend our clients ask for Monthly reports which are the most convenient and efficient way to reporting and track the monthly progress. A dedicated manager will be in touch with you for any questions or suggestions you want to share or for any details that will be required for the marketing needs. You can also take follow-ups with your dedicated SEO project manager.
+                            <p>At our Indian SEO Company, we generally give progress reports on a monthly cycle. But if
+                                a client needs the reports in a weekly or fortnightly format then we share the work done
+                                accordingly. However, we always recommend our clients ask for Monthly reports which are
+                                the most convenient and efficient way to reporting and track the monthly progress. A
+                                dedicated manager will be in touch with you for any questions or suggestions you want to
+                                share or for any details that will be required for the marketing needs. You can also
+                                take follow-ups with your dedicated SEO project manager.
                             </p>
 
                             <?php require "./includes/Helpers/buttonsGroup.php"; ?>
@@ -152,10 +165,11 @@
                     <div class="row">
 
                         <div class="accordionImgBox col-md-5">
-                        <img src="" alt="faq-5image">
+                            <img src="" alt="faq-5image">
                         </div>
                         <div class="accordionContent col-md-7 ">
-                            <p>Yes, we allow 100% flexibility with our SEO Services and we allow clients to ask for any kind of replacement or swapping in the keywords in the middle of the campaign.
+                            <p>Yes, we allow 100% flexibility with our SEO Services and we allow clients to ask for any
+                                kind of replacement or swapping in the keywords in the middle of the campaign.
                             </p>
 
                             <?php require "./includes/Helpers/buttonsGroup.php"; ?>
@@ -182,10 +196,14 @@
                     <div class="row">
 
                         <div class="accordionImgBox col-md-5">
-                        <img src="" alt="faq-6image">
+                            <img src="" alt="faq-6image">
                         </div>
                         <div class="accordionContent col-md-7 ">
-                            <p>Yes, we can. In fact, we always provide live training to our clients for the reports we share so they can understand the activities performed over a monthly period for all On-Page SEO, Off-Page SEO and other out of the box SEO Activities. This way they you can track the progress more efficiently. You can also Download our Sample SEO Report Format.</p>
+                            <p>Yes, we can. In fact, we always provide live training to our clients for the reports we
+                                share so they can understand the activities performed over a monthly period for all
+                                On-Page SEO, Off-Page SEO and other out of the box SEO Activities. This way they you can
+                                track the progress more efficiently. You can also Download our Sample SEO Report Format.
+                            </p>
 
                             <?php require "./includes/Helpers/buttonsGroup.php"; ?>
                         </div>
@@ -211,10 +229,14 @@
                     <div class="row">
 
                         <div class="accordionImgBox col-md-5">
-                        <img src="" alt="faq-7image">
+                            <img src="" alt="faq-7image">
                         </div>
                         <div class="accordionContent col-md-7 ">
-                            <p>SEO campaign leads can only be expected after achieving the first-page ranking on the targeted keywords. However, while performing the SEO campaign our SEO services professionals create Local Citations, Brand Profiles and perform a lot of content marketing strategies which create multiple doors for the leads to fall in your way from multiple referral sources.</p>
+                            <p>SEO campaign leads can only be expected after achieving the first-page ranking on the
+                                targeted keywords. However, while performing the SEO campaign our SEO services
+                                professionals create Local Citations, Brand Profiles and perform a lot of content
+                                marketing strategies which create multiple doors for the leads to fall in your way from
+                                multiple referral sources.</p>
 
                             <?php require "./includes/Helpers/buttonsGroup.php"; ?>
                         </div>
@@ -240,10 +262,14 @@
                     <div class="row">
 
                         <div class="accordionImgBox col-md-5">
-                        <img src="" alt="faq-8image">
+                            <img src="" alt="faq-8image">
                         </div>
                         <div class="accordionContent col-md-7 ">
-                            <p>With our SEO Service, we offer add-on services such as fixing small website development bugs, fixing issues with the contact form, and enhancing the targeted page layouts for maximum customer engagements and conversions. We also offer services such as rewriting the webpage content if required for better SEO rankings and any other small fixes as per requirements. We do all this for no extra charges to our clients.</p>
+                            <p>With our SEO Service, we offer add-on services such as fixing small website development
+                                bugs, fixing issues with the contact form, and enhancing the targeted page layouts for
+                                maximum customer engagements and conversions. We also offer services such as rewriting
+                                the webpage content if required for better SEO rankings and any other small fixes as per
+                                requirements. We do all this for no extra charges to our clients.</p>
 
                             <?php require "./includes/Helpers/buttonsGroup.php"; ?>
                         </div>
@@ -269,10 +295,13 @@
                     <div class="row">
 
                         <div class="accordionImgBox col-md-5">
-                        <img src="" alt="faq-9image">
+                            <img src="" alt="faq-9image">
                         </div>
                         <div class="accordionContent col-md-7 ">
-                            <p>As long as we are working with you and providing you the SEO Services, we never onboard any of your competitors. There are some business rules we follow at our Indian SEO Services very strictly which ensures 100% trust and reliability of our clients on us.</p>
+                            <p>As long as we are working with you and providing you the SEO Services, we never onboard
+                                any of your competitors. There are some business rules we follow at our Indian SEO
+                                Services very strictly which ensures 100% trust and reliability of our clients on us.
+                            </p>
 
                             <?php require "./includes/Helpers/buttonsGroup.php"; ?>
                         </div>
@@ -298,10 +327,13 @@
                     <div class="row">
 
                         <div class="accordionImgBox col-md-5">
-                        <img src="" alt="faq-10image">
+                            <img src="" alt="faq-10image">
                         </div>
                         <div class="accordionContent col-md-7 ">
-                            <p>We have very strict client security policies which allow us to keep all data safe and secure internally. We never publish or share any of your website logins, email logins, or passwords with any third-party sites and even make sure to keep changing the passwords for high security reasons.</p>
+                            <p>We have very strict client security policies which allow us to keep all data safe and
+                                secure internally. We never publish or share any of your website logins, email logins,
+                                or passwords with any third-party sites and even make sure to keep changing the
+                                passwords for high security reasons.</p>
 
                             <?php require "./includes/Helpers/buttonsGroup.php"; ?>
                         </div>
@@ -315,8 +347,7 @@
 
     </div>
 
-    
 
-    </div>
 
 </div>
+

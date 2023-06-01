@@ -1945,3 +1945,72 @@ object-fit: contain;
 .servicePackageBox .contentBox .button:hover::before{
  transform: scale(1.05);
 }
+/* ====================================seoMonthlyPackagesSection */
+.monthlyPackageCard{
+  background-color: var(--darkBlue);
+  color: white;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+.monthlyPackageCard *{
+  padding: 0;
+}
+.packageInfoBox{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0.5rem;
+}
+.packageInfoBox h1{
+  text-transform: uppercase;
+  font-size: max(2.1vw,1.8rem);
+  font-weight: bold;
+  background-color: var(--brandColor);
+  color: black;
+  padding-left: 0.5rem;
+}
+.packageInfoBox .pricing{
+  text-transform: capitalize;
+  font-size: max(1.5vw,1.2rem);
+  font-weight: bold;
+  background-color: var(--brandColor);
+  color: black;
+  padding: 0 0.5rem;
+  width: fit-content;
+}
+.packageDetailBox{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem;
+}
+.packageDetailBox div
+{
+  border-left: 2px solid white;
+  padding-left: 1rem;
+}
+.packageDetailBox div ul li
+{
+list-style-type: disc;
+list-style-position: inside;
+}
+.packageDetailBox div h3
+{
+position: relative;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+font-weight: bold;
+color: black;
+background-color: var(--brandColor);
+padding: 0.5rem;
+}
+.packageDetailBox div h3::before
+{
+content: "";
+position: absolute;
+left: -1rem;
+background-color: white;
+width: 12px;
+height: 2px;
+}

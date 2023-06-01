@@ -29,5 +29,15 @@ text-align: center;
     text-align: center;
 }
 
-
+/* ====================================seoMonthlyPackagesSection */
+.packageInfoBox{
+    border-left: 2px solid white;
+    padding-top: 0;
+}
+.packageInfoBox h1{
+    margin-left: -10px;
+}
+.packageDetailBox{
+    gap: 0;
+}
 

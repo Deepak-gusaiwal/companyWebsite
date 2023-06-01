@@ -18,11 +18,11 @@
       <!-- seo section started -->
 
       <li class="mobileDropToggle">
-      <input type="checkbox" name="" id="SEOContainer">
+        <input type="checkbox" name="" id="SEOContainer">
         <label for="SEOContainer">
           SEO
         </label>
-        
+
 
         <div class="mobileDropBox">
           <input type="checkbox" name="" id="seoServices">
@@ -30,17 +30,17 @@
             SEO Services
           </label>
           <ul class="mobileDropBox">
-            <li><a href="ecommerce-seo-services-india.php">eCommerce SEO</a></li>
-            <li><a href="local-seo-services-india.php">Local SEO Services</a></li>
-            <li><a href="/product/seo-for-google-my-business-profile.php">Google Business SEO </a></li>
-            <li><a href="youtube-channel-seo-optimization-services.php">YouTube SEO </a></li>
-            <li><a href="">Startup SEO Services</a></li>
-            <li><a href="aso-app-store-seo-optimization-services.php">ASO Services </a></li>
-            <li><a href="voice-search-seo-optimization-services-india.php">Voice SEO </a></li>
-            <li><a href="mobile-igaming-seo-services-india.php">iGaming SEO </a></li>
-            <li><a href="multilingual-seo-services-company-india.php">Multilingual SEO </a></li>
-            <li><a href="mobile-search-seo-services-india.php">Mobile Search SEO </a></li>
-            <li><a href="seo-monthly-packages-india.php">SEO Packages </a></li>
+            <li><a href="/ecommerce-seo-services-india.php">eCommerce SEO Services </a></li>
+            <li><a href="/local-seo-services-india.php">Local SEO Services </a></li>
+            <li><a href="/seo-for-google-my-business-profile.php">Google Business SEO </a></li>
+            <li><a href="/youtube-channel-seo-optimization-services.php">YouTube SEO </a> </li>
+            <li><a href="/seo-for-startup-companies.php">Startup SEO Services</a></li>
+            <li><a href="/aso-app-store-seo-optimization-services.php">ASO Services </a> </li>
+            <li><a href="/voice-search-seo-optimization-services-india.php">Voice SEO </a> </li>
+            <li><a href="/mobile-igaming-seo-services-india.php">iGaming SEO </a></li>
+            <li><a href="/multilingual-seo-services-company-india.php">Multilingual SEO </a> </li>
+            <li><a href="/mobile-search-seo-services-india.php ">Mobile Search SEO </a></li>
+            <li><a href="/seo-monthly-packages-india.php">SEO Monthly Packages </a></li>
           </ul>
         </div>
 
@@ -99,7 +99,7 @@
 
         <div class="mobileDropBox">
           <input type="checkbox" name="" id="seoForMakretPlaces">
-          <label for="seoForMakretPlaces">SEO For Market Places
+          <label for="seoForMakretPlaces">SEO For Marketplaces
             <a href="/product-category/seo-packages-by-marketplaces.php">
               <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
             </a>
@@ -109,20 +109,24 @@
             <li><a href="/product/amazon-seo-packages.php"> Amazon SEO </a></li>
             <li><a href="/product/ebay-seo-packages.php"> eBay SEO </a></li>
             <li><a href="/product/flipkart-seo-packages.php"> Flipkart </a></li>
+            <li><a href="/product/myntra-seo-packages.php"> myntra SEO </a></li>
+            <li><a href="/product/nykaa-seo-packages.php"> nykaa SEO </a></li>
+            <li><a href="/product/ajio-seo-packages.php"> ajio SEO</a></li>
+            <li><a href="/product/tata-cliq-seo-packages.php"> tata cliq SEO</a></li>
           </ul>
         </div>
 
         <div class="mobileDropBox">
           <input type="checkbox" name="" id="aso">
           <label for="aso">App Store Optimization (ASO)
-          <a href="/product-category/app-store-optimization-packages-by-market-places.php">
-          <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
-          </a>
+            <a href="/product-category/app-store-optimization-packages-by-market-places.php">
+              <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
+            </a>
           </label>
 
           <ul class="mobileDropBox">
             <li><a href="/product/amazon-seo-packages.php"> Google Play Store </a></li>
-            <li><a href="/product/ebay-seo-packages.php"> ios app store </a></li>
+            <li><a href="/product/ebay-seo-packages.php"> IOS app store </a></li>
           </ul>
         </div>
 

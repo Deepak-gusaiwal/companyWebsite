@@ -21,13 +21,13 @@
               <li><a href="/local-seo-services-india.php">Local SEO Services </a></li>
               <li><a href="/seo-for-google-my-business-profile.php">Google Business SEO </a></li>
               <li><a href="/youtube-channel-seo-optimization-services.php">YouTube SEO </a> </li>
-              <li><a href="/">Startup SEO Services</a></li>
+              <li><a href="/seo-for-startup-companies.php">Startup SEO Services</a></li>
               <li><a href="/aso-app-store-seo-optimization-services.php">ASO Services </a> </li>
               <li><a href="/voice-search-seo-optimization-services-india.php">Voice SEO </a> </li>
               <li><a href="/mobile-igaming-seo-services-india.php">iGaming SEO </a></li>
               <li><a href="/multilingual-seo-services-company-india.php">Multilingual SEO </a> </li>
               <li><a href="/mobile-search-seo-services-india.php ">Mobile Search SEO </a></li>
-              <li><a href="/seo-monthly-packages-india.php">SEO Packages </a></li>
+              <li><a href="/seo-monthly-packages-india.php">SEO Monthly Packages </a></li>
             </ul>
           </div>
 
@@ -156,7 +156,7 @@
             <div class="megaContentBox">
               <h5>
                 <a href="/product-category/seo-packages-by-marketplaces.php">
-                MarketPlaces SEO Pakcages
+                Marketplaces SEO Pakcages
                 </a>
               </h5>
              <div class="d-flex gap-4">
@@ -181,7 +181,7 @@
               <ul class="megaLinksBox">
               <!-- <li><a href="/product/app-store-seo-packages.php"> App Store SEO </a></li> -->
                 <li><a href="/product/google-play-store-seo-packages.php"> Google Play Store </a></li>
-                <li><a href="/product/ios-app-seo-packages.php"> ios app store </a></li>
+                <li><a href="/product/ios-app-seo-packages.php"> IOS app store </a></li>
               </ul>
             </div>
 

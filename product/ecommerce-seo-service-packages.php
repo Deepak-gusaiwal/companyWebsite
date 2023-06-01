@@ -501,7 +501,6 @@
     <!-- seo weekly checklist section started -->
     <?php $checkListCardTitle = $pageTitle;
     $checkListTitile = "$pageTitle Weekly On-Page Checklist 2023";
-
     require "../includes/seoCheckList.php"; ?>
     <!-- seo weekly checklist section ended -->
 
