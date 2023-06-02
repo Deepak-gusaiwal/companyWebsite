@@ -292,6 +292,7 @@ button[type="submit"]:hover,
   isolation: isolate;
   overflow: hidden;
   padding-inline: 1rem;
+  text-transform: capitalize;
 }
 .titleBanner::before {
   content: "";

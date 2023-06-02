@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container" id="seoCheckList">
     <div class="bannerSection BottomBorder">
         <h1 class="maroonColor">
             <?php echo $checkListTitile; ?>

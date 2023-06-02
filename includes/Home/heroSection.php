@@ -8,7 +8,7 @@
             <!-- slide-1 -->
             <div class="splide__slide heroSlide">
                 <img
-                  src="./assets/img/heroSection/seo-1.webp"
+                  src="./assets/img/heroSection/slider.png"
                   alt="sliderimg-1"
                 />
               <!-- <div class="heroContentBox">
@@ -24,7 +24,7 @@
             <!-- slide-2 -->
             <div class="splide__slide heroSlide">
                 <img
-                  src="./assets/img/heroSection/seo-2.webp"
+                  src="./assets/img/heroSection/slide2.png"
                   alt="sliderimg-2"
                 />
               <!-- <div class="heroContentBox">
@@ -40,7 +40,7 @@
             <!-- slide-3 -->
             <div class="splide__slide heroSlide">
                 <img
-                  src="./assets/img/heroSection/seo-3.webp"
+                  src="./assets/img/heroSection/slide3.png"
                   alt="sliderimg-3"
                 />
               <!-- <div class="heroContentBox">

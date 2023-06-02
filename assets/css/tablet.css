@@ -1,110 +1,109 @@
-
 /* hero section css */
-.heroSectionSlideContainer{
-   height: 200px;
-   }
-   .heroSectionSlideContainer .heroSlide{
-    min-height: 200px;
-   }
-
-
+.heroSectionSlideContainer {
+  height: 100px;
+}
+.heroSectionSlideContainer .heroSlide {
+  min-height: 100px;
+}
+.heroSectionSlideContainer .heroSlide img{
+ object-fit: cover;
+}
 
 /* make display none to desktop nav */
-nav.desktopNav{
-    display: none;
+nav.desktopNav {
+  display: none;
 }
 
 /* make display flex to mobile nav bar */
-nav.mobileNav{
-   display: flex;
-   /* position: relative; */
-   justify-content: flex-start;
-   position: absolute;
-   top: 100%;
-   width: fit-content;
-   left: 0;
-   padding: 0.4rem 0.2rem;
-   border-top-right-radius: 0.5rem;
-   border-bottom-right-radius: 0.5rem;
-   border: 2px solid white;
+nav.mobileNav {
+  display: flex;
+  /* position: relative; */
+  justify-content: flex-start;
+  position: absolute;
+  top: 100%;
+  width: fit-content;
+  left: 0;
+  padding: 0.4rem 0.2rem;
+  border-top-right-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+  border: 2px solid white;
 }
 
-.mobileNavToggler{
-    width: 30px;
-    height: 30px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 0.4rem;
+.mobileNavToggler {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
 }
-.mobileNavToggler span{
-    background-color: black;
-    width: 90%;
-    height: 4px;
-    transform-origin: center;
-    transition: 300ms;
+.mobileNavToggler span {
+  background-color: black;
+  width: 90%;
+  height: 4px;
+  transform-origin: center;
+  transition: 300ms;
 }
-.closeToggle{
-    gap: 0;
+.closeToggle {
+  gap: 0;
 }
-.closeToggle span:nth-child(1){
+.closeToggle span:nth-child(1) {
   transform: rotate(45deg);
 }
-.closeToggle span:nth-child(2){
+.closeToggle span:nth-child(2) {
   transform: rotate(-45deg);
 }
-.closeToggle span:nth-child(3){
-opacity: 0;
+.closeToggle span:nth-child(3) {
+  opacity: 0;
 }
 
-
-nav.mobileNav .mobileNavLinks{
-    display: flex;
-    align-items: flex-start;
-    flex-direction: column;
-    width: max(50%,300px);
-    background-color: white;
-    border-bottom: 2px solid var(--brandColor);
-    position: absolute;
-    left: -2px;
-    top: 100%;
-    padding: 1rem;
-    transform: translateX(-110%);
-    transition: 300ms;
-    max-height: 70vh;
-    overflow-y: scroll;
+nav.mobileNav .mobileNavLinks {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  width: max(50%, 300px);
+  background-color: white;
+  border-bottom: 2px solid var(--brandColor);
+  position: absolute;
+  left: -2px;
+  top: 100%;
+  padding: 1rem;
+  transform: translateX(-110%);
+  transition: 300ms;
+  max-height: 70vh;
+  overflow-y: scroll;
 }
-.showNav{
-    transform: translateX(0%) !important;
+.showNav {
+  transform: translateX(0%) !important;
 }
-nav.mobileNav .mobileNavLink{
-color: black;
-font-weight: 600;
-text-transform: uppercase;
+nav.mobileNav .mobileNavLink {
+  color: black;
+  font-weight: 600;
+  text-transform: uppercase;
 }
 
 /* mobile normal DropDowns */
-.mobileDropDownContainer{
-    width: 100%;
+.mobileDropDownContainer {
+  width: 100%;
 }
-.mobileDropToggle{
-    width: 100%;
+.mobileDropToggle {
+  width: 100%;
 }
-.mobileDropToggle label{
-    color: black;
-font-weight: 600;
-text-transform: uppercase;
-width: 100%;
-display: flex;
-align-items: center;
-gap: 2rem;
-justify-content: space-between;
-padding: 0.5rem 0.6rem;
-position: relative;
-padding-left: 3rem;
+.mobileDropToggle label {
+  color: black;
+  font-weight: 600;
+  text-transform: uppercase;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  justify-content: space-between;
+  padding: 0.5rem 0.6rem;
+  position: relative;
+  padding-left: 3rem;
 }
-.mobileDropToggle label::before{
+.mobileDropToggle label::before {
   content: "+";
   left: 0.3rem;
   position: absolute;
@@ -117,91 +116,96 @@ padding-left: 3rem;
   justify-content: center;
   align-items: center;
 }
-.mobileDropToggle label a{
-    font-size: 1.2rem;
-    padding: 0 0.8rem;
-    border-radius: 2rem;
+.mobileDropToggle label a {
+  font-size: 1.2rem;
+  padding: 0 0.8rem;
+  border-radius: 2rem;
 }
 
-.mobileDropToggle label:active{
+.mobileDropToggle label:active {
   background-color: var(--brandColor);
 }
 
+.mobileDropToggle .mobileDropBox {
+  display: flex;
+  flex-direction: column;
+  padding-left: 1rem;
+  max-height: 0px;
+  visibility: hidden;
+  opacity: 0;
+  transition: 300ms;
 
-
-.mobileDropToggle .mobileDropBox{
-display: flex;
-flex-direction: column;
-padding-left: 1rem;
-max-height: 0px;
-visibility: hidden;
-opacity: 0;
-transition: 300ms;
-
-overflow-y: scroll;
+  overflow-y: scroll;
 }
-.mobileDropToggle input{
-    display: none;
+.mobileDropToggle input {
+  display: none;
 }
-.mobileDropToggle input:checked ~ .mobileDropBox{
-    max-height: 200px;
- visibility: visible;
- opacity: 1;
+.mobileDropToggle input:checked ~ .mobileDropBox {
+  max-height: 200px;
+  visibility: visible;
+  opacity: 1;
 }
-.mobileDropToggle input:checked ~ label{
-    background-color: var(--brandColor);
-    border-bottom: 1px solid black;
+.mobileDropToggle input:checked ~ label {
+  background-color: var(--brandColor);
+  border-bottom: 1px solid black;
 }
-.mobileDropToggle input:checked ~ label::before{
-   content: "-";
-
+.mobileDropToggle input:checked ~ label::before {
+  content: "-";
 }
 /* conact us section */
 .contactRight,
-.contactLeft{
-    padding-left: 0;
-    padding-right: 0;
-    padding-inline: 2rem;
+.contactLeft {
+  padding-left: 0;
+  padding-right: 0;
+  padding-inline: 2rem;
 }
 
 /* services Perform Section */
 .servicePerformCard,
-.servicePerformCard .contentBox{
-    min-height: auto;
+.servicePerformCard .contentBox {
+  min-height: auto;
 }
-
 
 /* =========================================================================productPageContainer */
 .packagesContainer .packagesTabs {
-    overflow-x: scroll;
-    overflow-y: hidden;
-    justify-content: center;
-    gap: 0;
-    transform: translateY(2%);
-    /* transform: translateY(22%); */
-   }
-   /* .packagesContainer .packagesTabs::-webkit-scrollbar{
+  overflow-x: scroll;
+  overflow-y: hidden;
+  justify-content: center;
+  gap: 0;
+  transform: translateY(2%);
+  /* transform: translateY(22%); */
+}
+/* .packagesContainer .packagesTabs::-webkit-scrollbar{
     width: 0;
    } */
-.packagesContainer .packagesTabs button{
-   line-height: 1;
-   padding-block: 0.6rem;
-   }
-   .packagesTabs button.active{
-    box-shadow: none;
-  }
-  /* ===================================================servicePackageSection */
-  .servicePackageBox{
-    flex-direction: column;
-  }
-  .servicePackageBox:nth-child(even){
-    flex-direction: column;
-  }
-  .servicePackageBox .contentBox {
-   margin-top: -80px;
-   padding-top: 80px;
-  }
-  .servicePackageBox:nth-child(even) .contentBox {
-   margin-top: -80px;
-   padding-top: 80px;
-  }
+.packagesContainer .packagesTabs button {
+  line-height: 1;
+  padding-block: 0.6rem;
+}
+.packagesTabs button.active {
+  box-shadow: none;
+}
+/* ===================================================servicePackageSection */
+.servicePackageBox {
+  flex-direction: column;
+}
+.servicePackageBox:nth-child(even) {
+  flex-direction: column;
+}
+.servicePackageBox .contentBox {
+  margin-top: -80px;
+  padding-top: 80px;
+}
+.servicePackageBox:nth-child(even) .contentBox {
+  margin-top: -80px;
+  padding-top: 80px;
+}
+.servicePackageBox .contentBox h3,
+.servicePackageBox:nth-child(even) .contentBox h3,
+.servicePackageBox .contentBox .button,
+.servicePackageBox:nth-child(even) .contentBox .button,
+.servicePackageBox .contentBox .productButtonGroup,
+.servicePackageBox:nth-child(even) .contentBox .productButtonGroup {
+  margin-left: 0rem;
+  margin-right: 0rem;
+}

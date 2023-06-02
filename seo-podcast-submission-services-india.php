@@ -424,7 +424,7 @@
     <div class="container">
 
         <div class="AllPodCasteContainer">
-            <h1 class="commonTitle text-center mt-2"> <span class="text-white">All Podcast Submissions</span></h1>
+            <h1 class="titleBanner"> <span class="text-white">All Podcast Submissions</span></h1>
 
             <div class="row">
                 <?php foreach ($AllPodcaste as $data): ?>

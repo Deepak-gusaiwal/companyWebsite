@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Product Page</title>
+    <title>SEO Packages for French Language</title>
 
     <!-- cssLinks -->
     <?php
@@ -30,14 +30,8 @@
     <div class="contentHolderSection">
         <div class="content container p-2">
             <!-- Product Top Content started -->
-            <h2 class="fs-1 ">eCommerce SEO Packages India</h2>
-            <p>
-                You want to engage more prospects, right? Do you want to boost your
-                sales? Whatever the situation may be, ECommerce SEO Packages firm at
-                Ranking By SEO employ industry-leading, data-driven eCommerce SEO
-                Services tactics to help you reach a larger audience, increase traffic,
-                and increase sales.
-            </p>
+            <h2 class="fs-1 ">SEO Packages for French Language</h2>
+         
 
           
             <!-- Product Top Content ended -->

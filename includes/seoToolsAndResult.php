@@ -16,110 +16,8 @@ $seoToolsImages = [
 
 <div class="container">
     <div class="row">
-
-        <div class="col-md-6">
-
-            <!-- seo Tools Slide started -->
-            <div class="seoToolsSectionContainer">
-                <h1 class="commonTitle">SEO Services Tools We Use</h1>
-
-                <section class="splide seoToolsSection" aria-label="Splide Slider ">
-                    <div class="splide__track px-5">
-                        <div class="splide__list">
-
-                            <?php foreach ($seoToolsImages as $data): ?>
-                                <!-- slide-1 -->
-                                <div class="splide__slide seoToolsSlide">
-
-                                    <?php if ($isProductPage): ?>
-                                        <img src="../assets/img/seoTools/<?php echo $data['img'] ?>"
-                                        alt="sliderimg-<?php echo $data['img'] ?>" />
-                                    <?php else: ?>
-                                        <img src="./assets/img/seoTools/<?php echo $data['img'] ?>"
-                                        alt="sliderimg-<?php echo $data['img'] ?>" />
-                                    <?php endif; ?>
-                                   
-
-                                </div>
-                                <!-- slide-1 end -->
-                            <?php endforeach; ?>
-
-                        </div>
-                </section>
-            </div>
-            <!-- seo Tools Slide ended -->
-
-
-
-        </div>
-
-        <div class="col-md-6">
-
-            <!-- seo Tools Slide started -->
-            <div class="seoToolsSectionContainer">
-                <h1 class="commonTitle">How Can We Help You?</h1>
-
-                <section class="splide seoToolsSection2 mb-2" aria-label="Splide Slider ">
-                    <div class="splide__track px-md-5 px-0">
-                        <div class="splide__list ">
-
-                            <!-- slide-1 -->
-                            <div class="splide__slide seoToolsSlide2 contactFormToogler">
-                                <div class="iconBox">
-                                    <i class="fa fa-line-chart facebookColor" aria-hidden="true"></i>
-                                </div>
-                                <div class="slideContentBox facebookBg">
-                                    <p>Fully Managed SEO Services</p>
-                                    <p>To Increase Your Leads</p>
-                                </div>
-                            </div>
-                            <!-- slide-1 end -->
-
-                            <!-- slide-2 -->
-                            <div class="splide__slide seoToolsSlide2 contactFormToogler">
-                                <div class="iconBox">
-                                    <i class="fa fa-shopping-cart whatsappColor" aria-hidden="true"></i>
-                                </div>
-                                <div class="slideContentBox whatsappLightBg">
-                                    <p>E-commerce SEO</p>
-                                    <p>To Increase Your Sale</p>
-                                </div>
-                            </div>
-                            <!-- slide-2 end -->
-
-                            <!-- slide-3 -->
-                            <div class="splide__slide seoToolsSlide2 contactFormToogler">
-                                <div class="iconBox">
-                                    <i class="fa fa-object-group instaColor" aria-hidden="true"></i>
-                                </div>
-                                <div class="slideContentBox instaBg">
-                                    <p>Enterprise SEO </p>
-                                    <p>Increase Traffic & Revenue</p>
-                                </div>
-                            </div>
-                            <!-- slide-3 end -->
-
-                            <!-- slide-4 -->
-                            <div class="splide__slide seoToolsSlide2 contactFormToogler">
-                                <div class="iconBox">
-                                    <i class="fa fa-bullseye skypeColor" aria-hidden="true"></i>
-                                </div>
-                                <div class="slideContentBox skypeBg">
-                                    <p>Get Your Website Design</p>
-                                    <p>To Drive Growth</p>
-                                </div>
-                            </div>
-                            <!-- slide-4 end -->
-
-                        </div>
-                </section>
-            </div>
-            <!-- seo Tools Slide ended -->
-
-
-        </div>
-
-        <div class="col-md-12 seoResultContainer">
+        
+    <div class="col-md-12 seoResultContainer">
             <h1 class="commonTitle ">SEO Results We Delivering in 2023</h1>
 
             <section class="splide seoResultSection" aria-label="Splide Slider ">
@@ -488,6 +386,109 @@ $seoToolsImages = [
 
                     </div>
             </section>
+        </div>
+
+
+        <div class="col-md-6">
+
+            <!-- seo Tools Slide started -->
+            <div class="seoToolsSectionContainer">
+                <h1 class="commonTitle">SEO Services Tools We Use</h1>
+
+                <section class="splide seoToolsSection" aria-label="Splide Slider ">
+                    <div class="splide__track px-5">
+                        <div class="splide__list">
+
+                            <?php foreach ($seoToolsImages as $data): ?>
+                                <!-- slide-1 -->
+                                <div class="splide__slide seoToolsSlide">
+
+                                    <?php if ($isProductPage): ?>
+                                        <img src="../assets/img/seoTools/<?php echo $data['img'] ?>"
+                                        alt="sliderimg-<?php echo $data['img'] ?>" />
+                                    <?php else: ?>
+                                        <img src="./assets/img/seoTools/<?php echo $data['img'] ?>"
+                                        alt="sliderimg-<?php echo $data['img'] ?>" />
+                                    <?php endif; ?>
+                                   
+
+                                </div>
+                                <!-- slide-1 end -->
+                            <?php endforeach; ?>
+
+                        </div>
+                </section>
+            </div>
+            <!-- seo Tools Slide ended -->
+
+
+
+        </div>
+
+        <div class="col-md-6">
+
+            <!-- seo Tools Slide started -->
+            <div class="seoToolsSectionContainer">
+                <h1 class="commonTitle">How Can We Help You?</h1>
+
+                <section class="splide seoToolsSection2 mb-2" aria-label="Splide Slider ">
+                    <div class="splide__track px-md-5 px-0">
+                        <div class="splide__list ">
+
+                            <!-- slide-1 -->
+                            <div class="splide__slide seoToolsSlide2 contactFormToogler">
+                                <div class="iconBox">
+                                    <i class="fa fa-line-chart facebookColor" aria-hidden="true"></i>
+                                </div>
+                                <div class="slideContentBox facebookBg">
+                                    <p>Fully Managed SEO Services</p>
+                                    <p>To Increase Your Leads</p>
+                                </div>
+                            </div>
+                            <!-- slide-1 end -->
+
+                            <!-- slide-2 -->
+                            <div class="splide__slide seoToolsSlide2 contactFormToogler">
+                                <div class="iconBox">
+                                    <i class="fa fa-shopping-cart whatsappColor" aria-hidden="true"></i>
+                                </div>
+                                <div class="slideContentBox whatsappLightBg">
+                                    <p>E-commerce SEO</p>
+                                    <p>To Increase Your Sale</p>
+                                </div>
+                            </div>
+                            <!-- slide-2 end -->
+
+                            <!-- slide-3 -->
+                            <div class="splide__slide seoToolsSlide2 contactFormToogler">
+                                <div class="iconBox">
+                                    <i class="fa fa-object-group instaColor" aria-hidden="true"></i>
+                                </div>
+                                <div class="slideContentBox instaBg">
+                                    <p>Enterprise SEO </p>
+                                    <p>Increase Traffic & Revenue</p>
+                                </div>
+                            </div>
+                            <!-- slide-3 end -->
+
+                            <!-- slide-4 -->
+                            <div class="splide__slide seoToolsSlide2 contactFormToogler">
+                                <div class="iconBox">
+                                    <i class="fa fa-bullseye skypeColor" aria-hidden="true"></i>
+                                </div>
+                                <div class="slideContentBox skypeBg">
+                                    <p>Get Your Website Design</p>
+                                    <p>To Drive Growth</p>
+                                </div>
+                            </div>
+                            <!-- slide-4 end -->
+
+                        </div>
+                </section>
+            </div>
+            <!-- seo Tools Slide ended -->
+
+
         </div>
 
 

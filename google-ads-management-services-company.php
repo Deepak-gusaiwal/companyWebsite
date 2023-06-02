@@ -5,13 +5,13 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Product Page</title>
+    <title>Google Ads</title>
 
     <!-- cssLinks -->
     <?php
     $pageTitle = "Google Ads";
     $categoryTitle = "PPC Services";
-    $categoryUrl = "product-category/seo-packages-by-industies";
+    $categoryUrl = "/ppc-pay-per-click-services-india.php";
     $isProductPage = false;
     require "./includes/cssLinks.php";
     ?>
@@ -30,7 +30,7 @@
     <div class="contentHolderSection">
         <div class="content container p-2">
             <!-- Product Top Content started -->
-
+            <h1>Google Ads</h1>
             <!-- Product Top Content ended -->
         </div>
     </div>
@@ -43,97 +43,6 @@
     </div>
 
 
-
-    <?php
-
-    $productsPackagesArray = [
-
-        "range" => "₹12,000 – ₹72,000",
-        "packages" => [
-            // local packages started
-            "localPackages" => [
-                "1-10" => [
-                    "price" => "₹12,000/-",
-                    "title" => "Number of Monthly Backlinks = 70 + Advanced On - Page SEO Activities",
-                    "description"
-                    => "description",
-                    "img" => "ecommerceSeo/localpackages/1.webp"
-                ],
-                "11-20" =>
-                [
-                    "price" => "₹14,400/-",
-                    "title" => "Number of Monthly Backlinks = 90 + Advanced On - Page SEO Activities",
-                    "description" => "description",
-                    "img" =>
-                    "ecommerceSeo/localpackages/2.webp"
-                ],
-                "21-30" => [
-                    "price" => "₹17,600/-",
-                    "title" => "Number of Monthly Backlinks = 110 + Advanced On-Page SEO Activities",
-                    "description" => "description",
-                    "img" =>
-                    "ecommerceSeo/localpackages/3.webp"
-                ],
-                "31-40" => [
-                    "price" => "₹20,000/-",
-                    "title" => "Number of Monthly Backlinks = 130 + Advanced On-Page SEO Activities",
-                    "description" => "description",
-                    "img" =>
-                    "ecommerceSeo/localpackages/4.webp"
-                ],
-                "41-50" => [
-                    "price" => "₹24,000/-",
-                    "title" => "Number of Monthly Backlinks = 150 + Advanced On-Page SEO Activities",
-                    "description" => "description",
-                    "img" =>
-                    "ecommerceSeo/localpackages/5.webp"
-                ],
-                "51-60" => [
-                    "price" => "₹28,000/-",
-                    "title" => "Number of Monthly Backlinks = 170 + Advanced On-Page SEO Activities",
-                    "description" => "description",
-                    "img" =>
-                    "ecommerceSeo/localpackages/6.webp"
-                ],
-                "61-70" => [
-                    "price" => "₹32,000/-",
-                    "title" => "Number of Monthly Backlinks = 200 + Advanced On-Page SEO Activities",
-                    "description" => "description",
-                    "img" =>
-                    "ecommerceSeo/localpackages/7.webp"
-                ],
-                "71-80" => [
-                    "price" => "₹40,000/-",
-                    "title" => "Number of Monthly Backlinks = 230 + Advanced On-Page SEO Activities",
-                    "description" => "description",
-                    "img" =>
-                    "ecommerceSeo/localpackages/8.webp"
-                ],
-                "81-90" => [
-                    "price" => "₹48,000/-",
-                    "title" => "Number of Monthly Backlinks = 260 + Advanced On-Page SEO Activities",
-                    "description" => "description",
-                    "img" =>
-                    "ecommerceSeo/localpackages/9.webp"
-                ],
-                "91-100" => [
-                    "price" =>
-                    "₹56,000/-",
-                    "title" => "Number of Monthly Backlinks = 300 + Advanced On - Page SEO Activities",
-                    "description" => "description",
-                    "img" =>
-                    "ecommerceSeo/localpackages/10.webp"
-                ],
-            ],
-
-
-
-
-            // international packages  ended 
-        ],
-
-    ]
-        ?>
 
 
     <!-- productDetails started -->

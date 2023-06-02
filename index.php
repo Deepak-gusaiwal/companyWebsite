@@ -302,10 +302,12 @@
                 </div>
 
                 <div class="content">
-                    <h3 class="blueColor">Buy SEO Services from India – Way 2</h3>
+                <div class="bannerSection BottomBorder">
+                    <h1 class="redColor">Buy SEO Services from India – Way 2</h1>
+                </div>
                     <p>If you are not tech-savvy and don’t have enough information about the process of SEO, then you
                         can contact our professional SEO service experts at
-                        <a href="tel:<?php echo $phoneNumber1 ?>">+91-<?php echo $phoneNumber1 ?> (Call/WhatsApp).</a>
+                        <a href="tel:<?php echo $phoneNumber1 ?>"><?php echo $phoneNumber1 ?> (Call/WhatsApp).</a>
                     </p>
                     <ul>
                         <li>Visit our SEO Services website seoserviceinindia.co.in.</li>

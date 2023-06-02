@@ -25,7 +25,7 @@
                     <div class="row">
 
                         <div class="accordionImgBox col-md-5">
-                            <img src="./assets/img/faq/faq.webp" alt="">
+                            <img src="./assets/img/faq/faq1.webp" alt="">
                         </div>
                         <div class="accordionContent col-md-7 ">
                             <p>The average cost of SEO Packages in other USA, UK, Canada and Australia based SEO firm
@@ -62,7 +62,7 @@
                     <div class="row">
 
                         <div class="accordionImgBox col-md-5">
-                            <img src="./assets/img/faq/faq.webp" alt="">
+                            <img src="./assets/img/faq/faq2.png" alt="">
                         </div>
                         <div class="accordionContent col-md-7 ">
                             <p>Whenever you reach out to our SEO experts or sales executives the very first task, they
@@ -87,7 +87,7 @@
                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#FAQCollapse3"
                     aria-expanded="true" aria-controls="FAQCollapse3">
                     <span>#3 FAQ:</span>
-                    <span>Will Your SEO Professions Create Spam Backlinks For My Website?</span>
+                    <span>Will Your SEO Professionals Create Spam Backlinks For My Website?</span>
                 </button>
             </h2>
             <div id="FAQCollapse3" class="accordion-collapse collapse " aria-labelledby="FAQ3"
@@ -96,7 +96,7 @@
                     <div class="row">
 
                         <div class="accordionImgBox col-md-5">
-                            <img src="" alt="faq-3image">
+                            <img src="./assets/img/faq/faq3.png" alt="faq-3image">
                         </div>
                         <div class="accordionContent col-md-7 ">
                             <p>At our SEO Company, our web SEO service professionals always check each and every third
@@ -129,7 +129,7 @@
                     <div class="row">
 
                         <div class="accordionImgBox col-md-5">
-                            <img src="" alt="faq-4image">
+                            <img src="./assets/img/faq/faq4.png" alt="faq-4image">
                         </div>
                         <div class="accordionContent col-md-7 ">
                             <p>At our Indian SEO Company, we generally give progress reports on a monthly cycle. But if
@@ -165,7 +165,7 @@
                     <div class="row">
 
                         <div class="accordionImgBox col-md-5">
-                            <img src="" alt="faq-5image">
+                            <img src="./assets/img/faq/faq5.png" alt="faq-5image">
                         </div>
                         <div class="accordionContent col-md-7 ">
                             <p>Yes, we allow 100% flexibility with our SEO Services and we allow clients to ask for any
@@ -196,7 +196,7 @@
                     <div class="row">
 
                         <div class="accordionImgBox col-md-5">
-                            <img src="" alt="faq-6image">
+                            <img src="./assets/img/faq/faq6.png" alt="faq-6image">
                         </div>
                         <div class="accordionContent col-md-7 ">
                             <p>Yes, we can. In fact, we always provide live training to our clients for the reports we
@@ -229,7 +229,7 @@
                     <div class="row">
 
                         <div class="accordionImgBox col-md-5">
-                            <img src="" alt="faq-7image">
+                            <img src="./assets/img/faq/faq7.png" alt="faq-7image">
                         </div>
                         <div class="accordionContent col-md-7 ">
                             <p>SEO campaign leads can only be expected after achieving the first-page ranking on the
@@ -261,10 +261,7 @@
                 <div class="accordion-body">
                     <div class="row">
 
-                        <div class="accordionImgBox col-md-5">
-                            <img src="" alt="faq-8image">
-                        </div>
-                        <div class="accordionContent col-md-7 ">
+                        <div class="accordionContent col-md-12 ">
                             <p>With our SEO Service, we offer add-on services such as fixing small website development
                                 bugs, fixing issues with the contact form, and enhancing the targeted page layouts for
                                 maximum customer engagements and conversions. We also offer services such as rewriting
@@ -294,10 +291,7 @@
                 <div class="accordion-body">
                     <div class="row">
 
-                        <div class="accordionImgBox col-md-5">
-                            <img src="" alt="faq-9image">
-                        </div>
-                        <div class="accordionContent col-md-7 ">
+                        <div class="accordionContent col-md-12 ">
                             <p>As long as we are working with you and providing you the SEO Services, we never onboard
                                 any of your competitors. There are some business rules we follow at our Indian SEO
                                 Services very strictly which ensures 100% trust and reliability of our clients on us.
@@ -326,10 +320,7 @@
                 <div class="accordion-body">
                     <div class="row">
 
-                        <div class="accordionImgBox col-md-5">
-                            <img src="" alt="faq-10image">
-                        </div>
-                        <div class="accordionContent col-md-7 ">
+                        <div class="accordionContent col-md-12 ">
                             <p>We have very strict client security policies which allow us to keep all data safe and
                                 secure internally. We never publish or share any of your website logins, email logins,
                                 or passwords with any third-party sites and even make sure to keep changing the

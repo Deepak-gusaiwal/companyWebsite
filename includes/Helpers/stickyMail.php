@@ -50,7 +50,8 @@ if (isset($_POST['Ssubmit'])) {
         // echo $Sname ,$Semail,$SphoneNo,$SwebsiteUrl,$Smessage;
 
         // Email information
-        $to = "dgusaiwal537@gmail.com";
+        
+        $to =$GLOBALS['contactFormEmail'];
         $subject = "Contact Form Submission By User (Inquiry Form)";
         $headers = "From: " . $Semail . "\r\n";
 

@@ -8,7 +8,9 @@
     <title>Contact Page</title>
 
     <!-- cssLinks -->
-    <?php $pageTitle = "contact us";
+    <?php 
+    $isProductPage=false;
+    $pageTitle = "contact us";
     require "./includes/cssLinks.php"; ?>
 </head>
 

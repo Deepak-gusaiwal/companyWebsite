@@ -206,22 +206,21 @@
 
           <div class="megaContentBox">
             <h5>
-              <a href="ppc-pay-per-click-services-india.php">
+              <a href="/ppc-pay-per-click-services-india.php">
                 PPC Services
               </a>
             </h5>
             <ul class="megaLinksBox">
               <li><a href="/google-ads-management-services-company.php">Google Ads </a></li>
-              <li><a href="bing-ads-management-services-company.php ">Bing Ads </a></li>
-              <li><a href="facebook-ads-management-packages.php">Facebook Ads </a>
+              <li><a href="/bing-ads-management-services-company.php ">Bing Ads </a></li>
+              <li><a href="/facebook-ads-management-packages.php">Facebook Ads </a></li>
+              <li><a href="/instagram-ads-management-packages.php">Instagram Ads </a></li>
+              <li><a href="/twitter-ads-management-packages.php">Twitter Ads </a></li>
+              <li><a href="/linkedin-ads-management-packages.php">LinkedIn Ads </a>
               </li>
-              <li><a href="">Instagram Ads </a></li>
-              <li><a href="twitter-ads-management-packages.php">Twitter Ads </a></li>
-              <li><a href="linkedin-ads-management-packages.php">LinkedIn Ads </a>
+              <li><a href="/pinterest-ads-management-packages.php">Pinterest Ads </a>
               </li>
-              <li><a href="pinterest-ads-management-packages.php">Pinterest Ads </a>
-              </li>
-              <li><a href="mobile-igaming-ppc-services-india.php">Mobile Gaming Ads </a></li>
+              <li><a href="/mobile-igaming-ppc-services-india.php">Mobile Gaming Ads </a></li>
             </ul>
           </div>
         </div>
@@ -230,92 +229,62 @@
 
         <div class="megaBoxRight">
           <h5>
-            <a href="product-category/seo-packages-by-industies.php">PPC Packages by Industry
+            <a href="/product-category/ppc-packages-by-industies.php">PPC Packages by Industry
             </a>
           </h5>
 
           <div class="megaBoxRightWrapper">
 
             <ul class="megaLinksBox">
-              <li><a href="/product/seo-for-ai-softwares-tools.php"> AI Software and Tools </a></li>
-              <li><a href="google-ads-for-astrology-astrologers.php">Astrology </a>
+              <li><a href="/product/google-ads-packages-for-ai-software-and-tools.php"> AI Software and Tools </a></li>
+              <li><a href="/product/google-ads-packages-for-astrology-astrologers.php">Astrology </a></li>
+              <li><a href="/product/google-ads-packages-for-automotive-automobile-industry.php ">Automobile</a></li>
+              <li><a href="/product/google-ads-packages-for-online-casino-websites.php">Casino </a></li>
+              <li><a href="/product/google-ads-packages-for-consulting-firms.php">Consultants/Consultancies</a></li>
+              <li><a href="/product/google-ads-packages-for-co-working-space-companies-agencies-websites.php">
+                Coworking Office <a>
               </li>
-              <li><a href="google-ads-for-automotive-automobile-industry.php ">Automobile
-                </a></li>
-              <li><a href="google-ads-for-online-casino-websites.php">Casino </a>
-              </li>
-              <li><a href="google-ads-for-consulting-firms.php">Consultants/Consultancies
-                </a></li>
-              <li><a href="google-ads-for-co-working-space-companies-agencies-websites.php">Coworking
-                  Office </a>
-              </li>
-              <li><a href="seo-service-packages-for-cyber-security-companies-firms.php">Cyber
-                  Security </a></li>
-              <li><a href="">Data Recovery</a></li>
-              <li><a href="google-ads-for-saas.php">Data Science & SAAS </a></li>
-
+              <li><a href="/product/google-ads-packages-for-cyber-security-companies-firms.php">Cyber Security </a></li>
+              <li><a href="/product/google-ads-packages-for-data-recovery.php">Data Recovery</a></li>
+              <li><a href="/product/google-ads-packages-for-saas.php">Data Science & SAAS </a></li>
             </ul>
 
             <ul class="megaLinksBox">
 
 
-              <li><a href="google-ads-for-dentists.php">Dentists </a></li>
-              <li><a href="google-ads-for-ecommerce-websites-stores.php">eCommerce
-                </a>
-              </li>
-              <li><a href="google-ads-for-ecommerce-websites-stores.php">Education
-                </a>
-              </li>
-              <li><a href="google-ads-for-finance-companies.php">Finance </a></li>
-              <li><a href="">Gambling</a></li>
-              <li><a href="google-ads-for-government-agencies.php">Government </a>
-              </li>
-              <li><a href="google-ads-for-healthcare-industry.php">Healthcare </a>
-              </li>
-              <li><a href="">Homebuilders</a></li>
-              <li><a href="google-ads-for-hotel-websites.php">Hotels </a></li>
+              <li><a href="/product/google-ads-packages-for-dentists.php">Dentists </a></li>
+              <li><a href="/product/google-ads-packages-for-ecommerce-websites-stores.php">eCommerce</a></li>
+              <li><a href="/product/google-ads-packages-for-education-institute.php">Education</a></li>
+              <li><a href="/product/google-ads-packages-for-finance-companies.php">Finance </a></li>
+              <li><a href="/product/google-ads-packages-for-gambling.php">Gambling</a></li>
+              <li><a href="/product/google-ads-packages-for-government-agencies.php">Government </a></li>
+              <li><a href="/product/google-ads-packages-for-healthcare-industry.php">Healthcare </a></li>
+              <li><a href="/product/google-ads-packages-for-homebuilders.php">Homebuilders</a></li>
+              <li><a href="/product/google-ads-packages-for-hotel-websites.php">Hotels </a></li>
             </ul>
 
             <ul class="megaLinksBox">
 
-              <li><a href="google-ads-for-insurance-companies.php">Insurance </a>
-              </li>
-              <li><a href="google-ads-for-insurance-companies.php">Computers & IT
-                </a></li>
-              <li><a href="google-ads-for-lawyers-law-firms.php">Law Firms </a></li>
-              <li><a href="">Logistics</a></li>
-              <li><a href="google-ads-for-manufacturing-companies.php">Manufacturers
-                </a>
-              </li>
-              <li><a href="">Market Research</a></li>
-              <li><a href="google-ads-for-movers-and-packers.php">Movers And Packers
-                </a>
-              </li>
-              <li><a href="pet-grooming-care-industry-seo-packages-india.php">Pet
-                  Groomers
-                </a></li>
-              <li><a href="google-ads-for-politicians.php">Politicians </a></li>
+              <li><a href="/product/google-ads-packages-for-insurance-companies.php">Insurance </a></li>
+              <li><a href="/product/google-ads-packages-for-computers-it.php">Computers & IT</a></li>
+              <li><a href="/product/google-ads-packages-for-lawyers-law-firms.php">Law Firms </a></li>
+              <li><a href="/product/google-ads-packages-for-logistics.php">Logistics</a></li>
+              <li><a href="/product/google-ads-packages-for-manufacturing-companies.php">Manufacturers</a></li>
+              <li><a href="/product/google-ads-packages-for-market-research.php">Market Research</a></li>
+              <li><a href="/product/google-ads-packages-for-movers-and-packers.php">Movers And Packers</a></li>
+              <li><a href="/product/google-ads-packages-for-pet-groomers.php">Pet Groomers</a></li>
+              <li><a href="/product/google-ads-packages-for-politicians.php">Politicians </a></li>
             </ul>
 
             <ul class="megaLinksBox">
-              <li><a href="google-ads-for-real-estate-agents.php">Real Estate </a>
-              </li>
-              <li><a href="google-ads-for-restaurants.php">Restaurants </a></li>
-              <li><a href="google-ads-for-satta-matka-industry-website.php">Satta
-                  Matka
-                </a></li>
-              <li><a href="google-ads-for-software-companies-and-firms.php">Software
-                </a>
-              </li>
-              <li><a href="sportsbook-seo-services-and-packages.php">Sportsbook </a>
-              </li>
-              <li><a href="google-ads-for-trading-companies.php">Trading/Traders </a>
-              </li>
-              <li><a href="google-ads-for-transportation-companies.php ">Transportation
-                </a></li>
-              <li><a href="google-ads-for-travel-agency-website.php">Travel Agency
-                </a>
-              </li>
+              <li><a href="/product/google-ads-packages-for-real-estate-agents.php">Real Estate </a></li>
+              <li><a href="/product/google-ads-packages-for-restaurants.php">Restaurants </a></li>
+              <li><a href="/product/google-ads-packages-for-satta-matka-industry-website.php">Satta Matka</a></li>
+              <li><a href="/product/google-ads-packages-for-software-companies-and-firms.php">Software </a></li>
+              <li><a href="/product/google-ads-packages-for-sportsbook.php">Sportsbook </a></li>
+              <li><a href="/product/google-ads-packages-for-trading-companies.php">Trading/Traders </a></li>
+              <li><a href="/product/google-ads-packages-for-transportation-companies.php">Transportation</a></li>
+              <li><a href="/product/google-ads-packages-for-travel-agency-website.php">Travel Agency</a></li>
             </ul>
 
           </div>
@@ -470,23 +439,23 @@
 
     <!-- normal DropDown -->
     <li class="dropDownToggle">
-      <a href="#" class="navLink">SMO</a>
+      <a href="/social-media-optimization-services-company.php" class="navLink">SMO</a>
 
       <div class="dropMenuContainer">
 
         <div class="dropMenu">
           <span>Social Media Optimization</span>
           <ul class="dropDownLinks">
-            <li><a href="facebook-page-profile-optimization-services.php ">Facebook
+            <li><a href="/facebook-page-profile-optimization-services.php ">Facebook
                 Optimization </a></li>
-            <li><a href="twitter-page-profile-optimization-services.php ">Twitter Optimization
+            <li><a href="/twitter-page-profile-optimization-services.php ">Twitter Optimization
               </a></li>
-            <li><a href="linkedin-page-profile-optimization-services.php ">LinkedIn
+            <li><a href="/linkedin-page-profile-optimization-services.php ">LinkedIn
                 Optimization </a></li>
-            <li><a href="instagram-page-profile-optimization-services.php ">Instagram
+            <li><a href="/instagram-page-profile-optimization-services.php ">Instagram
                 Optimization </a></li>
-            <li><a href="">Pinterest Optimization</a></li>
-            <li><a href="product-category/smo-social-media-optimization-packages.php"> SMO Packages
+            <li><a href="/pinterest-page-profile-optimization-services.php">Pinterest Optimization</a></li>
+            <li><a href="/smo-social-media-optimization-packages.php"> SMO Packages
               </a></li>
           </ul>
         </div>
@@ -497,29 +466,23 @@
 
     <!-- normal DropDown -->
     <li class="dropDownToggle">
-      <a href="content-marketing-management-services.php" class="navLink">Content</a>
+      <a href="/content-marketing-management-services.php" class="navLink">Content</a>
 
       <div class="dropMenuContainer">
 
         <div class="dropMenu">
           <span>
-            <a href="content-writing-services.php">Content Writing</a>
+            <a href="/content-writing-services.php">Content Writing</a>
           </span>
           <ul class="dropDownLinks">
-            <li><a href="website-blog-writing-services.php ">Blog Writing </a></li>
-            <li><a href="web-page-service-content-writing-services.php ">Service Page Writing
-              </a></li>
-            <li><a href="ecommerce-products-description-writing-services.php.php">Product
-                Content
-                Writing </a></li>
-            <li><a href="press-release-writing-services.php ">Press Release Writing </a></li>
-            <li><a href="guest-post-writing-services.php ">Guest Post Writing </a></li>
-            <li><a href="social-media-post-writing-services.php ">Social Media Post Writing
-              </a></li>
-            <li><a href="graphics-content-writing-services.php ">Graphics Content Writing
-              </a>
-            </li>
-            <li><a href="guest-posting-services-india.php ">Guest Post Submission </a></li>
+            <li><a href="/website-blog-writing-services.php ">Blog Writing </a></li>
+            <li><a href="/web-page-service-content-writing-services.php ">Service Page Writing </a></li>
+            <li><a href="/ecommerce-products-description-writing-services.php">Product Content Writing </a><li>
+            <li><a href="/press-release-writing-services.php ">Press Release Writing </a></li>
+            <li><a href="/guest-post-writing-services.php ">Guest Post Writing </a></li>
+            <li><a href="#">Social Media Post Writing </a></li>
+            <li><a href="#">Graphics Content Writing </a> </li>
+            <li><a href="/guest-posting-services-india.php ">Guest Post Submission </a></li>
           </ul>
         </div>
 
@@ -529,7 +492,7 @@
 
     <!-- normal DropDown -->
     <li class="dropDownToggle">
-      <a href="content-marketing-management-services.php" class="navLink">YouTube</a>
+      <a href="#" class="navLink">YouTube</a>
 
       <div class="dropMenuContainer">
 
@@ -538,17 +501,10 @@
               <a href="content-writing-services.php">Content Writing</a>
             </span> -->
           <ul class="dropDownLinks">
-            <li><a href="youtube-channel-seo-optimization-services.php ">YouTube SEO </a>
-            </li>
-            <li><a href="youtube-channel-monetization-services.php ">YouTube Monetization
-              </a>
-            </li>
-            <li><a href="youtube-channel-subscribers-count-packages.php">YouTube
-                Subscribers </a></li>
-            <li><a href="youtube-videos-watch-hour-count-packages.php">YouTube Watch
-                Hours
-              </a></li>
-
+            <li><a href="#">YouTube SEO </a> </li>
+            <li><a href="#">YouTube Monetization </a> </li>
+            <li><a href="#">YouTube Subscribers </a></li>
+            <li><a href="#">YouTube Watch Hours</a></li>
           </ul>
         </div>
 
@@ -595,27 +551,16 @@
         <div class="megaBoxLeft">
 
           <div class="megaContentBox">
-            <h5>
-              <a href="website-designing-services-company-india.php">
-                Website Design
-              </a>
-            </h5>
+            <h5><a href="#">Website Design</a></h5>
             <ul class="megaLinksBox">
-              <li><a href="mobile-responsive-website-designing-services-company-india.php ">
-                  Mobile Web Designing
-                </a></li>
-              <li><a href="wordpress-website-designing-services-company-india.php"> WordPress
-                  Web Designing </a></li>
-              <li><a href="shopify-ecommerce-website-designing-services-company-india.php">
-                  Shopify Web Designing
-                </a></li>
-              <li><a href="cms-based-website-designing-development-packages.php"> CMS
-                  Web
-                  Designing </a></li>
-              <li><a href=""> Magento Web Designing </a></li>
-              <li><a href=""> eCommerce Web Designing </a></li>
-              <li><a href=""> Portfolio Web Designing </a></li>
-              <li><a href=""> Website Designing Package </a></li>
+              <li><a href="#">Mobile Web Designing</a></li>
+              <li><a href="#"> WordPress Web Designing </a></li>
+              <li><a href="#"> Shopify Web Designing </a></li>
+              <li><a href="#"> CMS Web Designing </a></li>
+              <li><a href="#"> Magento Web Designing </a></li>
+              <li><a href="#"> eCommerce Web Designing </a></li>
+              <li><a href="#"> Portfolio Web Designing </a></li>
+              <li><a href="#"> Website Designing Package </a></li>
             </ul>
           </div>
         </div>
@@ -624,7 +569,7 @@
 
         <div class="megaBoxRight">
           <h5>
-            <a href="product-category/website-designing-development-packages.php">Web
+            <a href="#">Web
               Development
             </a>
           </h5>
@@ -632,33 +577,33 @@
           <div class="megaBoxRightWrapper">
             <ul class="megaLinksBox">
               <span>
-                <a href="product-category/ecommerce-website-designing-development-packages.php">eCommerce
+                <a href="#">eCommerce
                   Website</a>
               </span>
-              <li><a href="shopify-ecommerce-designing-development-packages.php">
+              <li><a href="#">
                   Shopify
                   Website</a></li>
-              <li><a href="wordpress-ecommerce-designing-development-packages.php">
+              <li><a href="#">
                   WordPress Website</a></li>
-              <li><a href="magento-ecommerce-designing-development-packages.php">
+              <li><a href="#">
                   Magento
                   Website</a></li>
-              <li><a href=""> OpenCart Website</a></li>
-              <li><a href=""> Wix Website</a></li>
+              <li><a href="#"> OpenCart Website</a></li>
+              <li><a href="#"> Wix Website</a></li>
 
 
             </ul>
 
             <ul class="megaLinksBox">
               <span>
-                <a href="product-category/non-ecommerce-website-designing-packages.php">Non-eCommerce
+                <a href="#">Non-eCommerce
                   Website</a>
               </span>
 
-              <li><a href=""> Portfolio Website</a></li>
-              <li><a href=""> Mobile Responsive</a></li>
-              <li><a href=""> CMS Website</a></li>
-              <li><a href=""> Wordpress Website</a></li>
+              <li><a href="#"> Portfolio Website</a></li>
+              <li><a href="#"> Mobile Responsive</a></li>
+              <li><a href="#"> CMS Website</a></li>
+              <li><a href="#"> Wordpress Website</a></li>
 
             </ul>
 
@@ -680,8 +625,8 @@
 
 
 
-    <li><a class="navLink" href="contact-us.php">Contact Us</a></li>
-    <li><a class="navLink" href="">Blog</a></li>
+    <li><a class="navLink" href="/contact-us.php">Contact Us</a></li>
+    <li><a class="navLink" href="/category/blog">Blog</a></li>
   </ul>
 </nav>
 

@@ -9,7 +9,7 @@
 
     <!-- cssLinks -->
     <?php
-    $pageTitle = "SEO For ios store app";
+    $pageTitle = "SEO For IOS store app";
     $categoryTitle = "SEO Packages by App Store optimization";
     $categoryUrl = "/product-category/app-store-optimization-packages-by-market-places.php";
     $isProductPage=true;

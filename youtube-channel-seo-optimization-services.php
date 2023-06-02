@@ -129,7 +129,7 @@
                 optimizing them. YouTube is the most popular YouTube Video platform on the internet, as well as one of
                 the most popular search engines. As a result, knowing how to optimize your content for the platform is
                 crucial.</p>
-            <h2>What is YouTube YouTube Video SEO?</h2>
+            <h2>What is YouTube Video SEO?</h2>
             <p>YouTube Video SEO Optimized Description Optimization; YouTube Video increased view time, greater brand
                 exposure, and more sales and leads are just a few of the advantages of SEO description improvement.</p>
         </div>
@@ -141,7 +141,7 @@
 
     <div class="contentHolderSection">
         <div class="content container p-2">
-            <h2>SEO Optimized YouTube Video Ddescriptions</h2>
+            <h2>SEO Optimized YouTube Video Descriptions</h2>
             <ul>
                 <li>First, we’ll look at SEO Writing Techniques and Tips.</li>
                 <li>We start by writing for your target audience.</li>

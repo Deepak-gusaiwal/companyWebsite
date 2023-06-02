@@ -1,8 +1,9 @@
 <?php
 $phoneNumber1 = "+919717686168";
 $phoneNumber2 = "+918802555230";
-$email1 = "anubhav@seoserviceinindia.co.in";
+$email1 = "anubhav@mysticdigi.com";
 $email2 = "chander@mysticdigi.com";
+$contactFormEmail = $email1;
 $whatsappLink = "https://bit.ly/3yvu39p";
 
 
@@ -15,7 +16,8 @@ $pinterest = "https://in.pinterest.com/seoserviceinind/";
 $instagram = "https://www.instagram.com/seoserviceinindia/";
 $skype = "skype:anubhav.garg7?chat";
 
-
+$seoForumLink = "https://digitalmarketingforum.seoserviceinindia.co.in";
+$seoToolsLink = " https://seotools.seoserviceinindia.co.in/";
 
 ?>
 
@@ -49,12 +51,12 @@ $skype = "skype:anubhav.garg7?chat";
 
     <div class="freeSEOToolsContainer d-lg-flex d-none ">
       <span>Our Free SEO Tools</span>
-      <a href="#"> Free SEO Tools</a>
+      <a href="<?php echo $seoToolsLink; ?>"> Free SEO Tools</a>
     </div>
-    <div class="freeSEOToolsContainer d-lg-flex d-none ">
+    <!-- <div class="freeSEOToolsContainer d-lg-flex d-none ">
       <span>Join Our Forum</span>
-      <a href="#">Join Our Forum</a>
-    </div>
+      <a href="<?php echo $seoForumLink; ?>">Join Our Forum</a>
+    </div> -->
 
 
 
@@ -79,12 +81,12 @@ $skype = "skype:anubhav.garg7?chat";
       <i class="fa fa-whatsapp"></i>
     </a>
     <div class="socialLinks headerSocialLinks d-flex mx-md-0 mx-auto gap-2">
-      <a title="facebook" href="<?php echo $facebook; ?>"><i class="fa fa-facebook"></i></a>
-      <a href="<?php echo $twitter; ?>"><i class="fa fa-twitter"></i></a>
-      <a href="<?php echo $youtube; ?>"><i class="fa fa-youtube-play"></i></a>
-      <a href="<?php echo $linkedin; ?>"><i class="fa fa-linkedin"></i></a>
-      <a href="<?php echo $pinterest; ?>"><i class="fa fa-pinterest-p"></i></a>
-      <a href="<?php echo $instagram; ?>"><i class="fa fa-instagram"></i></a>
+      <a rel="nofollow" title="facebook" href="<?php echo $facebook; ?>"><i class="fa fa-facebook"></i></a>
+      <a rel="nofollow" href="<?php echo $twitter; ?>"><i class="fa fa-twitter"></i></a>
+      <a rel="nofollow" href="<?php echo $youtube; ?>"><i class="fa fa-youtube-play"></i></a>
+      <a rel="nofollow" href="<?php echo $linkedin; ?>"><i class="fa fa-linkedin"></i></a>
+      <a rel="nofollow" href="<?php echo $pinterest; ?>"><i class="fa fa-pinterest-p"></i></a>
+      <a rel="nofollow" href="<?php echo $instagram; ?>"><i class="fa fa-instagram"></i></a>
 
     </div>
 

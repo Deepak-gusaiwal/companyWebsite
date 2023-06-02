@@ -64,7 +64,7 @@ if (isset($_POST['submit'])) {
         $nameErr = $emailErr = $phoneNoErr = $websiteUrlErr = $budgetErr = $requirmentErr = $messageErr = false;
 
         // Email information
-        $to = "dgusaiwal537@gmail.com";
+        $to =$GLOBALS['contactFormEmail'];
         $subject = "Contact Form Submission By $name";
         $headers = "From: " . $email . "\r\n";
 

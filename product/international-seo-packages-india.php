@@ -27,16 +27,11 @@
     <!-- breadCrumb ended -->
 
 
-    <div class="contentHolderSection">
-        
+    <!-- <div class="contentHolderSection">
         <div class="content container p-2">
-           <h1>What Is Local SEO (Search Engine Optimization)?</h1>
-           <p>What Is Local SEO? Local SEO refers to the search optimization of Locally based business websites to help them get more local search visibility so they can be easily found online or in search by local customers. Local business owners can purchase Local SEO Packages form India’s Top Rated Local SEO Service.</p>
+  
         </div>
-
-      
-
-    </div>
+    </div> -->
 
 
 

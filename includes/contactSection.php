@@ -85,11 +85,11 @@
                 <div class="d-flex justify-content-start gap-4 align-items-center flex-wrap">
                     <button name="submit" type="submit">hear from experts</button>
                     <div class="socialLinks d-flex mx-md-0 mx-auto gap-2 flex-wrap">
-                        <a href="<?php echo $facebook; ?>"><i class="fa fa-facebook"></i></a>
-                        <a href="<?php echo $twitter; ?>"><i class="fa fa-twitter"></i></a>
-                        <a href="<?php echo $youtube; ?>"><i class="fa fa-youtube-play"></i></a>
-                        <a href="<?php echo $linkedin; ?>"><i class="fa fa-linkedin"></i></a>
-                        <a href="<?php echo $pinterest; ?>"><i class="fa fa-pinterest-p"></i></a>
+                        <a rel="nofollow" href="<?php echo $facebook; ?>"><i class="fa fa-facebook"></i></a>
+                        <a rel="nofollow" href="<?php echo $twitter; ?>"><i class="fa fa-twitter"></i></a>
+                        <a rel="nofollow" href="<?php echo $youtube; ?>"><i class="fa fa-youtube-play"></i></a>
+                        <a rel="nofollow" href="<?php echo $linkedin; ?>"><i class="fa fa-linkedin"></i></a>
+                        <a rel="nofollow" href="<?php echo $pinterest; ?>"><i class="fa fa-pinterest-p"></i></a>
                     </div>
                 </div>
 
@@ -106,8 +106,9 @@
 
 
             <h1><a href="tel:+<?php echo $phoneNumber1 ?>"> <?php echo $phoneNumber1 ?></a></h1>
-            <h3><a href="mailto:<?php echo $email1 ?>"></a>
+            <h3><a class="text-lowercase" href="mailto:<?php echo $email1 ?>">
                 <?php echo $email1 ?>
+                </a>
             </h3>
             <div class="contactRightContent">
                 <p>Ready to speak with a marketing expert?</p>
@@ -125,7 +126,7 @@
                             20000+
                         </span>
                         <span>
-                            Acounts Handdled
+                        Projects Handling
                         </span>
                     </div>
                 </div>
@@ -136,10 +137,10 @@
                     </div>
                     <div class="contentBox">
                         <span>
-                            50+
+                            25+
                         </span>
                         <span>
-                            Team of Professionals
+                        Full Time Working Professionals
                         </span>
                     </div>
                 </div>
