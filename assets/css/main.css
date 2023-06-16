@@ -2129,7 +2129,7 @@ color: white;
 
 /* single blog page css */
 .featuredImageBox{
-max-width: 400px;
+max-width: 100%;
 box-shadow: 0px 0px 5px 2px var(--darkBlue);
 border-radius: 0.5rem;
 overflow: hidden;
@@ -2146,14 +2146,28 @@ margin: 0 auto;
   text-transform: capitalize;
   text-align: center;
 }
+.blogContentHolder p{
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+.blogContentHolder ul{
+  padding-left: 1rem;
+  margin-bottom: 0.5rem;
+}
+.blogContentHolder ul li{
+  list-style: disc;
+  font-size: 1.1rem;
+}
 
 /* ====blogSidebarContainer */
+
 .blogSidebarContainer{
   background-color: var(--darkBlue);
   color: white;
   padding: 0.8rem;
   height: 100%;
 }
+
 .blogSidebarContainer h4{
   background-color: var(--brandColor);
   color: black;
@@ -2182,17 +2196,45 @@ align-items: center;
 gap: 1rem;
 margin-top: 1rem;
 }
+.blogAdvertisementContainer a{
+  width: 100%;
+  height: 200px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+.blogSideBarFormContainer {
+  background-color: var(--brandColor);
+  padding: 0.5rem;
+  margin-top: 0.8rem;
+}
+.stickyBlogAdBox{
+  position: sticky;
+  top: 120px;
+  width: 100%;
+}
 
 /* blogCategoriesSection */
 .blogCategoriesSection{
   border: 4px solid var(--brandColor);
   border-top: none;
 }
+
+.blogCategoryCard a.imgBox{
+  width: 100px;
+  height: 100px !important;
+}
+.blogCategoryCard .contentBox h3{
+ font-size: 1.3rem;
+}
 /* ======recentBlogsSection */
 .recentBlogsSection{
   border: 4px solid var(--brandColor);
   border-top: none;
 }
+
 .blogCommonCard{
   padding: 0.5rem;
   background-color: var(--darkBlue);

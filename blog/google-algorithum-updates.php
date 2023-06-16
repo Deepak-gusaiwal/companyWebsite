@@ -5,11 +5,13 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Blogs</title>
+    <title>google algorithum updates</title>
 
     <!-- cssLinks -->
     <?php
-    $pageTitle = "Blogs";
+    $pageTitle = "google algorithum updates";
+    $categoryTitle = "Blog";
+    $categoryUrl = "/blog";
     $isProductPage = true;
     require "../includes/cssLinks.php";
     ?>
@@ -29,11 +31,9 @@
 
     <!-- blogwrapperSection started -->
     <div class="blogwrapper container">
-        <!-- recent Blogs -->
-        <?php require "./includes/recentBlogSection.php"; ?>
-        <!-- blog Categories -->
-        <?php require "./includes/blogCategoriesSection.php"; ?>
 
+    <!-- relatedBlogSection -->
+    <?php $blogCategoryName = $pageTitle; require "./includes/relatedBlogSection.php"; ?>
 
     </div>
     <!-- blogwrapperSection ended -->
@@ -54,6 +54,8 @@
     <?php require "../includes/contactSection.php"; ?>
     <!-- contactSetion ended -->
 
+
+
     <!-- other Services Section Started -->
     <div class="contentHolderSection">
         <div class=" container ">
@@ -64,6 +66,8 @@
         </div>
     </div>
     <!-- other Services Section ended -->
+
+
 
     <!-- footer started -->
     <?php require "../includes/footer.php"; ?>

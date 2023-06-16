@@ -4,17 +4,17 @@ $blogCategoryArr = [
     [
         "img" => "seo.png",
         "url" => "seo.php",
-        "title" => "SEO"
+        "title" => "Search Engine Optimization"
     ],
     [
         "img" => "ppc.png",
         "url" => "ppc.php",
-        "title" => "PPC"
+        "title" => "pay per click"
     ],
     [
         "img" => "sem.png",
         "url" => "sem.php",
-        "title" => "SEM"
+        "title" => "Search Engine Marketing"
     ],
     [
         "img" => "contentmarketing.png",
@@ -24,7 +24,7 @@ $blogCategoryArr = [
     [
         "img" => "appstore.png",
         "url" => "aso.php",
-        "title" => "ASO"
+        "title" => "App Store Optimization"
     ],
     [
         "img" => "googlealgo.png",
@@ -44,59 +44,23 @@ $blogCategoryArr = [
 <!-- particular category array -->
 <?php
 
+$seoCategoryName = 'seo';
+$ppcCategoryName="ppc";
+$semCategoryName="sem";
+$contentMarketCategoryName="content marketing";
+$asoCategoryName="aso";
+$googleAlgorithumUpdatesCategoryName="google algorithum updates";
+$webTechnologiesCategoryName="web Technologies";
+
 // All Blogs
 $blogs = [
-    [   "category"=>"seo",
+    [   "category"=>"$seoCategoryName",
         "img" => "seo/1.png",
-        "url" => "",
-        "date"=>"16 june 23",
-        "title" => "10 Guest Posting Websites Every Digital Marketer Should Know About",
-        "excerpt" => "Top Guest Posting Websites for digital Marketers to Enhance Their online presence if you're a digital marketer ,you"
+        "url" => "what-is-seo.php",
+        "date"=>"16 june 2023",
+        "title" => "what is SEO",
+        "excerpt" => "Hey there, folks! Let's have a little chat about SEO and discover why it’s such a big deal in the online world, shall we?"
     ],
-    [   "category"=>"seo",
-        "img" => "seo/1.png",
-        "url" => "",
-        "date"=>"11 june 23",
-        "title" => "10 Guest Posting Websites Every Digital Marketer Should Know About",
-        "excerpt" => "Top Guest Posting Websites for digital Marketers to Enhance Their online presence if you're a digital marketer ,you"
-    ],
-    [   "category"=>"sem",
-        "img" => "seo/1.png",
-        "url" => "",
-        "date"=>"18 june 23",
-        "title" => "10 Guest Posting Websites Every Digital Marketer Should Know About",
-        "excerpt" => "Top Guest Posting Websites for digital Marketers to Enhance Their online presence if you're a digital marketer ,you"
-    ],
-    [   "category"=>"sem",
-        "img" => "seo/1.png",
-        "url" => "",
-        "date"=>"12 june 23",
-        "title" => "10 Guest Posting Websites Every Digital Marketer Should Know About",
-        "excerpt" => "Top Guest Posting Websites for digital Marketers to Enhance Their online presence if you're a digital marketer ,you"
-    ],
-    [   "category"=>"sem",
-        "img" => "seo/1.png",
-        "url" => "",
-        "date"=>"17 june 23",
-        "title" => "10 Guest Posting Websites Every Digital Marketer Should Know About",
-        "excerpt" => "Top Guest Posting Websites for digital Marketers to Enhance Their online presence if you're a digital marketer ,you"
-    ],
-    [   "category"=>"sem",
-        "img" => "seo/1.png",
-        "url" => "",
-        "date"=>"12 june 23",
-        "title" => "10 Guest Posting Websites Every Digital Marketer Should Know About",
-        "excerpt" => "Top Guest Posting Websites for digital Marketers to Enhance Their online presence if you're a digital marketer ,you"
-    ],
-    [   "category"=>"sem",
-        "img" => "seo/1.png",
-        "url" => "",
-        "date"=>"19 june 23",
-        "title" => "10 Guest Posting Websites Every Digital Marketer Should Know About",
-        "excerpt" => "Top Guest Posting Websites for digital Marketers to Enhance Their online presence if you're a digital marketer ,you"
-    ],
-   
-   
    
 ];
 ?>

@@ -8,7 +8,7 @@ $filteredBlogs = array_filter($blogs, function($blog) use ($blogCategoryName) {
 
 <div class="row relatedBlogSection mt-2">
 
-    <h1 class="titleBanner col-12 m-0">
+    <h1 class="titleBanner col-12 m-0 mw-100">
         <?php echo $pageTitle; ?> Related Blogs
     </h1>
 
@@ -19,7 +19,7 @@ $filteredBlogs = array_filter($blogs, function($blog) use ($blogCategoryName) {
                     <img src="./img/<?php echo $data['img'] ?>" alt="blogImage">
                 </a>
                 <div class="contentBox">
-                    <h4 class="my-2"><a href="<?php echo $data['url'] ?>"><?php echo $data['title'] ?></a></h4>
+                    <h4 class="my-2 text-center text-capitalize"><a href="<?php echo $data['url'] ?>"><?php echo $data['title'] ?></a></h4>
                     <p class="my-2"><?php echo $data['excerpt'] ?>....</p>
 
                     <div class="blogCommonCardBottom">
