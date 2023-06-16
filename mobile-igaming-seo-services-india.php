@@ -47,39 +47,39 @@
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/mobileigaming/trafic.png" alt="trafic.png">
                             </div>
                             <div class="contentBox">
-                                <p>Access the data-fueled plans behind</p>
+                                <p>Monthly Website Traffic Delivered </p>
                                 <div class="subContentBox">
-                                    <h3>$3,021,182,299</h3>
-                                    <span>IN CLIENT REVENUE</span>
+                                    <h3>5,00,000+ </h3>
+                                    <span>on Gaming Portals</span>
                                 </div>
                             </div>
                         </div>
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/mobileigaming/revenu.png" alt="revenu.png">
                             </div>
                             <div class="contentBox">
-                                <p>Use the expert-led tactics behind</p>
+                                <p>Monthly Revenue Generated </p>
                                 <div class="subContentBox">
-                                    <h3>7,839,684</h3>
-                                    <span>IN LEADS FOR OUR CLIENTS</span>
+                                    <h3>25,00,000+ </h3>
+                                    <span>Indian Rupees for Clients</span>
                                 </div>
                             </div>
                         </div>
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/mobileigaming/gamer.png" alt="gamer.png">
                             </div>
                             <div class="contentBox">
-                                <p>Unlock do-it-for-me marketing with</p>
+                                <p>Total Games Targeting </p>
                                 <div class="subContentBox">
-                                    <h3>500</h3>
-                                    <span>DIGITAL MARKETING </span>
+                                    <h3>50+ </h3>
+                                    <span>All Are Online Mobile & Desktop Games</span>
                                 </div>
 
                             </div>
@@ -87,13 +87,13 @@
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/mobileigaming/man.png" alt="man.png">
                             </div>
                             <div class="contentBox">
-                                <p>Accelerate ROI with</p>
+                                <p>Total Registered Users </p>
                                 <div class="subContentBox">
-                                    <h3>1B+</h3>
-                                    <span>DATA POINTS FROM MARKETING</span>
+                                    <h3>1,50,000 </h3>
+                                    <span>Signups on Gaming Portals</span>
                                 </div>
 
                             </div>

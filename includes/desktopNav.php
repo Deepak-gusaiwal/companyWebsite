@@ -20,7 +20,7 @@
               <li><a href="/ecommerce-seo-services-india.php">eCommerce SEO Services </a></li>
               <li><a href="/local-seo-services-india.php">Local SEO Services </a></li>
               <li><a href="/seo-for-google-my-business-profile.php">Google Business SEO </a></li>
-              <li><a href="/youtube-channel-seo-optimization-services.php">YouTube SEO </a> </li>
+              <li><a href="/seo-services-for-youtube-video-channel-management.php">YouTube SEO </a> </li>
               <li><a href="/seo-for-startup-companies.php">Startup SEO Services</a></li>
               <li><a href="/aso-app-store-seo-optimization-services.php">ASO Services </a> </li>
               <li><a href="/voice-search-seo-optimization-services-india.php">Voice SEO </a> </li>
@@ -65,7 +65,7 @@
               <a href="/product-category/seo-packages-by-cms.php">SEO Packages by CMS</a>
             </h5>
             <ul class="megaLinksBox">
-          
+
               <li><a href="/product/wordpress-seo-packages.php"> WordPress SEO </a></li>
               <li><a href="/product/shopify-seo-packages.php"> Shopify SEO </a></li>
               <li><a href="/product/magento-seo-packages.php"> Magento SEO</a></li>
@@ -156,22 +156,22 @@
             <div class="megaContentBox">
               <h5>
                 <a href="/product-category/seo-packages-by-marketplaces.php">
-                Marketplaces SEO Pakcages
+                  Marketplaces SEO Pakcages
                 </a>
               </h5>
-             <div class="d-flex gap-4">
-               <ul class="megaLinksBox">
-                <li><a href="/product/amazon-seo-packages.php"> Amazon SEO </a></li>
-                <li><a href="/product/ebay-seo-packages.php"> eBay SEO </a></li>
-                <li><a href="/product/flipkart-seo-packages.php"> Flipkart </a></li>
-                <li><a href="/product/myntra-seo-packages.php"> myntra SEO </a></li>
-              </ul>
-              <ul class="megaLinksBox">
-                 <li><a href="/product/nykaa-seo-packages.php"> nykaa SEO </a></li>
-                 <li><a href="/product/ajio-seo-packages.php"> ajio SEO</a></li>
-                 <li><a href="/product/tata-cliq-seo-packages.php"> tata cliq SEO</a></li>
-               </ul>
-            </div>
+              <div class="d-flex gap-4">
+                <ul class="megaLinksBox">
+                  <li><a href="/product/amazon-seo-packages.php"> Amazon SEO </a></li>
+                  <li><a href="/product/ebay-seo-packages.php"> eBay SEO </a></li>
+                  <li><a href="/product/flipkart-seo-packages.php"> Flipkart </a></li>
+                  <li><a href="/product/myntra-seo-packages.php"> myntra SEO </a></li>
+                </ul>
+                <ul class="megaLinksBox">
+                  <li><a href="/product/nykaa-seo-packages.php"> nykaa SEO </a></li>
+                  <li><a href="/product/ajio-seo-packages.php"> ajio SEO</a></li>
+                  <li><a href="/product/tata-cliq-seo-packages.php"> tata cliq SEO</a></li>
+                </ul>
+              </div>
             </div>
 
             <div class="megaContentBox">
@@ -179,7 +179,7 @@
                 <a href="/product-category/app-store-optimization-packages-by-market-places.php">ASO Packages</a>
               </h5>
               <ul class="megaLinksBox">
-              <!-- <li><a href="/product/app-store-seo-packages.php"> App Store SEO </a></li> -->
+                <!-- <li><a href="/product/app-store-seo-packages.php"> App Store SEO </a></li> -->
                 <li><a href="/product/google-play-store-seo-packages.php"> Google Play Store </a></li>
                 <li><a href="/product/ios-app-seo-packages.php"> IOS app store </a></li>
               </ul>
@@ -242,7 +242,7 @@
               <li><a href="/product/google-ads-packages-for-online-casino-websites.php">Casino </a></li>
               <li><a href="/product/google-ads-packages-for-consulting-firms.php">Consultants/Consultancies</a></li>
               <li><a href="/product/google-ads-packages-for-co-working-space-companies-agencies-websites.php">
-                Coworking Office <a>
+                  Coworking Office <a>
               </li>
               <li><a href="/product/google-ads-packages-for-cyber-security-companies-firms.php">Cyber Security </a></li>
               <li><a href="/product/google-ads-packages-for-data-recovery.php">Data Recovery</a></li>
@@ -477,7 +477,8 @@
           <ul class="dropDownLinks">
             <li><a href="/website-blog-writing-services.php ">Blog Writing </a></li>
             <li><a href="/web-page-service-content-writing-services.php ">Service Page Writing </a></li>
-            <li><a href="/ecommerce-products-description-writing-services.php">Product Content Writing </a><li>
+            <li><a href="/ecommerce-products-description-writing-services.php">Product Content Writing </a>
+            <li>
             <li><a href="/press-release-writing-services.php ">Press Release Writing </a></li>
             <li><a href="/guest-post-writing-services.php ">Guest Post Writing </a></li>
             <li><a href="#">Social Media Post Writing </a></li>
@@ -491,55 +492,11 @@
     </li>
 
     <!-- normal DropDown -->
-    <li class="dropDownToggle">
-      <a href="#" class="navLink">YouTube</a>
-
-      <div class="dropMenuContainer">
-
-        <div class="dropMenu">
-          <!-- <span>
-              <a href="content-writing-services.php">Content Writing</a>
-            </span> -->
-          <ul class="dropDownLinks">
-            <li><a href="#">YouTube SEO </a> </li>
-            <li><a href="#">YouTube Monetization </a> </li>
-            <li><a href="#">YouTube Subscribers </a></li>
-            <li><a href="#">YouTube Watch Hours</a></li>
-          </ul>
-        </div>
-
-      </div>
-
+    <li >
+      <a class="navLink" href="/seo-services-for-youtube-video-channel-management.php">YouTube SEO </a>
     </li>
 
-    <!-- normal DropDown -->
-    <!-- <li class="dropDownToggle">
-        <a href="#" class="navLink">SMM</a>
 
-        <div class="dropMenuContainer">
-
-          <div class="dropMenu">
-            <span>SMM Services</span>
-            <ul class="dropDownLinks">
-              <a href="#">Drop menu 1</a>
-              <a href="#">Drop menu 2</a>
-              <a href="#">Drop menu 3</a>
-              <a href="#">Drop menu 4</a>
-            </ul>
-          </div>
-          <div class="dropMenu">
-            <span>SMM Packages</span>
-            <ul class="dropDownLinks">
-              <li><a href="#">Drop menu 1</a></li>
-              <li><a href="#">Drop menu 2</a></li>
-              <li><a href="#">Drop menu 3</a></li>
-              <li><a href="#">Drop menu 4</a></li>
-            </ul>
-          </div>
-
-        </div>
-
-      </li> -->
 
 
     <!-- Web Design Meaga Drop Down Started -->
@@ -626,7 +583,8 @@
 
 
     <li><a class="navLink" href="/contact-us.php">Contact Us</a></li>
-    <li><a class="navLink" href="/category/blog">Blog</a></li>
+    <li><a class="navLink" href="/blog">Blog</a></li>
+    <li><a class="navLink" href="/career.php">Career</a></li>
   </ul>
 </nav>
 

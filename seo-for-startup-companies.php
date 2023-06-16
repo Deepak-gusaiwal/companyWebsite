@@ -33,8 +33,12 @@
                 <div class="col-md-7">
                     <div
                         class="topContetBox py-2 d-flex flex-column align-items-md-start align-items-center justify-content-center">
-                        <h1>SEO For Startup Companies</h1>
+                        <h1>SEO Services for Startups</h1>
+						<p>Undoubtedly, you have demonstrated immense courage by embarking on the journey of establishing your own startup, <strong>a feat accomplished by a mere 4% of individuals worldwide</strong>. It is crucial to acknowledge that a significant number, <strong>approximately 70%</strong>, unfortunately, face failure primarily due to inadequate implementation of effective marketing strategies. </p>
+
+						<p>Therefore, it is imperative that you safeguard your startup from such a fate. One highly recommended approach is to engage with our esteemed <a href="https://seoserviceinindia.co.in">SEO company</a>. By initiating a discussion about your specific requirements for <strong>startup SEO services</strong>, you can ensure that your website attains prominent positions on leading search engines, thereby facilitating the generation of organic leads for the growth of your startup business.</p>
                       
+                      <p>Recognizing the significance of managing initial expenses for startups, we have meticulously developed cost-effective <strong>startup SEO packages</strong>. These tailored packages are designed to not only help you maintain control over your expenditures but also provide an initial boost in reaching your targeted audience. We understand the importance of making every penny count during this crucial phase of your business, and our thoughtfully curated <strong>SEO Services for Startups</strong> aim to deliver maximum value within your budget.</p>
                         <div class="mt-2">
                             <?php require "./includes/Helpers/productButtonGroup.php"; ?>
                         </div>
@@ -46,39 +50,39 @@
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/startupCompanies/startup.png" alt="startup.png">
                             </div>
                             <div class="contentBox">
-                                <p>Access the data-fueled plans behind</p>
+                                <p>Handling SEO keywords for Startups </p>
                                 <div class="subContentBox">
-                                    <h3>$3,021,182,299</h3>
-                                    <span>IN CLIENT REVENUE</span>
+                                    <h3>30,000+ </h3>
+                                    <span>Of Multiple Industries</span>
                                 </div>
                             </div>
                         </div>
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/startupCompanies/keyword.png" alt="keyword.png">
                             </div>
                             <div class="contentBox">
-                                <p>Use the expert-led tactics behind</p>
+                                <p>Keywords Ranked for Clients </p>
                                 <div class="subContentBox">
-                                    <h3>7,839,684</h3>
-                                    <span>IN LEADS FOR OUR CLIENTS</span>
+                                    <h3>23,000+ </h3>
+                                    <span>for All Clients with Startups</span>
                                 </div>
                             </div>
                         </div>
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/startupCompanies/marketing.png" alt="marketing.png">
                             </div>
                             <div class="contentBox">
-                                <p>Unlock do-it-for-me marketing with</p>
+                                <p>Published Content Marketing Words </p>
                                 <div class="subContentBox">
-                                    <h3>500</h3>
-                                    <span>DIGITAL MARKETING </span>
+                                    <h3>3,50,000+ </h3>
+                                    <span>Words for Articles</span>
                                 </div>
 
                             </div>
@@ -86,13 +90,13 @@
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/startupCompanies/trafic.png" alt="trafic.png">
                             </div>
                             <div class="contentBox">
-                                <p>Accelerate ROI with</p>
+                                <p>Monthly Website Traffic Generated</p>
                                 <div class="subContentBox">
-                                    <h3>1B+</h3>
-                                    <span>DATA POINTS FROM MARKETING</span>
+                                    <h3>7000+</h3>
+                                    <span>Monthly Organic Traffic</span>
                                 </div>
 
                             </div>

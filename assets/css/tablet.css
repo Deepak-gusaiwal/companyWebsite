@@ -209,3 +209,10 @@ nav.mobileNav .mobileNavLink {
   margin-left: 0rem;
   margin-right: 0rem;
 }
+
+
+/* ====================================seoHorizontalTableSection */
+.packageDetailBox div
+{
+  flex: initial;
+}

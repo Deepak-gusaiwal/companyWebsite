@@ -54,39 +54,39 @@
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/googlemybusiness/calls.png" alt="calls.png">
                             </div>
                             <div class="contentBox">
-                                <p>Access the data-fueled plans behind</p>
+                                <p>Potential of Monthly Calls Generations </p>
                                 <div class="subContentBox">
-                                    <h3>$3,021,182,299</h3>
-                                    <span>IN CLIENT REVENUE</span>
+                                    <h3>Over 2,00,000 Calls</h3>
+                                    <span>for Local Business</span>
                                 </div>
                             </div>
                         </div>
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/googlemybusiness/view.png" alt="view.png">
                             </div>
                             <div class="contentBox">
-                                <p>Use the expert-led tactics behind</p>
+                                <p>Monthly Views on GMB Profiles </p>
                                 <div class="subContentBox">
-                                    <h3>7,839,684</h3>
-                                    <span>IN LEADS FOR OUR CLIENTS</span>
+                                    <h3>Over 1,00,000 </h3>
+                                    <span>On Single Profile</span>
                                 </div>
                             </div>
                         </div>
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/googlemybusiness/appoinments.png" alt="appoinments.png">
                             </div>
                             <div class="contentBox">
-                                <p>Unlock do-it-for-me marketing with</p>
+                                <p>Appointments Scheduled So Far </p>
                                 <div class="subContentBox">
-                                    <h3>500</h3>
-                                    <span>DIGITAL MARKETING </span>
+                                    <h3>Over 75,000 </h3>
+                                    <span>Scheduled for Clients </span>
                                 </div>
 
                             </div>
@@ -94,13 +94,13 @@
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/googlemybusiness/website.png" alt="website.png">
                             </div>
                             <div class="contentBox">
-                                <p>Accelerate ROI with</p>
+                                <p>Potential Website Visits from GMB </p>
                                 <div class="subContentBox">
-                                    <h3>1B+</h3>
-                                    <span>DATA POINTS FROM MARKETING</span>
+                                    <h3>Over 30,000</h3>
+                                    <span>Monthly Website Clicks</span>
                                 </div>
 
                             </div>

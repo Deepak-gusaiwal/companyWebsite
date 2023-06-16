@@ -47,7 +47,7 @@
                             <span class="formErrorSpan">Invalid Website URL</span>
                         <?php endif; ?>
                         <input class="form-control <?php echo $websiteUrlErr ? "is-invalid" : ""; ?>" type="text"
-                            name="websiteUrl" id="" placeholder="Website URl">
+                            name="websiteUrl" id="" placeholder="Website URL">
 
                     </div>
                 </div>
@@ -72,14 +72,14 @@
                     <span class="formErrorSpan">Let us know about your budget</span>
                 <?php endif; ?>
                 <input class="form-control <?php echo $budgetErr ? "is-invalid" : ""; ?>" type="text" name="budget"
-                    id="" placeholder="what is your projected monthly budget for this project ?">
+                    id="" placeholder="Your Monthly Marketing Budget?">
 
 
                 <?php if ($messageErr): ?>
                     <span class="formErrorSpan">Type Your Message</span>
                 <?php endif; ?>
                 <textarea class="form-control <?php echo $messageErr ? "is-invalid" : ""; ?>" name="message" id=""
-                    cols="30" rows="2" placeholder="Your ideas "></textarea>
+                    cols="30" rows="2" placeholder="Elaborate Your Requirements Here."></textarea>
 
 
                 <div class="d-flex justify-content-start gap-4 align-items-center flex-wrap">
@@ -168,7 +168,7 @@
                             99%
                         </span>
                         <span>
-                            Client Retntion
+                            Client Retention
                         </span>
                     </div>
                 </div>

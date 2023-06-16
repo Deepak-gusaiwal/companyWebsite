@@ -52,39 +52,39 @@
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/voicesearch/voicesearch.png" alt="voicesearch.png">
                             </div>
                             <div class="contentBox">
-                                <p>Access the data-fueled plans behind</p>
+                                <p>Pages Optimized for the Voice Search </p>
                                 <div class="subContentBox">
-                                    <h3>$3,021,182,299</h3>
-                                    <span>IN CLIENT REVENUE</span>
+                                    <h3>20,000+ </h3>
+                                    <span>Targeted Pages</span>
                                 </div>
                             </div>
                         </div>
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/voicesearch/keyword.png" alt="keyword.png">
                             </div>
                             <div class="contentBox">
-                                <p>Use the expert-led tactics behind</p>
+                                <p>Total Keywords Optimized So Far </p>
                                 <div class="subContentBox">
-                                    <h3>7,839,684</h3>
-                                    <span>IN LEADS FOR OUR CLIENTS</span>
+                                    <h3>65,000+ </h3>
+                                    <span>Long Tail Keywords</span>
                                 </div>
                             </div>
                         </div>
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/voicesearch/leads.png" alt="leads.png">
                             </div>
                             <div class="contentBox">
-                                <p>Unlock do-it-for-me marketing with</p>
+                                <p>Leads Generated from Voice Search </p>
                                 <div class="subContentBox">
-                                    <h3>500</h3>
-                                    <span>DIGITAL MARKETING </span>
+                                    <h3>6000+</h3>
+                                    <span>For all Voice SEO Clients</span>
                                 </div>
 
                             </div>
@@ -92,13 +92,13 @@
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/voicesearch/business.png" alt="business.png">
                             </div>
                             <div class="contentBox">
-                                <p>Accelerate ROI with</p>
+                                <p>Business Generated in Figures </p>
                                 <div class="subContentBox">
-                                    <h3>1B+</h3>
-                                    <span>DATA POINTS FROM MARKETING</span>
+                                    <h3>7,00,000 </h3>
+                                    <span>Indian Rupees for Clients</span>
                                 </div>
 
                             </div>

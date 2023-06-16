@@ -316,3 +316,7 @@ button[type="submit"]:hover,
   transform: rotate(45deg);
   z-index: -1;
   }
+
+  .filter-invert{
+    filter: invert(100%);
+  }

@@ -12,7 +12,7 @@ $facebook = "https://www.facebook.com/SeoServiceInIndia.Co.In";
 $twitter = "https://twitter.com/seoserviceinind";
 $youtube = "https://www.youtube.com/channel/UCSR3H_kD5Z4FY77MPO-lqGQ";
 $linkedin = "https://in.linkedin.com/company/seo-service-in-india";
-$pinterest = "https://in.pinterest.com/seoserviceinind/";
+$pinterest = "https://in.pinterest.com/seoserviceinindia/";
 $instagram = "https://www.instagram.com/seoserviceinindia/";
 $skype = "skype:anubhav.garg7?chat";
 
@@ -93,7 +93,13 @@ $seoToolsLink = " https://seotools.seoserviceinindia.co.in/";
 
   </div>
 
-
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "hh2g8vf0ir");
+</script>
 
 
   <!-- normal Contact form -->
@@ -102,10 +108,26 @@ $seoToolsLink = " https://seotools.seoserviceinindia.co.in/";
 
 
 
-
+<!-- Meta Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '635845548166660');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=635845548166660&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
 
  
-  
+  <meta name="p:domain_verify" content="fe0b563582648996b6192793abce1369"/>
 
 
 

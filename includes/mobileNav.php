@@ -33,7 +33,7 @@
             <li><a href="/ecommerce-seo-services-india.php">eCommerce SEO Services </a></li>
             <li><a href="/local-seo-services-india.php">Local SEO Services </a></li>
             <li><a href="/seo-for-google-my-business-profile.php">Google Business SEO </a></li>
-            <li><a href="/youtube-channel-seo-optimization-services.php">YouTube SEO </a> </li>
+            <li><a href="/seo-services-for-youtube-video-channel-management.php">YouTube SEO </a> </li>
             <li><a href="/seo-for-startup-companies.php">Startup SEO Services</a></li>
             <li><a href="/aso-app-store-seo-optimization-services.php">ASO Services </a> </li>
             <li><a href="/voice-search-seo-optimization-services-india.php">Voice SEO </a> </li>
@@ -308,40 +308,27 @@
         <input type="checkbox" name="" id="ContentWriting">
         <label for="ContentWriting">
           Content Writing
-          <a href="/content-marketing-management-services.php"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+          <a href="/content-marketing-management-services.php"><i class="fa fa-arrow-circle-right"
+              aria-hidden="true"></i></a>
         </label>
 
         <ul class="mobileDropBox">
-        <li><a href="/content-writing-services.php">Content Writing </a></li>
-        <li><a href="/website-blog-writing-services.php ">Blog Writing </a></li>
-            <li><a href="/web-page-service-content-writing-services.php ">Service Page Writing </a></li>
-            <li><a href="/ecommerce-products-description-writing-services.php">Product Content Writing </a><li>
-            <li><a href="/press-release-writing-services.php ">Press Release Writing </a></li>
-            <li><a href="/guest-post-writing-services.php ">Guest Post Writing </a></li>
-            <li><a href="#">Social Media Post Writing </a></li>
-            <li><a href="#">Graphics Content Writing </a> </li>
-            <li><a href="/guest-posting-services-india.php ">Guest Post Submission </a></li>
+          <li><a href="/content-writing-services.php">Content Writing </a></li>
+          <li><a href="/website-blog-writing-services.php ">Blog Writing </a></li>
+          <li><a href="/web-page-service-content-writing-services.php ">Service Page Writing </a></li>
+          <li><a href="/ecommerce-products-description-writing-services.php">Product Content Writing </a>
+          <li>
+          <li><a href="/press-release-writing-services.php ">Press Release Writing </a></li>
+          <li><a href="/guest-post-writing-services.php ">Guest Post Writing </a></li>
+          <li><a href="#">Social Media Post Writing </a></li>
+          <li><a href="#">Graphics Content Writing </a> </li>
+          <li><a href="/guest-posting-services-india.php ">Guest Post Submission </a></li>
 
 
         </ul>
       </li>
       <!-- other section ended -->
-      <!-- other section started -->
-      <li class="mobileDropToggle">
-        <input type="checkbox" name="" id="youtube">
-        <label for="youtube">
-          YouTube
-          <a href="#"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
-        </label>
 
-        <ul class="mobileDropBox">
-        <li><a href="#">YouTube SEO </a> </li>
-            <li><a href="#">YouTube Monetization </a> </li>
-            <li><a href="#">YouTube Subscribers </a></li>
-            <li><a href="#">YouTube Watch Hours</a></li>
-        </ul>
-      </li>
-      <!-- other section ended -->
       <!-- other section started -->
       <li class="mobileDropToggle">
         <input type="checkbox" name="" id="podcast">
@@ -457,58 +444,54 @@
           <input type="checkbox" name="" id="webDesign">
           <label for="webDesign">
             Website Design
-            <a href="#"><i class="fa fa-arrow-circle-right"
-                aria-hidden="true"></i></a>
+            <a href="#"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
           </label>
           <ul class="mobileDropBox">
-          <li><a href="#">Mobile Web Designing</a></li>
-              <li><a href="#"> WordPress Web Designing </a></li>
-              <li><a href="#"> Shopify Web Designing </a></li>
-              <li><a href="#"> CMS Web Designing </a></li>
-              <li><a href="#"> Magento Web Designing </a></li>
-              <li><a href="#"> eCommerce Web Designing </a></li>
-              <li><a href="#"> Portfolio Web Designing </a></li>
-              <li><a href="#"> Website Designing Package </a></li>
+            <li><a href="#">Mobile Web Designing</a></li>
+            <li><a href="#"> WordPress Web Designing </a></li>
+            <li><a href="#"> Shopify Web Designing </a></li>
+            <li><a href="#"> CMS Web Designing </a></li>
+            <li><a href="#"> Magento Web Designing </a></li>
+            <li><a href="#"> eCommerce Web Designing </a></li>
+            <li><a href="#"> Portfolio Web Designing </a></li>
+            <li><a href="#"> Website Designing Package </a></li>
           </ul>
         </div>
 
         <div class="mobileDropBox">
           <input type="checkbox" name="" id="webDevelopment">
           <label for="webDevelopment">Web Development
-            <a href="#"><i class="fa fa-arrow-circle-right"
-                aria-hidden="true"></i></a>
+            <a href="#"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
           </label>
           <ul class="mobileDropBox">
             <li>
               <input type="checkbox" name="" id="ecommerce">
               <label for="ecommerce">ECommerce Website
-                <a href="#"><i
-                    class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
               </label>
               <ul class="mobileDropBox">
-              <li><a href="#">
-                  Shopify
-                  Website</a></li>
-              <li><a href="#">
-                  WordPress Website</a></li>
-              <li><a href="#">
-                  Magento
-                  Website</a></li>
-              <li><a href="#"> OpenCart Website</a></li>
-              <li><a href="#"> Wix Website</a></li>
+                <li><a href="#">
+                    Shopify
+                    Website</a></li>
+                <li><a href="#">
+                    WordPress Website</a></li>
+                <li><a href="#">
+                    Magento
+                    Website</a></li>
+                <li><a href="#"> OpenCart Website</a></li>
+                <li><a href="#"> Wix Website</a></li>
               </ul>
             </li>
             <li>
               <input type="checkbox" name="" id="nonEcommerce">
               <label for="nonEcommerce">Non-eCommerce Website
-                <a href="#"><i class="fa fa-arrow-circle-right"
-                    aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
               </label>
               <ul class="mobileDropBox">
-              <li><a href="#"> Portfolio Website</a></li>
-              <li><a href="#"> Mobile Responsive</a></li>
-              <li><a href="#"> CMS Website</a></li>
-              <li><a href="#"> Wordpress Website</a></li>
+                <li><a href="#"> Portfolio Website</a></li>
+                <li><a href="#"> Mobile Responsive</a></li>
+                <li><a href="#"> CMS Website</a></li>
+                <li><a href="#"> Wordpress Website</a></li>
 
               </ul>
             </li>
@@ -527,9 +510,10 @@
 
 
     </ul>
-
+    <a class="mobileNavLink" href="/seo-services-for-youtube-video-channel-management.php">YouTube SEO </a>
     <a class="mobileNavLink" href="/contact-us.php">Contact</a>
-<a class="navLink" href="/category/blog">Blog</a>
+    <a class="mobileNavLink" href="/blog">Blog</a>
+    <a class="mobileNavLink" href="/career.php">Career</a>
     <!-- mobile mega DropDown -->
   </div>
 

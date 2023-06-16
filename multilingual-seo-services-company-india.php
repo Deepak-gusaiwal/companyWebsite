@@ -57,39 +57,39 @@
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/multilingual/languages.png" alt="languages.png">
                             </div>
                             <div class="contentBox">
-                                <p>Access the data-fueled plans behind</p>
+                                <p>Languages for Multilingual SEO </p>
                                 <div class="subContentBox">
-                                    <h3>$3,021,182,299</h3>
-                                    <span>IN CLIENT REVENUE</span>
+                                    <h3>6+</h3>
+                                    <span>SEO in Different Languages</span>
                                 </div>
                             </div>
                         </div>
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/multilingual/keyword.png" alt="keyword.png">
                             </div>
                             <div class="contentBox">
-                                <p>Use the expert-led tactics behind</p>
+                                <p>Keywords Working On </p>
                                 <div class="subContentBox">
-                                    <h3>7,839,684</h3>
-                                    <span>IN LEADS FOR OUR CLIENTS</span>
+                                    <h3>500+</h3>
+                                    <span>Different Language Keywords</span>
                                 </div>
                             </div>
                         </div>
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/multilingual/trafic.png" alt="trafic.png">
                             </div>
                             <div class="contentBox">
-                                <p>Unlock do-it-for-me marketing with</p>
+                                <p>Traffic Generated </p>
                                 <div class="subContentBox">
-                                    <h3>500</h3>
-                                    <span>DIGITAL MARKETING </span>
+                                    <h3>10,000+ </h3>
+                                    <span>Monthly traffic for Clients </span>
                                 </div>
 
                             </div>
@@ -97,13 +97,13 @@
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/multilingual/revenu.png" alt="revenu.png">
                             </div>
                             <div class="contentBox">
-                                <p>Accelerate ROI with</p>
+                                <p>Revenue Generated </p>
                                 <div class="subContentBox">
-                                    <h3>1B+</h3>
-                                    <span>DATA POINTS FROM MARKETING</span>
+                                    <h3>2,00,000 </h3>
+                                    <span>Indian Rupees Monthly</span>
                                 </div>
 
                             </div>

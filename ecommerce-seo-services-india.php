@@ -5,8 +5,138 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Ecommerce SEO Services</title>
+    
+<title>eCommerce SEO Services, eCommerce SEO India, SEO for eCommerce Websites</title>
+<meta name="title" content="ECommerce SEO Services, eCommerce SEO India, SEO for eCommerce Websites">
+<meta name="description" content="Boost your sales 300X times organically and get visible in front of your customers on the top of Google, Yahoo &amp; Bing. We use all the latest search engine technologies with our eCommerce SEO Services.">
+<meta name="keywords" content="ecommerce seo, ecommerce seo services, ecommerce seo services india, ecommerce seo india, ecommerce seo company, ecommerce seo delhi, ecommerce seo services delhi, best ecommerce seo company, top ecommerce seo india">
+<meta name="robots" content="index, follow">
+<meta name="language" content="English">
+<meta name="revisit-after" content="1 days">
+<meta name="author" content="SEOServiceinIndia.co.in">
 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://seoserviceinindia.co.in/ecommerce-seo-services-india.php"
+  },
+  "headline": "eCommerce SEO Services, eCommerce SEO India, SEO for eCommerce Websites",
+  "description": "https://seoserviceinindia.co.in/assets/img/logo.webp",
+  "image": "https://seoserviceinindia.co.in/assets/img/logo.webp",  
+  "author": {
+    "@type": "Organization",
+    "name": "SEOServiceinIndia.co.in",
+    "url": "https://seoserviceinindia.co.in/ecommerce-seo-services-india.php"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "SEOServiceinIndia.co.in",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://seoserviceinindia.co.in/assets/img/logo.webp"
+    }
+  },
+  "datePublished": "2023-06-02",
+  "dateModified": "2023-06-04"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "eCommerce SEO Services, eCommerce SEO India, SEO for eCommerce Websites",
+  "image": "https://seoserviceinindia.co.in/assets/img/logo.webp",
+  "description": "Boost your sales 300X times organically and get visible in front of your customers on the top of Google, Yahoo & Bing. We use all the latest search engine technologies with our eCommerce SEO Services.",
+  "brand": {
+    "@type": "Brand",
+    "name": "SEOServiceinIndia.co.in"
+  },
+  "sku": "ECOMSEO",
+  "offers": {
+    "@type": "AggregateOffer",
+    "url": "https://seoserviceinindia.co.in/ecommerce-seo-services-india.php",
+    "priceCurrency": "INR",
+    "lowPrice": "12000",
+    "highPrice": "15000",
+    "offerCount": "1"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "10",
+    "bestRating": "10",
+    "worstRating": "1",
+    "ratingCount": "1",
+    "reviewCount": "1"
+  },
+  "review": {
+    "@type": "Review",
+    "name": "Rajendra Bhatt",
+    "reviewBody": "Very genuine professionals offering the SEO services. Very well done team and that's highly appreciated.",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "10",
+      "bestRating": "10",
+      "worstRating": "1"
+    },
+    "author": {"@type": "Person", "name": "SEOServiceinIndia.co.in"},
+    "publisher": {"@type": "Organization", "name": "Google Business Profile"}
+  }
+}
+</script>
+
+ 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "SEOServiceinIndia.co.in",
+  "image": "https://seoserviceinindia.co.in/assets/img/logo.webp",
+  "@id": "https://seoserviceinindia.co.in/assets/img/logo.webp",
+  "url": "https://seoserviceinindia.co.in/ecommerce-seo-services-india.php",
+  "telephone": "+91-9717686168",
+  "priceRange": "12,000 INR to 56,000 INR",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "J-57, RH6, Second Floor, Ramesh Nagar",
+    "addressLocality": "Delhi",
+    "postalCode": "110015",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 28.6515992,
+    "longitude": 77.1299936
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "opens": "00:00",
+    "closes": "23:59"
+  },
+  "sameAs": [
+    "https://www.facebook.com/SeoServiceInIndia.Co.In",
+    "https://twitter.com/seoserviceinind",
+    "https://www.instagram.com/seoserviceinindia/",
+    "https://www.youtube.com/channel/UCSR3H_kD5Z4FY77MPO-lqGQ",
+    "https://in.linkedin.com/company/seo-service-in-india",
+    "https://in.pinterest.com/seoserviceinind/",
+    "https://seoserviceinindia.co.in"
+  ] 
+}
+</script>
     <!-- cssLinks -->
     <?php
     $pageTitle = "Ecommerce SEO Services";
@@ -63,39 +193,39 @@
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/ecommerceSeoService/keyword.png" alt="keyword.png">
                             </div>
                             <div class="contentBox">
-                                <p>Access the data-fueled plans behind</p>
+                                <p>Ranked Keywords in the First Page </p>
                                 <div class="subContentBox">
-                                    <h3>$3,021,182,299</h3>
-                                    <span>IN CLIENT REVENUE</span>
+                                    <h3>26,000+ </h3>
+                                    <span>Client's eCommerce Sites</span>
                                 </div>
                             </div>
                         </div>
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/ecommerceSeoService/revenu.png" alt="revenu.png">
                             </div>
                             <div class="contentBox">
-                                <p>Use the expert-led tactics behind</p>
+                                <p>Generated eCommerce Revenue</p>
                                 <div class="subContentBox">
-                                    <h3>7,839,684</h3>
-                                    <span>IN LEADS FOR OUR CLIENTS</span>
+                                    <h3>10,00,000/-</h3>
+                                    <span>Indian Rupees In Total Sales</span>
                                 </div>
                             </div>
                         </div>
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/ecommerceSeoService/advance.png" alt="advance.png">
                             </div>
                             <div class="contentBox">
-                                <p>Unlock do-it-for-me marketing with</p>
+                                <p>Advanced On-Page eCommerce Practices</p>
                                 <div class="subContentBox">
-                                    <h3>500</h3>
-                                    <span>DIGITAL MARKETING </span>
+                                    <h3>30+</h3>
+                                    <span>On-Page SEO Changes</span>
                                 </div>
 
                             </div>
@@ -103,13 +233,13 @@
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/ecommerceSeoService/offpage.png" alt="offpage.png">
                             </div>
                             <div class="contentBox">
-                                <p>Accelerate ROI with</p>
+                                <p>Generated SEO Off Page Backlinks </p>
                                 <div class="subContentBox">
-                                    <h3>1B+</h3>
-                                    <span>DATA POINTS FROM MARKETING</span>
+                                    <h3>500 Thousand +</h3>
+                                    <span>Total Backlinks Achieved</span>
                                 </div>
 
                             </div>
@@ -125,7 +255,7 @@
 
 <!-- availabe ecommerece packages started -->
 <section class="servicePackageSection">
-    <h1 class="titleBanner">Availabe CMS SEO Packages</h1>
+    <h1 class="titleBanner">All CMS eCommerce SEO Packages</h1>
     <div class="container">
 
     <div class="servicePackageBox ">
@@ -133,7 +263,7 @@
         <img src="./assets/img/services/ecommerceSeoService/wordpress.png" alt="wordpress.png">
         </div>
         <div class="contentBox">
-            <h3>Wordpress eCommerce SEO</h3>
+            <h3>Wordpress eCommerce SEO Package</h3>
             <p>WordPress is a web content management system. It is a tool to publish blogs but has evolved to support publishing other web content, including more traditional websites, mailing lists and Internet forum, media galleries, etc.</p>
             <a href="/product/wordpress-seo-packages.php" class="button">see package</a>
         </div>
@@ -144,7 +274,7 @@
         <img src="./assets/img/services/ecommerceSeoService/magento.png" alt="magento.png">
         </div>
         <div class="contentBox">
-            <h3>magento eCommerce SEO</h3>
+            <h3>magento eCommerce SEO Package</h3>
             <p>Magento is an open-source e-commerce platform written in PHP. It uses multiple other PHP frameworks such as Laminas and Symfony. Magento source code is distributed under Open Software License v3.0. Magento was acquired by Adobe Inc in May 2018 for $1.68 billion</p>
             <a href="/product/magento-seo-packages.php" class="button">see package</a>
         </div>
@@ -155,7 +285,7 @@
         <img src="./assets/img/services/ecommerceSeoService/shopify.png" alt="shoify.png">
         </div>
         <div class="contentBox">
-            <h3>shopify eCommerce SEO</h3>
+            <h3>shopify eCommerce SEO Package</h3>
             <p>Shopify Inc. is a Canadian multinational e-commerce company headquartered in Ottawa, Ontario. Shopify is the name of its proprietary e-commerce platform for online stores and retail point-of-sale systems.</p>
             <a href="/product/shopify-seo-packages.php" class="button">see package</a>
         </div>
@@ -167,7 +297,7 @@
         <img src="./assets/img/services/ecommerceSeoService/wix.png" alt="wix.png">
         </div>
         <div class="contentBox">
-            <h3>wix eCommerce SEO</h3>
+            <h3>wix eCommerce SEO Package</h3>
             <p>Wix.com Ltd. is an Israeli software company, publicly listed in the US, that provides cloud-based web development services. It allows users to create HTML5 websites and mobile sites through the use of online drag and drop tools.</p>
             <a href="/product/wix-seo-packages.php" class="button">see package</a>
         </div>
@@ -227,7 +357,7 @@
             <h2>An SEO Solution That Is Tailored As Per Your Brand</h2>
             <p>We acknowledge the uniqueness of your brand and your business idea that is why we’ll create a customized
                 strategy and approach that will market your brand and business idea the most.</p>
-            <p>Call us at +91-971-7686-168 if you’d like to talk about SEO approaches for your ecommerce.</p>
+            <p>Call us at +91-971-7686-168 if youd like to talk about SEO approaches for your ecommerce.</p>
         </div>
     </div>
 
@@ -242,7 +372,7 @@
                 value.</p>
             <p> <strong>We Improve The U/I Of Entire Website We Remove Other Technical Issues We Increase Website
                     Crawlability
-                    We Optimize & Insert SEO Content We Develop Your Brand Name As “Brand” We Increase Daily Visitors &
+                    We Optimize & Insert SEO Content We Develop Your Brand Name As Brand” We Increase Daily Visitors &
                     Revenues.</strong></p>
         </div>
 
@@ -264,16 +394,16 @@
                 Further, to improve any ecommerce website SEO rankings we consider these five types of keywords
                 strategies:</p>
             <ul>
-                <li><strong>Ranking For ‘Trophy’ Keywords: eCommerce SEO Services India:</strong> Broad, generic
+                <li><strong>Ranking For Trophy Keywords: eCommerce SEO Services India:</strong> Broad, generic
                     keywords which will be tough to rank for but when you do, will bring you masses of traffic. Example:
                     ‘Widgets’.</li>
                 <li><strong> Ranking For ‘Category’ Keywords: eCommerce SEO Services India:</strong>Searches by brand or
                     product type e.g. ‘Acme widgets’. </li>
                 <li><strong>Ranking For Specific Product Keywords: eCommerce SEO Services India:</strong>Specific
                     product searches or part numbers, for example, ‘blue widget 45CF7’.</li>
-                <li><strong>Ranking For High Numbers Of ‘Long Tail’ Information Keywords: eCommerce SEO Services
+                <li><strong>Ranking For High Numbers Of ‘Long Tail Information Keywords: eCommerce SEO Services
                         India:</strong>Highly specific searches which will be low-traffic but high conversion. Example:
-                    ‘Benefits of buying widgets’</li>
+                    Benefits of buying widgets’</li>
                 <li><strong>Ranking For ‘Branded’ Keywords: eCommerce SEO Services India:</strong>Your website should be
                     first every time anyone searches specifically for you – but your blog, social media accounts, videos
                     and positive reviews should also appear on the first page. Example: ‘JDR Widgets Ltd’.</li>

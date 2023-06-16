@@ -133,7 +133,7 @@
             <li><a href="/product/ecommerce-seo-service-packages.php">eCommerce SEO Services</a></li>
             <li><a href="/product/seo-for-restaurants.php">Restaurant SEO Services</a></li>
             <li><a href="/product/seo-for-dentists.php">Dental SEO Company</a></li>
-            <li><a href="/youtube-channel-seo-optimization-services.php">Video SEO Services</a></li>
+            <li><a href="/seo-services-for-youtube-video-channel-management.php">Video SEO Services</a></li>
             <li><a href="/product/seo-for-automotive-automobile-industry.php">Automotive SEO Services</a></li>
             <li><a href="/product/seo-for-manufacturing-companies.php">SEO for Manufacturers</a></li>
             <li><a href="/product/seo-for-online-casino-websites.php">Casino SEO Services</a></li>
@@ -170,6 +170,7 @@
               <li><a href="/pinterest-ads-management-packages.php">Pinterest Ads </a>
               </li>
               <li><a href="/mobile-igaming-ppc-services-india.php">Mobile Gaming Ads </a></li>
+              <li><a href="sitemap.xml">site Map </a></li>
 
         </ul>
 

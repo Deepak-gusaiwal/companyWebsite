@@ -7,6 +7,10 @@
     <span><a href="<?php echo $categoryUrl; ?>"><?php echo $categoryTitle; ?></a></span>
     <span>/</span>
     <?php endif; ?>
+    <?php if(isset($subCategory) && isset($subCategoryUrl)): ?>
+    <span><a href="<?php echo $subCategoryUrl; ?>"><?php echo $subCategory; ?></a></span>
+    <span>/</span>
+    <?php endif; ?>
 
     <span><?php echo $pageTitle; ?></span>
 </div>

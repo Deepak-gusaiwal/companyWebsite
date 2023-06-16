@@ -22,7 +22,7 @@
 
     <div class="col-md-3 col-sm-6">
         <div class="ohterServicesContainer my-2">
-            <a href="/youtube-channel-seo-optimization-services.php" class="iconBox">
+            <a href="/seo-services-for-youtube-video-channel-management.php" class="iconBox">
             <i class="fa fa-youtube-play" aria-hidden="true"></i>
                 <h3>YouTube SEO</h3>
             </a>

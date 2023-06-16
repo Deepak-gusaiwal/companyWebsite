@@ -657,6 +657,14 @@ box-shadow: -2px 2px 4px black;
   position: relative;
   z-index: 1;
 }
+
+
+.contentHolderSection .content a
+{
+ color: blue;
+ text-decoration: underline;
+ font-weight: bold;
+}
 .contentHolderSection::before {
   content: "";
   position: absolute;
@@ -676,9 +684,20 @@ box-shadow: -2px 2px 4px black;
 .content {
   padding: 1rem;
 }
-.contentHolderSection .content li,
-.content li {
+.contentHolderSection .content ul li,
+.content ul li {
   list-style: disc;
+  font-size: 1.2rem;
+  margin-left: 1rem;
+}
+.content ol,
+.content ul
+{
+  padding: 0;
+}
+.contentHolderSection .content ol li,
+.content ol li {
+
   font-size: 1.2rem;
   margin-left: 1rem;
 }
@@ -709,11 +728,13 @@ box-shadow: -2px 2px 4px black;
 .content p {
   font-size: 1.2rem;
   text-align: justify;
+  margin-bottom: 0.5rem;
 }
-.contentHolderSection .content p a,
+/* .contentHolderSection .content p a,
 .content p a {
   font-weight: bold;
-}
+  color: blue;
+} */
 .contentHolderSection .content p a:hover,
 .content p a:hover {
   color: var(--brandColor);
@@ -1432,6 +1453,11 @@ box-shadow: -2px 2px 4px black;
   object-fit: contain;
 }
 
+/* buttonGroup
+.buttonGroup a{
+  color: white;
+  text-decoration: none;
+} */
 /* product Button Group css */
 .productButtonGroup {
   display: flex;
@@ -1763,6 +1789,9 @@ box-shadow: -2px 2px 4px black;
   font-weight: bold;
   padding-inline: 0.5rem;
 }
+.servicesTopContainer .topContetBox p {
+  margin-bottom: 0.5rem;
+}
 
 .serviceTopCard{
   display: flex;
@@ -1828,7 +1857,8 @@ font-weight: bold;
 text-shadow: 2px 2px black;
 text-transform: capitalize;
 margin: 0;
-font-size: 1.5rem;
+font-size: 1.3rem;
+min-width: fit-content;
 }
 .serviceTopCard .contentBox .subContentBox span{
 font-weight: bold;
@@ -1961,25 +1991,57 @@ object-fit: contain;
 .servicePackageBox .contentBox .button:hover::before{
  transform: scale(1.05);
 }
-/* ====================================seoMonthlyPackagesSection */
-.monthlyPackageCard{
+/* ====================================seoHorizontalTableSection */
+
+.seoHorizontalTableWrapper{
+  border-radius: 1.5rem;
+}
+.horizontalTableTitle{
+  background-color: var(--darkBlue);
+  color: white;
+  text-align: center;
+display: flex;
+align-items: center;
+justify-content: center;
+padding-top: 0.5rem;
+border-bottom: 2px solid var(--brandColor);
+
+}
+
+.horizontalTableTitle h1{
+  font-size: max(2vw,1.5rem);
+}
+.seoHorizontalTableWrapper{
+  max-width: max(85%,1150px);
+  margin: 0 auto;
+  overflow: hidden;
+}
+.seoTableCard{
   background-color: var(--darkBlue);
   color: white;
   margin-bottom: 1rem;
   padding: 1rem;
 }
-.monthlyPackageCard *{
+.seoTableCard *{
   padding: 0;
 }
 .packageInfoBox{
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: start;
   padding: 0.5rem;
 }
 .packageInfoBox h1{
   text-transform: uppercase;
   font-size: max(2.1vw,1.8rem);
+  font-weight: bold;
+  background-color: var(--brandColor);
+  color: black;
+  padding-left: 0.5rem;
+}
+.packageInfoBox h3{
+  text-transform: uppercase;
+  font-size: max(1.5vw,1.5rem);
   font-weight: bold;
   background-color: var(--brandColor);
   color: black;
@@ -2004,11 +2066,15 @@ object-fit: contain;
 {
   border-left: 2px solid white;
   padding-left: 1rem;
+  flex: 1;
+}
+.packageDetailBox div ul{
+  padding-left: 0.5rem;
 }
 .packageDetailBox div ul li
 {
 list-style-type: disc;
-list-style-position: inside;
+list-style-position: outside;
 }
 .packageDetailBox div h3
 {
@@ -2034,11 +2100,140 @@ height: 2px;
 .packageDetailBox div a
 {
 text-decoration: underline;
-padding: 0.5rem;
 color: var(--brandColor);
 transition: 200ms;
+}
+.packageDetailBox div >a{
+  padding-left: 0.5rem;
 }
 .packageDetailBox div a:hover
 {
 color: white;
+}
+
+/* ====================================youtube seo packages css seo-services-for-youtube-video-channel-management.php*/
+#basicYoutubeSeoServicePakcages,
+#basicyoutubemanagementpackage{
+  scroll-margin-top:400px;
+}
+#advanceYoutubeSeoServicePakcages,
+#proyoutubeseoservicepackages,
+
+#advanceyoutubemanagementpackage
+{
+  scroll-margin-top:100px;
+}
+
+/* ================================================blog css */
+
+
+/* single blog page css */
+.featuredImageBox{
+max-width: 400px;
+box-shadow: 0px 0px 5px 2px var(--darkBlue);
+border-radius: 0.5rem;
+overflow: hidden;
+margin: 0 auto;
+}
+.blogContentHolder{
+  margin-block: 1rem;
+}
+.blogContentHolder h1,
+.blogContentHolder h2,
+.blogContentHolder h3{
+  background-color: var(--darkBlue);
+  color: white;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+/* ====blogSidebarContainer */
+.blogSidebarContainer{
+  background-color: var(--darkBlue);
+  color: white;
+  padding: 0.8rem;
+  height: 100%;
+}
+.blogSidebarContainer h4{
+  background-color: var(--brandColor);
+  color: black;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+.blogCategorySection ul{
+  padding-left: 1rem;
+}
+.blogCategorySection ul li{
+  list-style: disc ;
+  text-transform: capitalize;
+}
+.blogCategorySection ul li a{
+  transition: 200ms ease;
+}
+.blogCategorySection ul li a:hover{
+  color: var(--brandColor);
+}
+
+.blogAdvertisementContainer{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 1rem;
+margin-top: 1rem;
+}
+
+/* blogCategoriesSection */
+.blogCategoriesSection{
+  border: 4px solid var(--brandColor);
+  border-top: none;
+}
+/* ======recentBlogsSection */
+.recentBlogsSection{
+  border: 4px solid var(--brandColor);
+  border-top: none;
+}
+.blogCommonCard{
+  padding: 0.5rem;
+  background-color: var(--darkBlue);
+  color: white;
+  height: 100%;
+}
+.blogCommonCard a.imgBox{
+  display: flex;
+  height: 200px;
+}
+.blogCommonCard a.imgBox img{
+ width: 100%;
+ height: 100%;
+ object-fit: cover;
+}
+.blogCommonCard a.imgBox.imgcontain img{
+object-fit: contain;
+}
+.blogCommonCard .contentBox h4{
+  border-bottom: 2px solid gray;
+}
+
+.blogCommonCard .contentBox a:hover{
+  color: var(--brandColor);
+}
+.blogCommonCard .contentBox .blogCommonCardBottom{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background-color: var(--brandColor);
+  color: black;
+  padding: 0.5rem;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.blogCommonCard .contentBox .blogCommonCardBottom a{
+  background-color: var(--darkBlue);
+  color: white;
+  padding: 0.2rem 0.9rem;
+  transition: 200ms;
+}
+.blogCommonCard .contentBox .blogCommonCardBottom a:hover{
+transform: scaleX(1.05) skewX(-5deg);
 }

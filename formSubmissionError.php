@@ -9,9 +9,9 @@
 
     <!-- cssLinks -->
     <?php
-
-     require "./includes/cssLinks.php"; 
-     ?>
+    $isProductPage = false;
+    require "./includes/cssLinks.php";
+    ?>
 </head>
 
 <body>
@@ -26,7 +26,8 @@
                 <img src="./assets/img/formSubmissionError/formSubmissionError.webp" alt="">
             </div>
 
-            <div class="formErrorContentBox text-center d-flex justify-contetn-center align-items-center flex-column gap-2 ">
+            <div
+                class="formErrorContentBox text-center d-flex justify-contetn-center align-items-center flex-column gap-2 ">
                 <h2>oops !</h2>
                 <span>Your Contact Form is Not Submitted.</span>
                 <span>Please Fill the form Again with correct format</span>

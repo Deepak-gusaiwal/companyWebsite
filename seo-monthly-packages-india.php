@@ -59,39 +59,39 @@
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/monthleyseo/seoPackages.png" alt="seoPackages.png">
                             </div>
                             <div class="contentBox">
-                                <p>Access the data-fueled plans behind</p>
+                                <p>Total SEO Packages We Offer </p>
                                 <div class="subContentBox">
-                                    <h3>$3,021,182,299</h3>
-                                    <span>IN CLIENT REVENUE</span>
+                                    <h3>500+</h3>
+                                    <span>Multiple SEO Packages</span>
                                 </div>
                             </div>
                         </div>
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/monthleyseo/seopackage.png" alt="seopackage.png">
                             </div>
                             <div class="contentBox">
-                                <p>Use the expert-led tactics behind</p>
+                                <p>You Can opt SEO Package </p>
                                 <div class="subContentBox">
-                                    <h3>7,839,684</h3>
-                                    <span>IN LEADS FOR OUR CLIENTS</span>
+                                    <h3>12,000/- INR </h3>
+                                    <span>For 10 Keywords</span>
                                 </div>
                             </div>
                         </div>
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img src="./assets/img/services/monthleyseo/backlink.png" alt="backlink.png">
                             </div>
                             <div class="contentBox">
-                                <p>Unlock do-it-for-me marketing with</p>
+                                <p>Monthly Backlink Creation Capacity </p>
                                 <div class="subContentBox">
-                                    <h3>500</h3>
-                                    <span>DIGITAL MARKETING </span>
+                                    <h3>90,000+ </h3>
+                                    <span>Manually Every Month</span>
                                 </div>
 
                             </div>
@@ -99,13 +99,13 @@
 
                         <div class="serviceTopCard">
                             <div class="imgBox">
-                                <img src="./assets/img/services/ecommerceSeoService/access.png" alt="access.png">
+                                <img class="filter-invert" src="./assets/img/services/monthleyseo/onpage.png" alt="onpage.png">
                             </div>
                             <div class="contentBox">
-                                <p>Accelerate ROI with</p>
+                                <p>Monthly On-Page Capacity </p>
                                 <div class="subContentBox">
-                                    <h3>1B+</h3>
-                                    <span>DATA POINTS FROM MARKETING</span>
+                                    <h3>700+</h3>
+                                    <span>Page Optimizations Every Month</span>
                                 </div>
 
                             </div>
@@ -147,13 +147,13 @@
 
 
     <!-- seo Mothly packages section started -->
-    <section class="seoMonthlyPackagesSection">
+    <section class="seoHorizontalTableSection">
         <h1 class="titleBanner">SEO Packages India That’ll Bring You Sales in 2023</h1>
         <div class="container">
 
 
             <!-- local seo package card started -->
-            <div class="monthlyPackageCard row">
+            <div class="seoTableCard row">
                 <div class="packageInfoBox col-sm-3">
                     <h1>Local Seo</h1>
                     <span class="pricing">$180-$200/ <span>Per Month</span></span>
@@ -197,7 +197,7 @@
             <!-- local seo package card ended -->
 
             <!-- national package card started -->
-            <div class="monthlyPackageCard row">
+            <div class="seoTableCard row">
                 <div class="packageInfoBox col-sm-3">
                     <h1>National SEO</h1>
                     <span class="pricing">$220 - $300/ <span>Per Month</span></span>
@@ -241,7 +241,7 @@
             <!-- national package card ended -->
 
             <!-- international package card started -->
-            <div class="monthlyPackageCard row">
+            <div class="seoTableCard row">
                 <div class="packageInfoBox col-sm-3">
                     <h1>International SEO</h1>
                     <span class="pricing">$320 - $400/ <span>Per Month</span></span>

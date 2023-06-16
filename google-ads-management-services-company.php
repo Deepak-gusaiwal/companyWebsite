@@ -439,15 +439,6 @@
     <!-- productDetails ended -->
 
 
-
-    <!-- seo weekly checklist section started -->
-    <?php $checkListCardTitle = $pageTitle;
-    $checkListTitile = "$pageTitle Optimization 2023 Checklist";
-
-    require "./includes/googleAdsCheckList.php"; ?>
-    <!-- seo weekly checklist section ended -->
-
-
     <!-- contactSetion started -->
     <?php require "./includes/contactSection.php"; ?>
     <!-- contactSetion ended -->

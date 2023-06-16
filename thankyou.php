@@ -8,9 +8,9 @@
     <title>Seco Service In India</title>
 
     <!-- cssLinks -->
-    <?php 
-
-    require "./includes/cssLinks.php"; 
+    <?php
+    $isProductPage = false;
+    require "./includes/cssLinks.php";
     ?>
 </head>
 
@@ -26,7 +26,8 @@
                 <img src="./assets/img/thankyou/thankyou.webp" alt="">
             </div>
 
-            <div class="thankYouContentBox text-center d-flex justify-contetn-center align-items-center flex-column gap-2 ">
+            <div
+                class="thankYouContentBox text-center d-flex justify-contetn-center align-items-center flex-column gap-2 ">
                 <h2>Thank You</h2>
                 <span>Your Submission has been Received.</span>
                 <span>We will be in touch and contact you within 24 hrs</span>
