@@ -107,11 +107,11 @@
         <ul class="footerLinks p-0">
             <li><a href="/">SEO Services India</a></li>
             <li><a href="/seo-consultants-india.php">SEO Consultant India</a></li>
-            <li><a href="#">SEO Specialists India</a></li>
-            <li><a href="#">SEO Agency India</a></li>
-            <li><a href="#">SEO Experts India</a></li>
-            <li><a href="#">SEO Firm India</a></li>
-            <li><a href="#">SEO Company India</a></li>
+            <li><a href="/seo-specialists-inida.php">SEO Specialists India</a></li>
+            <li><a href="/seo-agency-india.php">SEO Agency India</a></li>
+            <li><a href="/seo-experts-india.php">SEO Experts India</a></li>
+            <li><a href="/seo-firm-india.php">SEO Firm India</a></li>
+            <li><a href="/seo-company-india.php">SEO Company India</a></li>
             <li><a href="/privacy-policy.php">Privacy Policy</a></li>
             <li><a href="/terms-conditions.php">Terms and Conditions</a></li>
             <li><a href="/refund-cancellation.php">Return, Refund and Cancellation</a></li>

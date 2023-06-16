@@ -1,7 +1,7 @@
 <div class=" col-md-3 blogSidebarCol px-2">
     <div class="blogSidebarContainer">
         <div class="blogCategorySection">
-            <h4>Blog Categories</h4>
+            <h4 class="text-center">Blog Categories</h4>
             <ul>
                 <li><a href="/blog/seo.php">SEO</a></li>
                 <li><a href="/blog/ppc.php">PPC</a></li>

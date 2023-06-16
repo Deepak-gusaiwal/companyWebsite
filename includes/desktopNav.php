@@ -481,8 +481,8 @@
             <li>
             <li><a href="/press-release-writing-services.php ">Press Release Writing </a></li>
             <li><a href="/guest-post-writing-services.php ">Guest Post Writing </a></li>
-            <li><a href="#">Social Media Post Writing </a></li>
-            <li><a href="#">Graphics Content Writing </a> </li>
+            <li><a href="/social-media-post-writing-services.php">Social Media Post Writing </a></li>
+            <li><a href="/graphics-content-writing-services.php">Graphics Content Writing </a> </li>
             <li><a href="/guest-posting-services-india.php ">Guest Post Submission </a></li>
           </ul>
         </div>
@@ -508,16 +508,17 @@
         <div class="megaBoxLeft">
 
           <div class="megaContentBox">
-            <h5><a href="#">Website Design</a></h5>
+            <h5><a href="/website-designing-services-company-india.php">Website Design</a></h5>
+
             <ul class="megaLinksBox">
-              <li><a href="#">Mobile Web Designing</a></li>
-              <li><a href="#"> WordPress Web Designing </a></li>
-              <li><a href="#"> Shopify Web Designing </a></li>
-              <li><a href="#"> CMS Web Designing </a></li>
-              <li><a href="#"> Magento Web Designing </a></li>
-              <li><a href="#"> eCommerce Web Designing </a></li>
-              <li><a href="#"> Portfolio Web Designing </a></li>
-              <li><a href="#"> Website Designing Package </a></li>
+              <li><a href="/mobile-responsive-website-designing-services-company-india.php">Mobile Web Designing</a></li>
+              <li><a href="/wordpress-website-designing-services-company-india.php"> WordPress Web Designing </a></li>
+              <li><a href="/shopify-ecommerce-website-designing-services-company-india.php"> Shopify Web Designing </a></li>
+              <li><a href="/cms-based-website-designing-development-packages.php"> CMS Web Designing </a></li>
+              <li><a href="/magento-website-designing-company.php"> Magento Web Designing </a></li>
+              <li><a href="/ecommerce-website-designing-company.php"> eCommerce Web Designing </a></li>
+              <li><a href="/portfolio-website-designing-company.php"> Portfolio Web Designing </a></li>
+              <!-- <li><a href="/magento-website-designing-packages.php"> Website Designing Package </a></li> -->
             </ul>
           </div>
         </div>
@@ -526,41 +527,32 @@
 
         <div class="megaBoxRight">
           <h5>
-            <a href="#">Web
-              Development
-            </a>
+            <a href="/product-category/website-designing-development-packages.php">Web Development</a>
           </h5>
 
           <div class="megaBoxRightWrapper">
             <ul class="megaLinksBox">
               <span>
-                <a href="#">eCommerce
-                  Website</a>
+                <a href="/product-category/ecommerce-website-designing-development-packages.php">eCommerce Website</a>
               </span>
-              <li><a href="#">
-                  Shopify
-                  Website</a></li>
-              <li><a href="#">
-                  WordPress Website</a></li>
-              <li><a href="#">
-                  Magento
-                  Website</a></li>
-              <li><a href="#"> OpenCart Website</a></li>
-              <li><a href="#"> Wix Website</a></li>
+              <li><a href="/shopify-ecommerce-designing-development-packages.php"> Shopify Website</a></li>
+              <li><a href="/wordpress-ecommerce-designing-development-packages.php"> WordPress Website</a></li>
+              <li><a href="/magento-ecommerce-designing-development-packages.php"> Magento Website</a></li>
+              <li><a href="/opencart-website-designing-company.php"> OpenCart Website</a></li>
+              <li><a href="/wix-website-designing-company.php"> Wix Website</a></li>
 
 
             </ul>
 
             <ul class="megaLinksBox">
               <span>
-                <a href="#">Non-eCommerce
-                  Website</a>
+                <a href="/product-category/non-ecommerce-website-designing-packages.php">Non-eCommerce Website</a>
               </span>
 
-              <li><a href="#"> Portfolio Website</a></li>
-              <li><a href="#"> Mobile Responsive</a></li>
-              <li><a href="#"> CMS Website</a></li>
-              <li><a href="#"> Wordpress Website</a></li>
+              <li><a href="/portfolio-website-designing-development-company.php"> Portfolio Website</a></li>
+              <li><a href="/mobile-responsive-website-designing-development-company.php"> Mobile Responsive</a></li>
+              <li><a href="/cms-website-designing-development-company.php"> CMS Website</a></li>
+              <li><a href="/wordpress-website-designing-development-company.php"> Wordpress Website</a></li>
 
             </ul>
 
