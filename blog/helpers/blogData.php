@@ -36,12 +36,21 @@ $blogCategoryArr = [
         "url" => "web-technologies.php",
         "title" => "Web Technologies"
     ],
+    [
+        "img" => "googleads.png",
+        "url" => "google-ads.php",
+        "title" => "Google Ads"
+    ],
+    [
+        "img" => "youtube.png",
+        "url" => "youtube.php",
+        "title" => "YouTube"
+    ],
 ];
 
 
 ?>
 
-<!-- particular category array -->
 <?php
 
 $seoCategoryName = 'seo';
@@ -51,9 +60,12 @@ $contentMarketCategoryName="content marketing";
 $asoCategoryName="aso";
 $googleAlgorithumUpdatesCategoryName="google algorithum updates";
 $webTechnologiesCategoryName="web Technologies";
+$googleAdsCategoryName="Google Ads";
+$youtubeCategoryName="youtube";
 
 // All Blogs
 $blogs = [
+    // ===============SEO=================
     [   "category"=>"$seoCategoryName",
         "img" => "seo/1.png",
         "url" => "what-is-seo.php",
@@ -76,27 +88,44 @@ $blogs = [
         "title" => "what is on-page seo?",
         "excerpt" => "On-page SEO is like giving your website a superpower! It’s all about optimizing the content on your website itself, like using the right "
     ],
-    [   "category"=>"$semCategoryName",
-        "img" => "sem/1.png",
+    // ===================GooleAds==================
+    [   "category"=>"$googleAdsCategoryName",
+        "img" => "googleads/1.png",
         "url" => "what-are-google-ads.php",
         "date"=>"19 june 2023",
         "title" => "What are Google Ads?",
         "excerpt" => "So, you know Google Ads, right? It’s an amazing tool that lets you advertise your business or yourself online. Basically "
     ],
+    [   "category"=>"$googleAdsCategoryName",
+        "img" => "googleads/2.png",
+        "url" => "what-is-search-ads-campaign.php",
+        "date"=>"20 june 2023",
+        "title" => "What is search Ads Campaign?",
+        "excerpt" => "Have you ever seen those text ads that pop up when you search for something on Google? Those are called Search Ads "
+    ],
+    [   "category"=>"$googleAdsCategoryName",
+        "img" => "googleads/3.png",
+        "url" => "what-is-google-display-ads.php",
+        "date"=>"21 june 2023",
+        "title" => "What is Google Display Ads?",
+        "excerpt" => "Hey, do you want to know how to create awesome display ads for your business? Display ads are those Image Ads that "
+    ],
+    // ===============PPC====================
     [   "category"=>"$ppcCategoryName",
         "img" => "ppc/1.png",
         "url" => "what-is-ppc.php",
-        "date"=>"20 june 2023",
+        "date"=>"22 june 2023",
         "title" => "What is PPC?",
         "excerpt" => "Hey, their folks! It’s great to have you back on this digital marketing adventure. So, you might have heard whispers about the mighty PPC "
     ],
     [   "category"=>"$ppcCategoryName",
         "img" => "ppc/2.png",
         "url" => "how-does-ppc-works.php",
-        "date"=>"21 june 2023",
+        "date"=>"23 june 2023",
         "title" => "how does PPC works?",
         "excerpt" => "Absolutely! You’ve hit the nail on the head. PPC is like having the power to create compelling ads that capture the attention of your "
     ],
+   
    
 ];
 ?>

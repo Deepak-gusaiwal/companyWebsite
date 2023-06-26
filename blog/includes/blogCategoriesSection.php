@@ -1,6 +1,6 @@
 <div class="row blogCategoriesSection mt-2">
 
-    <h1 class="titleBanner col-12 m-0 mw-100">Our Blog Categories</h1>
+    <h1 class="titleBanner col-12 m-0 mw-100">Blog Categories</h1>
 
     <?php foreach ($blogCategoryArr as $data): ?>
         <div class="col-md-4 col-sm-6  my-2">

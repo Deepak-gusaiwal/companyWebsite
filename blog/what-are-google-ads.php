@@ -12,8 +12,8 @@
     $pageTitle = "What are Google Ads?";
     $categoryTitle = "Blog";
     $categoryUrl = "/blog";
-    $subCategory = "SEM";
-    $subCategoryUrl = "/blog/sem.php";
+    $subCategory = "google Ads";
+    $subCategoryUrl = "/blog/google-ads.php";
     $isProductPage = true;
     require "../includes/cssLinks.php";
     ?>
