@@ -216,3 +216,30 @@ nav.mobileNav .mobileNavLink {
 {
   flex: initial;
 }
+
+/* blog category google Algorithum page css */
+
+.straightMapContainer{
+  align-items: flex-start;
+}
+.straightMapContainer::before {
+  width: 5px;
+}
+.mapRightDataCol .mapRightDataContentHolder,
+.mapDataContainer:nth-child(even) .mapRightDataCol .mapRightDataContentHolder
+{
+  margin-right: initial;
+}
+.mapDataContainer:nth-child(even) .mapRightDataCol .mapRightDataContentHolder{
+  margin-left: 1rem;
+}
+.mapDataContainer:nth-child(even) .mapRightDataCol{
+  justify-content: flex-start;
+}
+
+.mapLeftDataHead::before{
+  left: -1.1rem;
+}
+.mapLeftDataHead{
+  margin-left: 0.5rem;
+}

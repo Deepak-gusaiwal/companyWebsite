@@ -2284,3 +2284,162 @@ object-fit: contain;
 .blogCommonCard .contentBox .blogCommonCardBottom a:hover{
 transform: scaleX(1.05) skewX(-5deg);
 }
+
+/* blog category google Algorithum page css */
+
+.straightMapContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  isolation: isolate;
+  background-image: url("../../blog/img/categories/googlealgoBg2.png");
+  background-position: center;
+  background-size: contain;
+}
+.straightMapContainer::before{
+  content: "";
+  position: absolute;
+  width: 30px;
+  height: 100%;
+  background-color: var(--darkBlue);
+  z-index: -1;
+}
+/* mapDataContainer */
+.mapDataContainer:nth-child(even){
+  flex-direction: row-reverse;
+}
+/* mapLeftDataContainer */
+.mapLeftDataContainer{
+  position: relative;
+}
+/* map head */
+.mapLeftDataHead{
+  background-color: var(--darkBlue);
+  color: white;
+  font-weight: bold;
+  border: 2px solid var(--brandColor);
+  box-shadow: 0px 0px 2px 2px black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  isolation: isolate;
+  margin-right: 0.5rem;
+}
+.mapLeftDataHead::before{
+  content: "";
+  position: absolute;
+  background-color: var(--darkBlue);
+  width: 15px;
+  height:5px;
+  right: -1.1rem;
+}
+.mapDataContainer:nth-child(even) .mapLeftDataHead{
+  margin-left: 0.5rem;
+}
+.mapDataContainer:nth-child(even) .mapLeftDataHead::before{
+  right: initial;
+  left: -1.1rem;
+}
+.mapLeftDataHead label{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 2rem;
+  font-size: 1.4rem;
+  cursor: pointer;
+}
+.mapLeftDataHead label::before{
+  content: "\002B";
+  position: absolute;
+  left: 0;
+  margin-inline: 0.8rem;
+  background-color: var(--brandColor);
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  color: black;
+  font-weight: bold;
+  border: 2px solid var(--darkBlue);
+  box-shadow: 0px 0px 2px 2px var(--brandColor);
+}
+.mapLeftDataContent{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 0.8rem;
+  background-color: var(--darkBlue);
+  color: white;
+  border: 2px solid var(--brandColor);
+  box-shadow: 0px 0px 2px 2px black;
+ visibility: hidden;
+ opacity: 0;
+ height: 0;
+ transition: 200ms ease-in;
+}
+.mapLeftDataContainer input:checked~ .mapLeftDataContent
+{
+  height: 250px;
+  opacity: 1;
+  visibility: visible;
+}
+.mapLeftDataContainer input:checked~ .mapLeftDataHead label::before{
+  content: "\2212";
+}
+.mapLeftDataContent h4{
+  border-bottom: 2px solid var(--brandColor);
+}
+.mapLeftDataContent a{
+  background-color: var(--brandColor);
+  color: black;
+  font-weight: bold;
+  text-transform: capitalize;
+  padding: 0.4rem 0.8rem;
+  max-width: fit-content;
+}
+/* mapRightDataContentHolder */
+.mapRightDataCol{
+  display: flex;
+  justify-content: flex-start;
+  align-items: start;
+
+}
+.mapDataContainer:nth-child(even) .mapRightDataCol{
+justify-content: flex-end;
+}
+.mapRightDataContentHolder{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--darkBlue);
+  color: white;
+  padding: 0.5rem;
+  padding-left: 1.5rem;
+  text-transform: capitalize;
+  font-style: italic;
+  width: 80%;
+  border: 2px solid var(--brandColor);
+  box-shadow: 0px 0px 2px 2px rgba(0, 0, 0, 0.384);
+  border-left: 0;
+  border-right: 0;
+  margin-left: 1rem;
+}
+.mapDataContainer:nth-child(even) .mapRightDataCol .mapRightDataContentHolder{
+  margin-left: initial;
+  margin-right: 0.9rem;
+}
+.mapRightDataContentHolder ul li{
+list-style-type: disc;
+text-align: center;
+}
+.mapRightDataContentHolder ul li a:hover{
+  color: var(--brandColor);
+}

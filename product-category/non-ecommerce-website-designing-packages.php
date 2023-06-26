@@ -37,17 +37,17 @@
         [
             "img" => "webdevelopment/nonecommerce/responsivewesbite.png",
             "title" => "Mobile Responsive",
-            "url" => "/mobile-responsive-website-designing-company.php",
+            "url" => "/mobile-responsive-website-designing-development-company.php",
         ],
         [
             "img" => "webdevelopment/nonecommerce/cms.png",
             "title" => "CMS Website",
-            "url" => "/cms-website-designing-company.php",
+            "url" => "/cms-website-designing-development-company.php",
         ],
         [
             "img" => "webdevelopment/nonecommerce/wordpress.png",
             "title" => "Wordpress Website",
-            "url" => "/wordpress-website-designing-company.php",
+            "url" => "/wordpress-website-designing-development-company.php",
         ]
 
     ]

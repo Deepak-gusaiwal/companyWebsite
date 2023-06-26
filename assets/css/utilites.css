@@ -244,6 +244,9 @@ button[type="submit"]:hover,
 .skypeColor {
   color: var(--skype);
 }
+.brandColor{
+  color: var(--brandColor);
+}
 
 .darkBlueBg {
   background-color: #130087;
