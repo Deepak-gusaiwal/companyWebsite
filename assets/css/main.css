@@ -2243,7 +2243,7 @@ margin-top: 1rem;
 }
 .blogCommonCard a.imgBox{
   display: flex;
-  height: 200px;
+  height: 160px;
 }
 .blogCommonCard a.imgBox img{
  width: 100%;
