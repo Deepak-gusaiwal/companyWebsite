@@ -110,15 +110,15 @@
 			The Panda Update is still relevant in 2023 for SEOs because it established the importance of quality as a key ranking factor. It also influenced many subsequent updates that Google has made to its search algorithm. Some of them are:</p>
 		<ul>
 			<li>
-				The Penguin Algorithm (2012), which penalized unnatural links and rewarded natural links.</li>
+				<strong>The Penguin Algorithm (2012),</strong> which penalized unnatural links and rewarded natural links.</li>
 			<li>
-				The Hummingbird Algorithm (2013), which improved Google&#39;s understanding of natural language and user intent.</li>
+				<strong>The Hummingbird Algorithm (2013),</strong> which improved Google&#39;s understanding of natural language and user intent.</li>
 			<li>
-				The Mobile-Friendly Algorithm (2015), which boosted mobile-friendly pages in mobile search results.</li>
+				<strong>The Mobile-Friendly Algorithm (2015),</strong> which boosted mobile-friendly pages in mobile search results.</li>
 			<li>
-				The RankBrain Algorithm (2015), which used machine learning to better interpret complex queries.</li>
+				<strong>The RankBrain Algorithm (2015),</strong> which used machine learning to better interpret complex queries.</li>
 			<li>
-				The Core Web Vitals Algorithm (2021), which measured user experience based on page loading speed, interactivity, and visual stability.</li>
+				<strong>The Core Web Vitals Algorithm (2021),</strong> which measured user experience based on page loading speed, interactivity, and visual stability.</li>
 		</ul>
 		<p>
 			All these updates have built upon the principles and capabilities of the Panda Update. Therefore, SEOs should still follow the best practices that were established by the Panda Update: creating high-quality content that satisfies user needs and expectations.</p>

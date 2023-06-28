@@ -49,8 +49,7 @@
 			Google&#39;s Penguin Update: Relevance, Impact and SEO Best Practices</h1>
 		<p>
 			In the dynamic world of search engine optimization (SEO), staying up to date with Google&#39;s algorithm updates is crucial for website owners and digital marketers. One significant update that had a substantial impact on SEO practices is Google&#39;s Penguin Update. Today, we will explore the key aspects of the Penguin Update, its historical context, its effects on sites and SEOs at the time of its rollout, and its relevance for SEOs in 2023.</p>
-		<p>
-			<strong>What is Google Penguin Update and When Did It Take Off?</strong></p>
+		<h2>What is Google Penguin Update and When Did It Take Off?</h2>
 		<p>
 			Google&#39;s Penguin Update, initially referred to as Penguin 1.0, was first announced on April 24, 2012. It marked a significant shift in Google&#39;s algorithm and its approach to combating webspam.</p>
 		<h2>

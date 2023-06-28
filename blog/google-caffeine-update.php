@@ -83,17 +83,17 @@
 			The Caffeine Update is still relevant in 2023 for SEOs because it laid the foundation for many subsequent updates that Google has made to its search algorithm. Some of them are:</p>
 		<ul>
 			<li>
-				The Freshness Algorithm (2011), which gave more weight to fresh content for certain queries.</li>
+				<strong>The Freshness Algorithm (2011),</strong> which gave more weight to fresh content for certain queries.</li>
 			<li>
-				The Panda Algorithm (2011), which penalized low-quality content and rewarded high-quality content.</li>
+				<strong>The Panda Algorithm (2011),</strong> which penalized low-quality content and rewarded high-quality content.</li>
 			<li>
-				The Hummingbird Algorithm (2013), which improved Google&#39;s understanding of natural language and user intent.</li>
+				<strong>The Hummingbird Algorithm (2013),</strong> which improved Google&#39;s understanding of natural language and user intent.</li>
 			<li>
-				The Mobile-Friendly Algorithm (2015), which boosted mobile-friendly pages in mobile search results.</li>
+				<strong>The Mobile-Friendly Algorithm (2015),</strong> which boosted mobile-friendly pages in mobile search results.</li>
 			<li>
-				The RankBrain Algorithm (2015), which used machine learning to better interpret complex queries.</li>
+				<strong>The RankBrain Algorithm (2015),</strong> which used machine learning to better interpret complex queries.</li>
 			<li>
-				The Core Web Vitals Algorithm (2021), which measured user experience based on page loading speed, interactivity, and visual stability.</li>
+				<strong>The Core Web Vitals Algorithm (2021),</strong> which measured user experience based on page loading speed, interactivity, and visual stability.</li>
 		</ul>
 		<p>
 			All these updates have built upon the principles and capabilities of the Caffeine Update. Therefore, SEOs should still follow the best practices that were established by the Caffeine Update: creating fresh, diverse, and high-quality content that satisfies user needs and expectations.</p>

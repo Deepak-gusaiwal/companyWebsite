@@ -49,8 +49,7 @@
 			Google Hummingbird Update: Relevance, Rewards and SEO Best Practices</h1>
 		<p>
 			Google Hummingbird Update is a major algorithm change that Google introduced in 2013. It was designed to improve the quality and relevance of Google&#39;s search results, especially for natural language queries and conversational search. Hummingbird enabled Google to understand the meaning and context of a query, rather than just matching keywords to web pages.</p>
-		<p>
-			<strong>What is Google Pigeon Update and When Did It Take Off? </strong></p>
+		<h2>What is Google Pigeon Update and When Did It Take Off? </h2>
 		<p>
 			Google&#39;s Hummingbird Update was implemented in August 2013 and announced one month later, in September 2013. It was the biggest change to Google&#39;s algorithm since 2001, and it affected about 90% of all searches worldwide.</p>
 		<h2>

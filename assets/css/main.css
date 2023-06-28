@@ -2252,10 +2252,11 @@ margin-top: 1rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  
 }
 .blogCommonCard a.imgBox{
   display: flex;
-  height: 180px;
+  aspect-ratio: 16/7;
 }
 .blogCommonCard a.imgBox img{
  width: 100%;
