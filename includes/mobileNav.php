@@ -201,7 +201,7 @@
           <input type="checkbox" name="" id="ppcServices">
           <label for="ppcServices">
             PPC Services
-            <a href="ppc-pay-per-click-services-india.php"><i class="fa fa-arrow-circle-right"
+            <a href="/ppc-pay-per-click-services-india.php"><i class="fa fa-arrow-circle-right"
                 aria-hidden="true"></i></a>
           </label>
           <ul class="mobileDropBox">

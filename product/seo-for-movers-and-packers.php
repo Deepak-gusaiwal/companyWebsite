@@ -11,7 +11,7 @@
     <?php
     $pageTitle = "SEO For Movers And Packers";
     $categoryTitle = "SEO Packages By Industry";
-    $categoryUrl = "product-category/seo-packages-by-industies";
+    $categoryUrl = "/product-category/seo-packages-by-industies.php";
     $isProductPage=true;
     require "../includes/cssLinks.php";
     ?>

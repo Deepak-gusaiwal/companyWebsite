@@ -11,7 +11,7 @@
     <?php
     $pageTitle = "listen notes Podcast submissions";
     $categoryTitle = "podcast";
-    $categoryUrl = "product-category/podcast";
+    $categoryUrl = "/seo-podcast-submission-services-india.php";
     $isProductPage = true;
     require "../includes/cssLinks.php";
     ?>

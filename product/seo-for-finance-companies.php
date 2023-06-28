@@ -11,7 +11,7 @@
     <?php
     $pageTitle = "SEO For Finance Companies";
     $categoryTitle = "SEO Packages By Industry";
-    $categoryUrl = "product-category/seo-packages-by-industies";
+    $categoryUrl = "/product-category/seo-packages-by-industies.php";
     $isProductPage = true;
     require "../includes/cssLinks.php";
     ?>

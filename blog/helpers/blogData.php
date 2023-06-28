@@ -88,6 +88,13 @@ $blogs = [
         "title" => "what is on-page seo?",
         "excerpt" => "On-page SEO is like giving your website a superpower! It’s all about optimizing the content on your website itself, like using the right "
     ],
+    [   "category"=>"$seoCategoryName",
+        "img" => "seo/4.png",
+        "url" => "google-generative-ai-a-helpful-feature.php",
+        "date"=>"28 june 2023",
+        "title" => "Google’s Generative AI..?",
+        "excerpt" => "Generative AI, the upcoming breakthrough technology, is set to revolutionize the landscape for local business owners, providing them  "
+    ],
     // ===================GooleAds==================
     [   "category"=>"$googleAdsCategoryName",
         "img" => "googleads/1.png",
@@ -109,6 +116,13 @@ $blogs = [
         "date"=>"21 june 2023",
         "title" => "What is Google Display Ads?",
         "excerpt" => "Hey, do you want to know how to create awesome display ads for your business? Display ads are those Image Ads that "
+    ],
+    [   "category"=>"$googleAdsCategoryName",
+        "img" => "googleads/4.png",
+        "url" => "what-are-google-shopping-ads.php",
+        "date"=>"28 june 2023",
+        "title" => "What are Google Shopping Ads?",
+        "excerpt" => "Have you ever wondered why we see a bunch of ads after we search for something on Google? Those right there are Google Shopping Ads "
     ],
     // ===============PPC====================
     [   "category"=>"$ppcCategoryName",

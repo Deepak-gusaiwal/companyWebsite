@@ -170,7 +170,7 @@
               <li><a href="/pinterest-ads-management-packages.php">Pinterest Ads </a>
               </li>
               <li><a href="/mobile-igaming-ppc-services-india.php">Mobile Gaming Ads </a></li>
-              <li><a href="sitemap.xml">site Map </a></li>
+              <li><a href="/sitemap.xml">site Map </a></li>
 
         </ul>
 

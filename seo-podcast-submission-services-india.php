@@ -11,7 +11,7 @@
     <?php
     $pageTitle = "Podcast Submissions";
     // $categoryTitle = "Podcast Services";
-    // $categoryUrl = "product-category/seo-packages-by-industies";
+    // $categoryUrl = "/product-category/seo-packages-by-industies.php";
     $isProductPage = false;
     require "./includes/cssLinks.php";
     ?>

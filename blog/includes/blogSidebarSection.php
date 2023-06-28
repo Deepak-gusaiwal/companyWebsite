@@ -14,10 +14,10 @@
         </div>
 
         <div class="blogAdvertisementContainer">
-            <a href="">
-                space for advertisement
+            <a href="/contact-us.php">
+                <img src="./img/blogsidebar/adv1.png" alt="adv1.png"/>
             </a>
-            <a href="">
+            <a href="/contact-us.php">
                 space for advertisement
             </a>
         </div>
@@ -53,10 +53,10 @@
         </div>
 
         <div class="blogAdvertisementContainer stickyBlogAdBox">
-            <a href="">
+            <a href="/contact-us.php">
                 space for advertisement
             </a>
-            <a href="">
+            <a href="/contact-us.php">
                 space for advertisement
             </a>
         </div>

@@ -182,7 +182,7 @@
 				
                 <p>Our skilled <strong>Indian SEO Company</strong> professionals are well-equipped to provide game-changing strategies and solutions tailored to your specific business needs. With their wealth of knowledge and expertise, they can effectively implement cutting-edge techniques to improve your online visibility, increase website traffic, and generate tangible results.</p>
 				
-                <p>By entrusting your SEO requirements to our dedicated team, you can tap into their wealth of experience and leverage their skills to achieve substantial business growth. Our professionals are committed to staying up-to-date with the latest industry trends and best practices, ensuring that your business receives the most effective and innovative solutions available.</p>
+            <p>By entrusting your SEO requirements to our dedicated team, you can tap into their wealth of experience and leverage their skills to achieve substantial business growth. Our professionals are committed to staying up-to-date with the latest industry trends and best practices, ensuring that your business receives the most effective and innovative solutions available.</p>
 				
                 <p>Partnering with <strong>India's Top SEO Company</strong> and our team of seasoned professionals can be a game-changer for your business, propelling it towards new heights of success.</p>
             </div>
