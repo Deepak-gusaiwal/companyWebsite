@@ -54,10 +54,14 @@
             <img src="./img/blogimages/what-is-search-ads-campaign2.png"/>
 		<h2>
 			There Are Two Kinds of Shopping Ads You Can Create:</h2>
-		<p>
-			Product Shopping Ads: These ads show one product at a time, with its photo, title, price, and store name. You can create these ads by providing your product data in your Merchant Center account.</p>
-		<p>
-			Local Inventory Ads: These ads show products that you have in stock at your nearby stores. They&rsquo;re perfect for attracting local customers who want to buy from you in person. You can create these ads by providing your local product data and inventory in your Merchant Center account.</p>
+            <ul>
+                
+		<li>
+			<strong>Product Shopping Ads:</strong> These ads show one product at a time, with its photo, title, price, and store name. You can create these ads by providing your product data in your Merchant Center account.</li>
+		<li>
+			<strong>Local Inventory Ads:</strong> These ads show products that you have in stock at your nearby stores. They&rsquo;re perfect for attracting local customers who want to buy from you in person. You can create these ads by providing your local product data and inventory in your Merchant Center account.</li>
+            
+            </ul>
 		<p>
 			Both kinds of Shopping Ads can help you reach more customers who are searching for products like yours on Google. And if you want to take it to the next level, you can use Performance Max campaigns with your Merchant Center feed. This way, you can create Shopping Ads along with other types of ads that show up on different places on Google, like YouTube, Gmail, or Discover.</p>
 		<h2>

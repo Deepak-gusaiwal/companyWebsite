@@ -691,7 +691,9 @@
     ?>
 
     <div class="container strightMapWrapper">
-
+        <div class="featuredImageBox">
+            <img src="./img/googlealgorithumupdates/googleAlgorithumFeaturedImage.png" alt="googleAlgorithumFeaturedImage.png">
+        </div>
         <h2 class="titleBanner mb-0">
             <?php echo $pageTitle ?>
         </h2>

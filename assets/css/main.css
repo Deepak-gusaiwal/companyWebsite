@@ -2164,6 +2164,13 @@ margin: 0 auto;
   margin-bottom: 0.8rem;
 
 }
+.blogContentHolder a{
+  color: blue;
+  font-weight: bold;
+}
+.blogContentHolder a:hover{
+  color: var(--brandColor);
+}
 
 /* ====blogSidebarContainer */
 
@@ -2299,7 +2306,12 @@ transform: scaleX(1.05) skewX(-5deg);
 }
 
 /* blog category google Algorithum page css */
-
+.featuredImageBox{
+  margin: 1rem auto;
+  max-width: 800px;
+  border-radius: 0.5rem;
+  box-shadow: 0px 0px 10px 2px var(--darkBlue);
+}
 .straightMapContainer{
   display: flex;
   flex-direction: column;

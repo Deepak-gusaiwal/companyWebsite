@@ -5,15 +5,15 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>what is ppc?</title>
+    <title>What is a Summary Twitter Card?</title>
 
     <!-- cssLinks -->
     <?php
-    $pageTitle = "what is PPC?";
+    $pageTitle = "What is a Summary Twitter Card?";
     $categoryTitle = "Blog";
     $categoryUrl = "/blog";
-    $subCategory = "PPC";
-    $subCategoryUrl = "/blog/ppc.php";
+    $subCategory = "SEO";
+    $subCategoryUrl = "/blog/seo.php";
     $isProductPage = true;
     require "../includes/cssLinks.php";
     ?>
@@ -42,32 +42,35 @@
                         <?php echo $pageTitle; ?>
                     </h2>
                     <div class="featuredImageBox">
-                        <img src="./img/ppc/1.png" alt="blog images">
+                        <img src="./img/seo/10.png" alt="10.png">
                     </div>
                     <div class="blogContentHolder">
-                        <h1>
-                            What is PPC?</h1>
-                        <p>
-                            Hey, their folks! It&rsquo;s great to have you back on this digital marketing adventure. So,
-                            you might have heard whispers about the mighty PPC, haven&#39;t you?? Well, whether you have
-                            heard about it or not, allow me to give you more insight into PPC.</p>
-                        <p>
-                            If I tell you that PPC is a game changer for businesses that are looking to supercharge
-                            their growth, will you believe me?</p>
-                        <h2>There is so much to discover in this adventure. Let me show you!</h2>
-                        <p>
-                            PPC stands for &quot;Pay Per Click,&quot; and it&rsquo;s a powerful advertising model that
-                            can take your business to new heights. If you want more leads for your business, PPC ads are
-                            a great way to go. Basically, it&#39;s a digital advertising model where you pay a fee every
-                            time someone clicks on your ad. It&#39;s a cost-effective way to drive visitors to your
-                            website, and if done right, the benefits can be phenomenal!</p>
-                        <p>
-                            To make it easier, let&rsquo;s say you own a business website that you need to grow in this
-                            online world. SEO might look like an affordable option for this venture. But getting results
-                            takes time with SEO. If you have the time to survive in the market until you start getting
-                            organic results, you can go for this practice. Otherwise, PPC is another way you can choose
-                            to get the expected results.</p>
-
+                    <h1>
+			What is a Summary Twitter Card?</h1>
+		<p>
+			Do you like to share your stuff on Twitter? If you do, you may have seen some tweets that show a cool preview of the link they have, with a title, description, and image. These are called Summary cards, and they make your tweets look awesome and inviting.</p>
+		<img src="./img/blogimages/what-is-a-summary-twitter-card.png" alt="">
+		<p>
+			Summary cards are a kind of Twitter card, which is a thing that lets you add rich media to your tweets. You can create them by putting some meta tags on your webpage. Meta tags are bits of code that tell Twitter what kind of card you want and what info to put on it. When you or someone else tweets a link to your content, the card will show up below the tweet, so people can see what it&#39;s about before they click on it.</p>
+		<p>
+			Summary cards work well for many types of web content, like blog posts, news articles, products, or restaurants. They can help you get more people to visit your website, know your brand, and rank higher on Google. They also make your posts look consistent across different platforms and devices.</p>
+		<h2>
+			Key Features of Summary Cards</h2>
+		<p>
+			Here are some of the key features of a summary card:</p>
+		<ul>
+			<li>
+				The title is displayed prominently at the top of the card.</li>
+			<li>
+				The thumbnail image is displayed below the title.</li>
+			<li>
+				The description is displayed below the image.</li>
+			<li>
+				The card is linked to the original content, so users can click on it to view it in full.</li>
+		</ul>
+		<p>
+			Summary cards are a great way to promote your content on Twitter. They can help to attract more attention to your tweets, increase the click-through rate (CTR) of your links, and drive traffic to your website.</p>
+	
                     </div>
                 </div>
 

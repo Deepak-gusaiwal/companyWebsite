@@ -57,21 +57,29 @@
                             apps, and video content that covers over 90% of the internet users in the world. You can
                             choose who sees your ads based on what they&rsquo;re interested in, or if they&rsquo;ve
                             visited your website before.</p>
-                      
-                            <img src="./img/blogimages/what-is-google-display-ads-1.png" />
-                            <img src="./img/blogimages/what-is-google-display-ads-2.png" />
+
+                        <img src="./img/blogimages/what-is-google-display-ads-1.png" />
+                        <img src="./img/blogimages/what-is-google-display-ads-2.png" />
                         <h2>
                             Types of Google Display Ads:</h2>
                         <p>
                             There are two kinds of display ads you can use in a Display campaign:</p>
-                        <p>
-                            Uploaded Display Ads: These are ads that you make and upload yourself using specific sizes
-                            and formats. You have more control over how they look, but they might not fit everywhere or
-                            on every device.</p>
-                        <p>
-                            Responsive Display Ads: These are ads that Google makes and changes for you using things
-                            that you give them, like headlines, descriptions, images, and logos. You have less control
-                            over how they look, but they can change to fit anywhere or on any device.</p>
+                        <ul>
+                            <li>
+                                <strong>Uploaded Display Ads:</strong> These are ads that you make and upload yourself
+                                using specific sizes
+                                and formats. You have more control over how they look, but they might not fit everywhere
+                                or
+                                on every device.
+                            </li>
+                            <li>
+                                <strong> Responsive Display Ads:</strong> These are ads that Google makes and changes
+                                for you using things
+                                that you give them, like headlines, descriptions, images, and logos. You have less
+                                control
+                                over how they look, but they can change to fit anywhere or on any device.
+                            </li>
+                        </ul>
                         <h2>
                             Pros and Cons of Google&#39;s Display Ads</h2>
                         <p>

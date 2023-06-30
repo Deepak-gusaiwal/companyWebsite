@@ -42,7 +42,7 @@
                         <?php echo $pageTitle; ?>
                     </h2>
                     <div class="featuredImageBox">
-                        <img src="./img/sem/1.png" alt="blog images">
+                        <img src="./img/googleads/1.png" alt="blog images">
                     </div>
                     <div class="blogContentHolder">
                         <h1>
@@ -60,14 +60,14 @@
                             visibility. These are some of the google ads you can pick from:</p>
                         <ul>
                             <li>
-                                Search Ads: Show up on Google when someone searches for relevant keywords</li>
+                                <strong>Search Ads:</strong> Show up on Google when someone searches for relevant keywords</li>
                             <li>
-                                Display Ads: Show up on other websites that are part of the Google network</li>
+                                <strong>Display Ads:</strong> Show up on other websites that are part of the Google network</li>
                             <li>
-                                Shopping Ads: Show your products with images and prices on Google Shopping or other
+                                <strong>Shopping Ads:</strong> Show your products with images and prices on Google Shopping or other
                                 sites</li>
                             <li>
-                                YouTube Ads: Show your videos before, during, or after other YouTube videos</li>
+                                <strong>YouTube Ads:</strong> Show your videos before, during, or after other YouTube videos</li>
                         </ul>
                         <h2>
                             Why Google Ads is Like Having Your Own Marketing Superhero?</h2>

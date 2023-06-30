@@ -5,15 +5,15 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>what is ppc?</title>
+    <title>What is Player Card?</title>
 
     <!-- cssLinks -->
     <?php
-    $pageTitle = "what is PPC?";
+    $pageTitle = "What is Player Card?";
     $categoryTitle = "Blog";
     $categoryUrl = "/blog";
-    $subCategory = "PPC";
-    $subCategoryUrl = "/blog/ppc.php";
+    $subCategory = "SEO";
+    $subCategoryUrl = "/blog/seo.php";
     $isProductPage = true;
     require "../includes/cssLinks.php";
     ?>
@@ -42,32 +42,36 @@
                         <?php echo $pageTitle; ?>
                     </h2>
                     <div class="featuredImageBox">
-                        <img src="./img/ppc/1.png" alt="blog images">
+                        <img src="./img/seo/8.png" alt="8.png">
                     </div>
                     <div class="blogContentHolder">
-                        <h1>
-                            What is PPC?</h1>
-                        <p>
-                            Hey, their folks! It&rsquo;s great to have you back on this digital marketing adventure. So,
-                            you might have heard whispers about the mighty PPC, haven&#39;t you?? Well, whether you have
-                            heard about it or not, allow me to give you more insight into PPC.</p>
-                        <p>
-                            If I tell you that PPC is a game changer for businesses that are looking to supercharge
-                            their growth, will you believe me?</p>
-                        <h2>There is so much to discover in this adventure. Let me show you!</h2>
-                        <p>
-                            PPC stands for &quot;Pay Per Click,&quot; and it&rsquo;s a powerful advertising model that
-                            can take your business to new heights. If you want more leads for your business, PPC ads are
-                            a great way to go. Basically, it&#39;s a digital advertising model where you pay a fee every
-                            time someone clicks on your ad. It&#39;s a cost-effective way to drive visitors to your
-                            website, and if done right, the benefits can be phenomenal!</p>
-                        <p>
-                            To make it easier, let&rsquo;s say you own a business website that you need to grow in this
-                            online world. SEO might look like an affordable option for this venture. But getting results
-                            takes time with SEO. If you have the time to survive in the market until you start getting
-                            organic results, you can go for this practice. Otherwise, PPC is another way you can choose
-                            to get the expected results.</p>
-
+                    <h1>
+			What is Player Card?</h1>
+		<p>
+			Twitter Player Card is a feature that lets you share your video or audio clips on Twitter with more impact and interactivity. You can use this feature to add rich media experiences to your tweets, along with other types of Twitter Cards that provide extra information and media. If you are a content creator, you may want to learn how to use this feature to boost your content on Twitter.</p>
+		
+			<img src="./img/blogimages/what-is-player-card.png"/>
+		<h2>
+			Key Features of Twitter Player Card</h2>
+		<p>
+			Here are some of the key features of a Twitter Player Card:</p>
+		<ul>
+			<li>
+				<strong>Title:</strong> The title of the card, which is typically the name of the game or video.</li>
+			<li>
+				<strong>Thumbnail Image: </strong>A thumbnail image of the game or video.</li>
+			<li>
+				<strong>Player Name:</strong> The name of the player who is featured in the card.</li>
+			<li>
+				<strong>Player Avatar:</strong> The avatar of the player who is featured in the card.</li>
+			<li>
+				<strong>Game Stats:</strong> A summary of the player&#39;s game stats, such as their score, rank, and time played.</li>
+			<li>
+				<strong>Call To Action:</strong> A button that allows users to view the player&#39;s profile or watch the game or video.</li>
+		</ul>
+		<p>
+			Twitter Player Cards can be used to promote games, videos, and other forms of digital content. They can also be used to showcase the skills and achievements of individual players.</p>
+	
                     </div>
                 </div>
 

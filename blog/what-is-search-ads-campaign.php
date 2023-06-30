@@ -62,18 +62,20 @@
                  
                         <h2>
                             There Are Three Kinds of Search Ads You Can Use:</h2>
-                        <p>
+                            <ul>
+                        <li>
                             <strong>Responsive Search Ads:</strong> These ads change depending on what people search for. They use
                             different headlines and descriptions to match the query. They&#39;re good for trying out
-                            different ways of saying things and seeing what works best.</p>
-                        <p>
+                            different ways of saying things and seeing what works best.</li>
+                        <li>
                             <strong>Call Ads:</strong> These ads have a phone number that people can click to call you. They&#39;re
                             perfect for businesses that need to talk to their customers, like restaurants, plumbers, or
-                            lawyers.</p>
-                        <p>
+                            lawyers.</li>
+                        <li>
                             <strong>Dynamic Search Ads:</strong> These ads are made by Google using your website content and a short
                             blurb that you write. They&#39;re useful for businesses that have a lot of content on their
-                            website and want to use that (and Google) to create new ads.</p>
+                            website and want to use that (and Google) to create new ads.</li>
+                            </ul>
                         <h2>
                             What You Need to Know Before Using Google Search Ads?</h2>
                         <p>

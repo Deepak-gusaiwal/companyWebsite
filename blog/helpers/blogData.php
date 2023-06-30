@@ -90,10 +90,52 @@ $blogs = [
     ],
     [   "category"=>"$seoCategoryName",
         "img" => "seo/4.png",
-        "url" => "google-generative-ai-a-helpful-feature.php",
+        "url" => "google-generative-ai-a-helpful-feature-for-local-business-owners.php",
         "date"=>"28 june 2023",
         "title" => "Google’s Generative AI..?",
         "excerpt" => "Generative AI, the upcoming breakthrough technology, is set to revolutionize the landscape for local business owners, providing them  "
+    ],
+    [   "category"=>"$seoCategoryName",
+        "img" => "seo/5.png",
+        "url" => "what-is-a-canonical-tag-and-how-does-it-help-seo.php",
+        "date"=>"29 june 2023",
+        "title" => "What Is a Canonical Tag..?",
+        "excerpt" => "A canonical tag, also known as &quot;rel canonical,&quot; is an HTML tag used in SEO (Search Engine Optimization) to indicate to search  "
+    ],
+    [   "category"=>"$seoCategoryName",
+        "img" => "seo/6.png",
+        "url" => "what-are-twitter-cards.php",
+        "date"=>"29 june 2023",
+        "title" => "What are Twitter Cards?",
+        "excerpt" => "Have you ever seen a tweet that has a photo, video, or some extra info attached to it? That’s a Twitter card. A Twitter Card is like a multimedia   "
+    ],
+    [   "category"=>"$seoCategoryName",
+        "img" => "seo/7.png",
+        "url" => "what-is-large-photo-summary-card.php",
+        "date"=>"29 june 2023",
+        "title" => "What is Large Photo..",
+        "excerpt" => "Do you love to share your stuff on Twitter? If you do, you may want to make your tweets pop with a big and beautiful image   "
+    ],
+    [   "category"=>"$seoCategoryName",
+        "img" => "seo/8.png",
+        "url" => "what-is-player-card.php",
+        "date"=>"29 june 2023",
+        "title" => "What is Player Card?",
+        "excerpt" => "Twitter Player Card is a feature that lets you share your video or audio clips on Twitter with more impact and interactivity   "
+    ],
+    [   "category"=>"$seoCategoryName",
+        "img" => "seo/9.png",
+        "url" => "what-is-twitter-app-card.php",
+        "date"=>"29 june 2023",
+        "title" => "What is Twitter App Card?",
+        "excerpt" => "Do you want to make your tweets stand out and get more people to download your mobile app? If yes, then you should try the Twitter App   "
+    ],
+    [   "category"=>"$seoCategoryName",
+        "img" => "seo/10.png",
+        "url" => "what-is-a-summary-twitter-card.php",
+        "date"=>"29 june 2023",
+        "title" => "What is a Summary Twitter Card?",
+        "excerpt" => "Do you like to share your stuff on Twitter? If you do, you may have seen some tweets that show a cool preview of the link they have   "
     ],
     // ===================GooleAds==================
     [   "category"=>"$googleAdsCategoryName",
@@ -123,6 +165,13 @@ $blogs = [
         "date"=>"28 june 2023",
         "title" => "What are Google Shopping Ads?",
         "excerpt" => "Have you ever wondered why we see a bunch of ads after we search for something on Google? Those right there are Google Shopping Ads "
+    ],
+    [   "category"=>"$googleAdsCategoryName",
+        "img" => "googleads/5.png",
+        "url" => "what-is-google-discovery-ad.php",
+        "date"=>"29 june 2023",
+        "title" => "What is Google Discovery Ad?",
+        "excerpt" => "Have you ever wondered how to reach more customers online without them having to search for you? Google Discovery Ads can help  "
     ],
     // ===============PPC====================
     [   "category"=>"$ppcCategoryName",
